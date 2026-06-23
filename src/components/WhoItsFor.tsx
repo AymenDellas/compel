@@ -39,7 +39,7 @@ const WhoItsFor = () => {
       {/* --- SECTION: THE GATEKEEPER (Who It's NOT For) --- */}
       <div className="flex flex-col lg:flex-row gap-16 lg:gap-24 relative">
         {/* Ambient background glow */}
-        <div className="absolute -inset-40 bg-[#1A0B0B] blur-[120px] rounded-full pointer-events-none" />
+        <div className="absolute -inset-40 bg-[#1A0B0B] blur-3xl rounded-full pointer-events-none" />
 
         {/* Left Column (Sticky) */}
         <div className="lg:w-[35%] lg:sticky top-32 h-fit">

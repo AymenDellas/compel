@@ -1,10 +1,11 @@
+import React, { Suspense } from 'react'
 import Hero from './components/Hero'
-import WhoItsFor from './components/WhoItsFor'
-import HowItWorks from './components/HowItWorks'
-import TheGuarantee from './components/TheGuarantee'
-import WhyCompel from './components/WhyCompel'
-import FAQ from './components/FAQ'
-import CTA from './components/CTA'
+const WhoItsFor = React.lazy(() => import('./components/WhoItsFor'))
+const HowItWorks = React.lazy(() => import('./components/HowItWorks'))
+const TheGuarantee = React.lazy(() => import('./components/TheGuarantee'))
+const WhyCompel = React.lazy(() => import('./components/WhyCompel'))
+const FAQ = React.lazy(() => import('./components/FAQ'))
+const CTA = React.lazy(() => import('./components/CTA'))
 
 const App = () => {
   return (
@@ -15,15 +16,19 @@ const App = () => {
       
       <main>
         <Hero />
-        <WhoItsFor />
-        <HowItWorks />
-        <TheGuarantee />
-        <WhyCompel />
-        <FAQ />
+        <Suspense fallback={null}>
+          <WhoItsFor />
+          <HowItWorks />
+          <TheGuarantee />
+          <WhyCompel />
+          <FAQ />
+        </Suspense>
       </main>
 
       <footer>
-        <CTA />
+        <Suspense fallback={null}>
+          <CTA />
+        </Suspense>
       </footer>
     </div>
   )

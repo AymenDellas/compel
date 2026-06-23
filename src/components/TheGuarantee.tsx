@@ -1,6 +1,27 @@
 const TheGuarantee = () => {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "The Unconditional Escrow",
+    "provider": {
+      "@type": "Organization",
+      "name": "Compel"
+    },
+    "description": "If your discovery calls don't increase by 30% in 30 days, our invoice is shredded. We rebuild your funnel and take 100% of the financial downside.",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "description": "$0 upfront, 30-day window, 100% financial downside covered."
+    }
+  };
+
   return (
     <section className="w-full bg-[#F8F9FA] text-black py-32 px-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
       <div className="max-w-4xl mx-auto flex flex-col items-center text-center">
         <h2 className="text-4xl md:text-6xl font-bold tracking-tighter mb-10 uppercase text-black">
           The Unconditional Escrow
@@ -31,19 +52,19 @@ const TheGuarantee = () => {
           </div>
 
           {/* Compel */}
-          <div className="flex flex-col gap-6 relative">
-            <h3 className="font-mono text-sm tracking-widest text-black uppercase border-b border-black pb-2 font-bold">
+          <div className="flex flex-col gap-6 relative bg-neutral-900 p-8 rounded-xl shadow-2xl">
+            <h3 className="font-mono text-sm tracking-widest text-white uppercase border-b border-neutral-700 pb-2 font-bold">
               Compel
             </h3>
-            <ul className="space-y-4 font-semibold text-lg text-black">
+            <ul className="space-y-4 font-semibold text-lg text-white">
               <li className="flex items-center gap-3">
-                <span className="text-[var(--color-accent)]">✓</span> $0 upfront
+                <span className="text-[#C8F135]">✓</span> $0 upfront
               </li>
               <li className="flex items-center gap-3">
-                <span className="text-[var(--color-accent)]">✓</span> 30-day window
+                <span className="text-[#C8F135]">✓</span> 30-day window
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-[var(--color-accent)] mt-1">✓</span> 
+                <span className="text-[#C8F135] mt-1">✓</span> 
                 <span>We take 100% of the financial downside.</span>
               </li>
             </ul>

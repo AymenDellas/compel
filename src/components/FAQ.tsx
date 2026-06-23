@@ -19,6 +19,23 @@ const FAQ = () => {
 
   return (
     <section className="py-32 px-6 max-w-3xl mx-auto">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: faqs.map((faq) => ({
+              "@type": "Question",
+              name: faq.q,
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: faq.a,
+              },
+            })),
+          }),
+        }}
+      />
       <div className="mb-12">
         <h2 className="text-3xl md:text-4xl font-semibold tracking-tight text-white mb-8 uppercase">
           Frequently Asked Questions
@@ -26,7 +43,7 @@ const FAQ = () => {
         
         <div className="relative group">
           <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <Search className="h-4 w-4 text-neutral-500 group-focus-within:text-accent transition-colors" />
+            <Search className="h-4 w-4 text-neutral-500 group-focus-within:text-accent transition-colors" aria-hidden="true" />
           </div>
           <Input
             id="faqSearch"
@@ -49,36 +66,38 @@ const FAQ = () => {
             const answerId = `faq-answer-${index}`;
             return (
               <div key={index} className="border-b border-neutral-900">
-                <button
-                  className="w-full text-left py-6 flex flex-col focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent group relative"
-                  onClick={() => setOpenIndex(isOpen ? null : index)}
-                  aria-expanded={isOpen}
-                  aria-controls={answerId}
-                >
-                  {isOpen && (
-                    <div className="absolute left-[-16px] md:left-[-24px] top-0 bottom-0 w-[2px] bg-accent shadow-[0_0_8px_var(--color-accent)]" />
-                  )}
-
-                  <div className={`text-lg font-medium transition-colors ${isOpen ? 'text-white' : 'text-neutral-400 group-hover:text-neutral-200'}`}>
-                    {faq.q}
-                  </div>
-                  
-                  <AnimatePresence>
+                <h3>
+                  <button
+                    className="w-full text-left py-6 flex flex-col focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent group relative"
+                    onClick={() => setOpenIndex(isOpen ? null : index)}
+                    aria-expanded={isOpen}
+                    aria-controls={answerId}
+                  >
                     {isOpen && (
-                      <motion.div 
-                        id={answerId}
-                        initial={{ height: 0, opacity: 0 }}
-                        animate={{ height: "auto", opacity: 1 }}
-                        exit={{ height: 0, opacity: 0 }}
-                        className="overflow-hidden"
-                      >
-                        <div className="pt-4 text-neutral-400 leading-relaxed text-base">
-                          {faq.a}
-                        </div>
-                      </motion.div>
+                      <div className="absolute left-[-16px] md:left-[-24px] top-0 bottom-0 w-[2px] bg-accent shadow-[0_0_8px_var(--color-accent)]" />
                     )}
-                  </AnimatePresence>
-                </button>
+
+                    <div className={`text-lg font-medium transition-colors ${isOpen ? 'text-white' : 'text-neutral-400 group-hover:text-neutral-200'}`}>
+                      {faq.q}
+                    </div>
+                    
+                    <AnimatePresence>
+                      {isOpen && (
+                        <motion.div 
+                          id={answerId}
+                          initial={{ height: 0, opacity: 0 }}
+                          animate={{ height: "auto", opacity: 1 }}
+                          exit={{ height: 0, opacity: 0 }}
+                          className="overflow-hidden"
+                        >
+                          <div className="pt-4 text-neutral-400 leading-relaxed text-base">
+                            {faq.a}
+                          </div>
+                        </motion.div>
+                      )}
+                    </AnimatePresence>
+                  </button>
+                </h3>
               </div>
             );
           })

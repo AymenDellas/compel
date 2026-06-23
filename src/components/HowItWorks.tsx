@@ -98,8 +98,11 @@ const HowItWorks = () => {
                         <div className="text-neutral-500 text-xs text-center max-w-[200px] relative z-10 mb-8">
                           "Our invoice sits in escrow until the dashboard hits your custom target."
                         </div>
-                        <button className="relative z-10 bg-white text-black px-8 py-3 rounded-full text-sm font-semibold hover:bg-neutral-200 transition-colors">
-                          Book a Consultation
+                        <button 
+                          onClick={() => document.getElementById('cta-section')?.scrollIntoView({ behavior: 'smooth' })}
+                          className="relative z-10 bg-white text-black px-8 py-3 rounded-full text-sm font-semibold hover:bg-neutral-200 transition-colors"
+                        >
+                          Book a Strategy Session
                         </button>
                       </div>
                     )}

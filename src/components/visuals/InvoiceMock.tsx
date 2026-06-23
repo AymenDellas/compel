@@ -50,7 +50,7 @@ export const InvoiceMock = () => {
                 transition={{ duration: 1.5, ease: "easeInOut" }}
                 d="M100,70 C140,70 160,10 200,5" stroke="var(--color-accent)" strokeWidth="3" fill="none" vectorEffect="non-scaling-stroke" />
               <motion.path 
-                initial={{ opacity: 0 }}
+                initial={{ opacity: 1 }}
                 whileInView={{ opacity: 0.3 }}
                 transition={{ duration: 1.5, delay: 0.5 }}
                 d="M100,70 C140,70 160,10 200,5 L200,100 L100,100 Z" fill="url(#greenGlow)" />

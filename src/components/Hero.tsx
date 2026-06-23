@@ -13,7 +13,7 @@ const Hero = () => {
       {/* Headline */}
       <h1 className="text-4xl sm:text-5xl md:text-[72px] lg:text-[84px] font-bold tracking-[-0.03em] leading-[1.05] text-center text-white max-w-5xl mb-6">
         Your calendar should be full.<br />
-        <span className="text-neutral-300">If it's not, your funnel is <span className="font-serif italic font-extralight text-accent">broken</span>.</span>
+        <span className="text-neutral-300">If it's not, your lead generation funnel is <span className="font-serif italic font-extralight text-accent">broken</span>.</span>
       </h1>
 
       {/* Subheadline */}
@@ -21,8 +21,8 @@ const Hero = () => {
         We refuse 80% of applicants. We exclusively engineer high-speed funnels for coaches with proven offers who can handle serious volume. If you want a pretty digital brochure, close this tab.
       </p>
 
-      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10">
-        Book Your Free Audit
+      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10" onClick={() => document.getElementById('cta-section')?.scrollIntoView({ behavior: 'smooth' })}>
+        Book Your Free Action Plan
       </Button>
 
       {/* Sub-line */}
@@ -35,7 +35,7 @@ const Hero = () => {
       {/* Hero Visual: Stripe Invoice Component Mock */}
       <div className="w-full max-w-4xl relative mt-4">
         {/* Subtle green radial glow */}
-        <div className="absolute inset-0 bg-accent/15 blur-[120px] rounded-full translate-y-8 pointer-events-none" />
+        <div className="absolute inset-0 bg-accent/15 blur-3xl rounded-full translate-y-8 pointer-events-none" />
         <InvoiceMock />
       </div>
     </section>

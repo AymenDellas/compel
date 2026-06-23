@@ -8,17 +8,27 @@ const CTA = () => {
   const [calls, setCalls] = useState('');
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = 'https://assets.calendly.com/assets/external/widget.js';
-    script.async = true;
-    document.body.appendChild(script);
+    const observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        const script = document.createElement('script');
+        script.src = 'https://assets.calendly.com/assets/external/widget.js';
+        script.async = true;
+        document.body.appendChild(script);
+        observer.disconnect();
+      }
+    }, { rootMargin: '200px' });
+
+    const section = document.getElementById('cta-section');
+    if (section) {
+      observer.observe(section);
+    }
 
     return () => {
-      document.body.removeChild(script);
+      observer.disconnect();
     };
   }, []);
 
-  const handleInitAudit = (e: React.FormEvent) => {
+  const handleInitActionPlan = (e: React.FormEvent) => {
     e.preventDefault();
     if (name && url && calls) {
       if ((window as any).Calendly) {
@@ -28,12 +38,12 @@ const CTA = () => {
         alert("Calendly widget is loading. Please try again in a moment.");
       }
     } else {
-      alert("Please fill out all fields to initialize the audit.");
+      alert("Please fill out all fields to initialize the action plan.");
     }
   };
 
   return (
-    <section className="relative w-full min-h-screen flex items-center justify-center pt-32 pb-48 px-6 overflow-hidden">
+    <section id="cta-section" className="relative w-full min-h-screen flex items-center justify-center pt-32 pb-48 px-6 overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,#0A1205_0%,#000000_70%)] z-0" />
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.02)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[size:32px_32px] opacity-20 z-0" />
 
@@ -43,13 +53,13 @@ const CTA = () => {
             Ready to scale?
           </h2>
           <p className="text-xl md:text-2xl text-neutral-400 font-medium max-w-xl mx-auto lg:mx-0">
-            Fill out the baseline specs below. We don't take on every project. If your offer isn't proven or your fulfillment can't handle a 30% surge in volume, we will reject your application. If we accept, you pay nothing upfront.
+            Fill out the baseline specs below. We don't take on every project. If your offer isn't proven or your fulfillment can't handle a 30% surge in volume, we will reject your inquiry. If we accept, you pay nothing upfront.
           </p>
         </div>
 
         <div className="flex-1 w-full max-w-md mx-auto lg:mx-0">
           <form 
-            onSubmit={handleInitAudit}
+            onSubmit={handleInitActionPlan}
             className="bg-[#0A0A0A] border border-neutral-800 rounded-3xl p-8 shadow-2xl relative"
           >
             <div className="absolute top-0 left-8 right-8 h-[1px] bg-gradient-to-r from-transparent via-accent to-transparent opacity-50" />
@@ -86,7 +96,7 @@ const CTA = () => {
               />
 
               <Button type="submit" variant="secondary" className="w-full mt-4 h-14 text-lg">
-                [ Initialize Funnel Audit <span className="ml-2">→</span> ]
+                [ Initialize Action Plan <span className="ml-2">→</span> ]
               </Button>
             </div>
             

@@ -1,11 +1,8 @@
 import React from 'react';
-import { motion } from 'framer-motion';
-import type { HTMLMotionProps } from 'framer-motion';
 
-interface ButtonProps extends HTMLMotionProps<"button"> {
+export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: 'primary' | 'secondary' | 'outline';
   size?: 'sm' | 'md' | 'lg';
-  children: React.ReactNode;
 }
 
 export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
@@ -25,14 +22,13 @@ export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
     };
 
     return (
-      <motion.button
+      <button
         ref={ref}
-
         className={`${baseStyles} ${variants[variant]} ${sizes[size]} ${className} cursor-pointer`}
         {...props}
       >
         {children}
-      </motion.button>
+      </button>
     );
   }
 );
