@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+import { m } from 'framer-motion';
 
 export const InvoiceMock = () => {
   return (
@@ -44,12 +44,12 @@ export const InvoiceMock = () => {
                 </linearGradient>
               </defs>
               <path d="M0,70 L100,70" stroke="#404040" strokeWidth="2.5" fill="none" vectorEffect="non-scaling-stroke" />
-              <motion.path 
+              <m.path 
                 initial={{ pathLength: 0 }}
                 whileInView={{ pathLength: 1 }}
                 transition={{ duration: 1.5, ease: "easeInOut" }}
                 d="M100,70 C140,70 160,10 200,5" stroke="var(--color-accent)" strokeWidth="3" fill="none" vectorEffect="non-scaling-stroke" />
-              <motion.path 
+              <m.path 
                 initial={{ opacity: 1 }}
                 whileInView={{ opacity: 0.3 }}
                 transition={{ duration: 1.5, delay: 0.5 }}
@@ -61,7 +61,7 @@ export const InvoiceMock = () => {
           <div className="absolute z-20 w-3 h-3 bg-[#0A0A0A] border-[2.5px] border-[#404040] rounded-full top-[70%] left-[0%] -translate-x-1/2 -translate-y-1/2" />
           <div className="absolute z-20 w-3 h-3 bg-[#0A0A0A] border-[2.5px] border-[#404040] rounded-full top-[70%] left-[50%] -translate-x-1/2 -translate-y-1/2" />
           
-          <motion.div 
+          <m.div 
             initial={{ scale: 0 }}
             whileInView={{ scale: 1 }}
             transition={{ delay: 1.5 }}
@@ -74,8 +74,8 @@ export const InvoiceMock = () => {
           <div className="absolute -left-10 top-[70%] -translate-y-1/2 text-[10px] font-mono text-neutral-500">0%</div>
 
           {/* Labels */}
-          <div className="absolute -bottom-8 left-[25%] -translate-x-1/2 text-xs font-medium text-neutral-500 whitespace-nowrap">Your baseline</div>
-          <div className="absolute -bottom-8 left-[75%] -translate-x-1/2 text-xs font-medium text-accent whitespace-nowrap">Compel execution</div>
+          <div className="absolute -bottom-8 left-[25%] -translate-x-1/2 text-xs font-medium text-neutral-500 whitespace-normal sm:whitespace-nowrap">Your baseline</div>
+          <div className="absolute -bottom-8 left-[75%] -translate-x-1/2 text-xs font-medium text-accent whitespace-normal sm:whitespace-nowrap">Compel execution</div>
       </div>
     </div>
   );

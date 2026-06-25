@@ -4,17 +4,17 @@ import { Card } from './ui/Card';
 
 const WhoItsFor = () => {
   return (
-    <section className="py-32 px-6 max-w-6xl mx-auto space-y-40">
+    <section className="py-20 space-y-20 md:py-32 md:space-y-40 px-6 max-w-6xl mx-auto">
       {/* --- SECTION: THE MIRROR (Who It's For) --- */}
       <div className="flex flex-col lg:flex-row gap-16 lg:gap-24 relative">
         {/* Left Column (Sticky) */}
         <div className="lg:w-[35%] lg:sticky top-32 h-fit">
           <div className="font-mono text-xs text-neutral-500 tracking-widest mb-6 uppercase">
-            01 / Target Profile
+            This is for...
           </div>
           <h2 className="text-4xl md:text-5xl font-semibold tracking-tight text-white leading-[1.1]">
-            You have the offer. <br />
-            <span className="text-neutral-500">You just don't have the plumbing.</span>
+            Coaches with proven offers <br className="hidden md:inline" />
+            <span className="text-neutral-500">ready to scale their inbound volume.</span>
           </h2>
         </div>
 
@@ -39,25 +39,25 @@ const WhoItsFor = () => {
       {/* --- SECTION: THE GATEKEEPER (Who It's NOT For) --- */}
       <div className="flex flex-col lg:flex-row gap-16 lg:gap-24 relative">
         {/* Ambient background glow */}
-        <div className="absolute -inset-40 bg-[#1A0B0B] blur-3xl rounded-full pointer-events-none" />
+        <div className="absolute -inset-40 bg-danger/10 blur-3xl rounded-full pointer-events-none opacity-30 z-0" />
 
         {/* Left Column (Sticky) */}
-        <div className="lg:w-[35%] lg:sticky top-32 h-fit">
-          <div className="font-mono text-xs text-[#E56B6B]/70 tracking-widest mb-6 uppercase">
-            02 / The Filter
+        <div className="lg:w-[35%] lg:sticky top-32 h-fit relative z-10">
+          <div className="font-mono text-xs text-danger/70 tracking-widest mb-6 uppercase">
+            This is NOT for...
           </div>
           <h2 className="text-4xl md:text-5xl font-semibold tracking-tight text-white leading-[1.1]">
-            If any of these apply, <br />
-            <span className="text-[#E56B6B]/80">please close this tab.</span>
+            If any of these apply, <br className="hidden md:inline" />
+            <span className="text-danger/80">we are not a good fit.</span>
           </h2>
         </div>
 
         {/* Right Column */}
-        <div className="lg:w-[65%] flex flex-col gap-6">
+        <div className="lg:w-[65%] flex flex-col gap-6 relative z-10">
           {filterProfiles.map((profile, index) => (
-            <div key={index} className="relative bg-[#080303] border border-[#2A1111] rounded-2xl p-8 md:p-10 transition-opacity duration-300 shadow-[inset_0_1px_0_rgba(255,255,255,0.02)]">
-              <X aria-hidden="true" className="absolute top-6 right-6 text-[#E56B6B]/30 w-6 h-6" />
-              <div className="font-mono text-sm text-[#E56B6B]/80 mb-3">
+            <div key={index} className="relative bg-danger/5 border border-danger/20 rounded-2xl p-8 md:p-10 transition-opacity duration-300 shadow-[inset_0_1px_0_rgba(255,255,255,0.02)]">
+              <X aria-hidden="true" className="absolute top-6 right-6 text-danger/30 w-6 h-6" />
+              <div className="font-mono text-sm text-danger/80 mb-3">
                 {profile.title}
               </div>
               <p className="text-lg text-neutral-400 leading-relaxed pr-8">

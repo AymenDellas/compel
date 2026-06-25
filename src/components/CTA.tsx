@@ -31,9 +31,9 @@ const CTA = () => {
   const handleInitActionPlan = (e: React.FormEvent) => {
     e.preventDefault();
     if (name && url && calls) {
-      if ((window as any).Calendly) {
+      if (window.Calendly) {
         const calendlyUrl = `https://calendly.com/compel/audit?name=${encodeURIComponent(name)}&a1=${encodeURIComponent(url)}&a2=${encodeURIComponent(calls)}`;
-        (window as any).Calendly.initPopupWidget({ url: calendlyUrl });
+        window.Calendly.initPopupWidget({ url: calendlyUrl });
       } else {
         alert("Calendly widget is loading. Please try again in a moment.");
       }
@@ -101,7 +101,7 @@ const CTA = () => {
             </div>
             
             <div className="mt-6 text-center">
-               <span className="text-[10px] text-neutral-600 font-mono uppercase tracking-widest">
+               <span className="text-[10px] text-neutral-400 font-mono uppercase tracking-widest">
                  Secured via Calendly API
                </span>
             </div>

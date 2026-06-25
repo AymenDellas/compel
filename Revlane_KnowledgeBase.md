@@ -1,7 +1,7 @@
-# Revlane — Business Knowledge Base
+# Compel — Business Knowledge Base
 
-## 1. What Revlane Is
-Revlane is a performance-based funnel agency targeting coaches. It builds complete conversion funnels — landing pages, nurture email sequences, and booking flows — and charges nothing upfront. The flat fee is triggered only when discovery call bookings increase by 30%+ over a 30-day baseline. This is the core value proposition: zero financial risk for the client, skin in the game for you.
+## 1. What Compel Is
+Compel is a performance-based funnel agency targeting coaches. It builds complete conversion funnels — landing pages, nurture email sequences, and booking flows — and charges nothing upfront. The flat fee is triggered only when discovery call bookings increase by 30%+ over a 30-day baseline. This is the core value proposition: zero financial risk for the client, skin in the game for you.
 **Current status:** Pre-revenue. First client not yet closed. Outreach is live and ongoing.
 
 ## 2. Target Market
@@ -88,8 +88,8 @@ Built as HTML artifacts using Anthropic API (Claude Sonnet 4):
 - **Pricing validation:** Not validated — no paying client yet.
 
 ## 11. Personal Brand (Planned)
-- **Phase 1 (Algerian account):** Instagram (Darija). Documenting the Revlane build, marketing education, mindset.
-- **Phase 2 (English account):** Tied directly to Revlane brand (Launched after Phase 1 has traction and results).
+- **Phase 1 (Algerian account):** Instagram (Darija). Documenting the Compel build, marketing education, mindset.
+- **Phase 2 (English account):** Tied directly to Compel brand (Launched after Phase 1 has traction and results).
 
 ## Summary Snapshot
-Revlane is a zero-upfront funnel agency for coaches, built on a performance model that removes financial risk for clients. The offer is technically sound and differentiated. The infrastructure — outreach, lead pipeline, CRM, automation — is largely built. The only thing separating current state from revenue is one closed deal, which the free case study campaign is designed to unlock. Everything downstream (pricing validation, case studies, referrals, brand) depends on that first result.
+Compel is a zero-upfront funnel agency for coaches, built on a performance model that removes financial risk for clients. The offer is technically sound and differentiated. The infrastructure — outreach, lead pipeline, CRM, automation — is largely built. The only thing separating current state from revenue is one closed deal, which the free case study campaign is designed to unlock. Everything downstream (pricing validation, case studies, referrals, brand) depends on that first result.

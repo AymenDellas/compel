@@ -18,7 +18,7 @@ export const Input = React.forwardRef<HTMLInputElement, InputProps>(
           name={name}
           aria-invalid={ariaInvalid}
           ref={ref}
-          className={`w-full bg-[#0A0A0A] border border-neutral-800 text-white rounded-lg px-4 py-3 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-all placeholder:text-neutral-500 ${className}`}
+          className={`w-full bg-background border border-neutral-800 text-text rounded-lg px-4 py-3 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors placeholder:text-neutral-500 ${className}`}
           {...props}
         />
       </div>

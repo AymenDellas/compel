@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import { Search } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
 import { faqs } from '../data/content';
 import { Input } from './ui/Input';
+import { Accordion } from './ui/Accordion';
+import { AccordionItem } from './ui/AccordionItem';
 
 const FAQ = () => {
   const [search, setSearch] = useState('');
-  const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   const filteredFaqs = faqs.filter(faq => {
     const term = search.toLowerCase();
@@ -57,52 +57,17 @@ const FAQ = () => {
         </div>
       </div>
 
-      <div className="flex flex-col border-t border-neutral-900">
+      <Accordion className="border-t border-neutral-900">
         {filteredFaqs.length === 0 ? (
           <div className="py-8 text-neutral-500 font-mono text-sm">No matching queries found.</div>
         ) : (
-          filteredFaqs.map((faq, index) => {
-            const isOpen = openIndex === index;
-            const answerId = `faq-answer-${index}`;
-            return (
-              <div key={index} className="border-b border-neutral-900">
-                <h3>
-                  <button
-                    className="w-full text-left py-6 flex flex-col focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent group relative"
-                    onClick={() => setOpenIndex(isOpen ? null : index)}
-                    aria-expanded={isOpen}
-                    aria-controls={answerId}
-                  >
-                    {isOpen && (
-                      <div className="absolute left-[-16px] md:left-[-24px] top-0 bottom-0 w-[2px] bg-accent shadow-[0_0_8px_var(--color-accent)]" />
-                    )}
-
-                    <div className={`text-lg font-medium transition-colors ${isOpen ? 'text-white' : 'text-neutral-400 group-hover:text-neutral-200'}`}>
-                      {faq.q}
-                    </div>
-                    
-                    <AnimatePresence>
-                      {isOpen && (
-                        <motion.div 
-                          id={answerId}
-                          initial={{ height: 0, opacity: 0 }}
-                          animate={{ height: "auto", opacity: 1 }}
-                          exit={{ height: 0, opacity: 0 }}
-                          className="overflow-hidden"
-                        >
-                          <div className="pt-4 text-neutral-400 leading-relaxed text-base">
-                            {faq.a}
-                          </div>
-                        </motion.div>
-                      )}
-                    </AnimatePresence>
-                  </button>
-                </h3>
-              </div>
-            );
-          })
+          filteredFaqs.map((faq, index) => (
+            <AccordionItem key={index} index={index} title={faq.q}>
+              {faq.a}
+            </AccordionItem>
+          ))
         )}
-      </div>
+      </Accordion>
     </section>
   );
 };
