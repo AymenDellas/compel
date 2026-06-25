@@ -1,4 +1,4 @@
-import { useState, ReactNode, createContext, useContext } from 'react';
+import { useState, type ReactNode, createContext, useContext } from 'react';
 
 interface AccordionContextType {
   openIndex: number | null;

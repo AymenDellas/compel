@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import { type ReactNode } from 'react';
 import { m, AnimatePresence } from 'framer-motion';
 import { useAccordion } from './Accordion';
 
