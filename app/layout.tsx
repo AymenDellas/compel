@@ -19,17 +19,17 @@ export const metadata: Metadata = {
   description:
     'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
   alternates: {
-    canonical: 'https://compel.co/',
+    canonical: 'https://getcompel.co/',
   },
   openGraph: {
     title: 'Compel | Performance-Based Acquisition for Coaches',
     description:
       'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
     type: 'website',
-    url: 'https://compel.co/',
+    url: 'https://getcompel.co/',
     images: [
       {
-        url: 'https://compel.co/og-image.jpg',
+        url: 'https://getcompel.co/og-image.jpg',
       },
     ],
   },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: 'Compel | Performance-Based Acquisition for Coaches',
     description:
       'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
-    images: ['https://compel.co/twitter-image.jpg'],
+    images: ['https://getcompel.co/twitter-image.jpg'],
   },
   icons: {
     icon: '/favicon.svg',
@@ -56,6 +56,26 @@ export default function RootLayout({
         className={`bg-background text-text ${outfit.variable} ${firaCode.variable} ${outfit.className}`}
       >
         {children}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ProfessionalService",
+              "name": "Compel",
+              "url": "https://getcompel.co",
+              "description": "Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.",
+              "priceRange": "$0",
+              "image": "https://getcompel.co/og-image.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "description": "$0 upfront, 30-day window, 100% financial downside covered."
+              }
+            })
+          }}
+        />
       </body>
     </html>
   );
