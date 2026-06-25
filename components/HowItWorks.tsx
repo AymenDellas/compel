@@ -1,3 +1,5 @@
+"use client";
+
 import { useRef, useEffect } from 'react';
 import { m, animate } from 'framer-motion';
 import { timelineSteps } from '../data/content';
@@ -97,7 +99,7 @@ const HowItWorks = () => {
                           $<Counter from={5000} to={0} /><span className="text-neutral-400">.00</span>
                         </div>
                         <div className="text-neutral-500 text-xs text-center max-w-[200px] relative z-10 mb-8">
-                          "Our invoice sits in escrow until the dashboard hits your custom target."
+                          &quot;Our invoice sits in escrow until the dashboard hits your custom target.&quot;
                         </div>
                         <Button 
                           variant="secondary"

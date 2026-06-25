@@ -1,3 +1,5 @@
+"use client";
+
 import { InvoiceMock } from './visuals/InvoiceMock';
 import { Button } from './ui/Button';
 
@@ -13,7 +15,7 @@ const Hero = () => {
       {/* Headline */}
       <h1 className="text-4xl sm:text-5xl md:text-[72px] lg:text-[84px] font-bold tracking-[-0.03em] leading-[1.05] text-center text-text max-w-5xl mb-6">
         Your calendar should be full.<br />
-        <span className="text-neutral-300">If it's not, your lead generation funnel is <span className="font-serif italic font-extralight text-accent">broken</span>.</span>
+        <span className="text-neutral-300">If it&apos;s not, your lead generation funnel is <span className="font-serif italic font-extralight text-accent">broken</span>.</span>
       </h1>
 
       {/* Subheadline */}

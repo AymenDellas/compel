@@ -1,3 +1,5 @@
+"use client";
+
 const TheGuarantee = () => {
   const schema = {
     "@context": "https://schema.org",
@@ -28,7 +30,7 @@ const TheGuarantee = () => {
         </h2>
         
         <p className="text-xl md:text-2xl font-medium leading-relaxed max-w-3xl mb-16 text-neutral-800">
-          "We can only offer this because we brutally filter out weak businesses. We do not ask for a 3-month commitment. If you pass our initial audit, we rebuild your funnel and take 100% of the financial downside. If your discovery calls don't increase by 30% in 30 days, our invoice is shredded."
+          &quot;We can only offer this because we brutally filter out weak businesses. We do not ask for a 3-month commitment. If you pass our initial audit, we rebuild your funnel and take 100% of the financial downside. If your discovery calls don&apos;t increase by 30% in 30 days, our invoice is shredded.&quot;
         </p>
 
         <div className="w-full grid md:grid-cols-2 gap-8 md:gap-12 border-t border-neutral-300 pt-16 text-left">
@@ -46,7 +48,7 @@ const TheGuarantee = () => {
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-neutral-400 mt-1">✕</span> 
-                <span>They blame the "algorithm" if it fails.</span>
+                <span>They blame the &quot;algorithm&quot; if it fails.</span>
               </li>
             </ul>
           </div>

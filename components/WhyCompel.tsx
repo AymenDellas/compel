@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useEffect } from 'react';
 import { Card } from './ui/Card';
 
@@ -84,11 +86,11 @@ const WhyCompel = () => {
           <div className="mb-12 relative z-10">
             <h3 className="text-2xl font-semibold text-white mb-4">Zero Account Managers.</h3>
             <p className="text-neutral-400 leading-relaxed">
-              You don't get handed off to a 23-year-old 'Client Success Lead' who reads off a script. You interface directly with the engineers building your pipeline.
+              You don&apos;t get handed off to a 23-year-old &apos;Client Success Lead&apos; who reads off a script. You interface directly with the engineers building your pipeline.
             </p>
           </div>
           <div className="font-mono text-xs text-neutral-400 tracking-widest uppercase relative z-10">
-            // Direct Comm Channel
+            {"// Direct Comm Channel"}
           </div>
         </Card>
 
@@ -101,7 +103,7 @@ const WhyCompel = () => {
             </div>
           </div>
           <div className="font-mono text-xs text-neutral-400 tracking-widest uppercase relative z-10">
-            // Data-Driven Iteration
+            {"// Data-Driven Iteration"}
           </div>
         </Card>
 

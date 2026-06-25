@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useEffect } from 'react';
 import { Button } from './ui/Button';
 import { Input } from './ui/Input';
@@ -53,7 +55,7 @@ const CTA = () => {
             Ready to scale?
           </h2>
           <p className="text-xl md:text-2xl text-neutral-400 font-medium max-w-xl mx-auto lg:mx-0">
-            Fill out the baseline specs below. We don't take on every project. If your offer isn't proven or your fulfillment can't handle a 30% surge in volume, we will reject your inquiry. If we accept, you pay nothing upfront.
+            Fill out the baseline specs below. We don&apos;t take on every project. If your offer isn&apos;t proven or your fulfillment can&apos;t handle a 30% surge in volume, we will reject your inquiry. If we accept, you pay nothing upfront.
           </p>
         </div>
 

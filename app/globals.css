@@ -5,8 +5,8 @@
   --color-text: #F0EFE9;
   --color-accent: #C8F135;
   --color-danger: #E56B6B;
-  --font-sans: 'Outfit', sans-serif;
-  --font-mono: 'Fira Code', monospace;
+  --font-sans: var(--font-outfit), 'Outfit', sans-serif;
+  --font-mono: var(--font-fira-code), 'Fira Code', monospace;
   --font-serif: 'DM Serif Display', serif;
 }
 
