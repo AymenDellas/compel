@@ -45,6 +45,8 @@ export const metadata: Metadata = {
   },
 };
 
+import { MotionProvider } from '../components/MotionProvider';
+
 export default function RootLayout({
   children,
 }: {
@@ -55,7 +57,9 @@ export default function RootLayout({
       <body
         className={`bg-background text-text ${outfit.variable} ${firaCode.variable} ${outfit.className}`}
       >
-        {children}
+        <MotionProvider>
+          {children}
+        </MotionProvider>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

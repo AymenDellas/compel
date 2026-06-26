@@ -1,7 +1,7 @@
 import { Suspense } from 'react'
 import type { Metadata } from 'next'
 import { getAllNiches } from '../../../lib/niches'
-import Hero from '../../../components/Hero'
+import NicheHero from '../../../components/NicheHero'
 import WhoItsFor from '../../../components/WhoItsFor'
 import HowItWorks from '../../../components/HowItWorks'
 import TheGuarantee from '../../../components/TheGuarantee'
@@ -61,7 +61,7 @@ export default async function Page({ params }: Props) {
       
       <main>
         <header>
-          <Hero niche={niche} />
+          <NicheHero niche={niche} />
         </header>
         <Suspense fallback={<div className="animate-pulse h-32 bg-neutral-900/50 rounded-xl my-8 w-full max-w-4xl mx-auto"></div>}>
           <WhoItsFor />
