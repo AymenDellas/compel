@@ -1,6 +1,7 @@
 "use client";
 
 import React from 'react';
+import Link from 'next/link';
 
 export const Navbar = () => {
   return (
@@ -11,7 +12,7 @@ export const Navbar = () => {
         <div className="absolute inset-x-0 top-0 h-[1px] bg-gradient-to-r from-transparent via-text/10 to-transparent rounded-t-full" />
 
         {/* Logo Section */}
-        <a 
+        <Link 
           href="/"
           className="relative z-10 flex items-center cursor-pointer transition-opacity hover:opacity-70"
           aria-label="Home"
@@ -23,7 +24,7 @@ export const Navbar = () => {
             </text>
             <circle cx="264" cy="72" r="8" fill="#C8F135" />
           </svg>
-        </a>
+        </Link>
 
         {/* CTA Button */}
         <div className="flex items-center">
