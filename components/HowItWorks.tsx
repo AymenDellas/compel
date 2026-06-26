@@ -41,8 +41,8 @@ const HowItWorks = () => {
       <div className="grid grid-cols-1 gap-12">
         {timelineSteps.map((step, index) => {
           return (
-            <m.div 
-              key={step.id} 
+            <m.div
+              key={step.id}
               className="relative group"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -54,7 +54,7 @@ const HowItWorks = () => {
                     <h3 className="text-3xl text-white font-semibold mb-4">{step.title}</h3>
                     <p className="text-neutral-400 text-lg">{step.description}</p>
                   </div>
-                  
+
                   <div className="flex-1 w-full flex items-center justify-center min-h-[200px]">
                     {index === 0 && (
                       <div className="w-full bg-neutral-950 rounded-xl border border-neutral-800 p-6 flex items-center justify-center relative min-h-[200px]">
@@ -65,7 +65,7 @@ const HowItWorks = () => {
                           <div className="relative mt-6">
                             <div className="w-full h-12 bg-neutral-800 rounded-sm border-2 border-red-500/50" />
                             <div className="absolute -top-10 -right-4 md:-right-12 bg-red-500 text-white text-[10px] font-mono px-3 py-1.5 rounded shadow-lg">
-                               Drop-off rate: 78%<br/>→ Fix identified
+                              Drop-off rate: 78%<br />→ Fix identified
                               <div className="absolute -bottom-1 left-4 w-2 h-2 bg-red-500 rotate-45" />
                             </div>
                           </div>
@@ -102,13 +102,7 @@ const HowItWorks = () => {
                         <div className="text-neutral-500 text-xs text-center max-w-[200px] relative z-10 mb-8">
                           &quot;Our invoice sits in escrow until the dashboard hits your custom target.&quot;
                         </div>
-                        <Button 
-                          variant="secondary"
-                          onClick={() => document.getElementById('cta-section')?.scrollIntoView({ behavior: 'smooth' })}
-                          className="relative z-10 rounded-full text-sm font-semibold px-8 py-3"
-                        >
-                          Book a Consultation
-                        </Button>
+
                       </div>
                     )}
                   </div>

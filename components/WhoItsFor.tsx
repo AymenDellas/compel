@@ -3,6 +3,7 @@
 import { X } from 'lucide-react';
 import { targetProfiles, filterProfiles } from '../data/content';
 import { Card } from './ui/Card';
+import { Button } from './ui/Button';
 
 const WhoItsFor = () => {
   return (
@@ -26,7 +27,7 @@ const WhoItsFor = () => {
             <Card key={index} hoverEffect className="group transition-all duration-300">
               {/* Left Border Light-Up */}
               <div className="absolute left-[-1px] top-4 bottom-4 w-[2px] bg-accent opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-[0_0_12px_var(--color-accent)]" />
-              
+
               <div className="font-mono text-sm text-accent mb-4 bg-accent/10 w-fit px-3 py-1 rounded">
                 [ Specificity: {profile.specificity} ]
               </div>
@@ -69,6 +70,12 @@ const WhoItsFor = () => {
             </Card>
           ))}
         </div>
+      </div>
+
+      <div className="flex justify-center pt-16 relative z-10">
+        <Button size="lg" className="rounded-full font-bold text-lg px-10" onClick={() => window.open('https://calendly.com/dellasaymen/discovery-call-revlane', '_blank')}>
+          Book Your Free Discovery Call
+        </Button>
       </div>
     </section>
   );

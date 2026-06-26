@@ -1,5 +1,7 @@
 "use client";
 
+import { Button } from './ui/Button';
+
 const TheGuarantee = () => {
   const schema = {
     "@context": "https://schema.org",
@@ -28,7 +30,7 @@ const TheGuarantee = () => {
         <h2 className="text-4xl md:text-6xl font-bold tracking-tighter mb-10 uppercase text-black">
           The Unconditional Escrow
         </h2>
-        
+
         <p className="text-xl md:text-2xl font-medium leading-relaxed max-w-3xl mb-16 text-neutral-800">
           &quot;We can only offer this because we brutally filter out weak businesses. We do not ask for a 3-month commitment. If you pass our initial audit, we rebuild your funnel and take 100% of the financial downside. If your discovery calls don&apos;t increase by 30% in 30 days, our invoice is shredded.&quot;
         </p>
@@ -47,7 +49,7 @@ const TheGuarantee = () => {
                 <span className="text-neutral-400">✕</span> 3-month lock-in
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-neutral-400 mt-1">✕</span> 
+                <span className="text-neutral-400 mt-1">✕</span>
                 <span>They blame the &quot;algorithm&quot; if it fails.</span>
               </li>
             </ul>
@@ -66,11 +68,17 @@ const TheGuarantee = () => {
                 <span className="text-[#C8F135]">✓</span> 30-day window
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-[#C8F135] mt-1">✓</span> 
+                <span className="text-[#C8F135] mt-1">✓</span>
                 <span>We take 100% of the financial downside.</span>
               </li>
             </ul>
           </div>
+        </div>
+
+        <div className="w-full flex justify-center pt-16">
+          <Button size="lg" className="rounded-full font-bold text-lg px-10 shadow-2xl" onClick={() => window.open('https://calendly.com/dellasaymen/discovery-call-revlane', '_blank')}>
+            Book Your Free Discovery Call
+          </Button>
         </div>
       </div>
     </section>

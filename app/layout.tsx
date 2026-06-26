@@ -46,6 +46,7 @@ export const metadata: Metadata = {
 };
 
 import { MotionProvider } from '../components/MotionProvider';
+import { Navbar } from '../components/Navbar';
 
 export default function RootLayout({
   children,
@@ -58,6 +59,7 @@ export default function RootLayout({
         className={`bg-background text-text ${outfit.variable} ${firaCode.variable} ${outfit.className}`}
       >
         <MotionProvider>
+          <Navbar />
           {children}
         </MotionProvider>
         <script

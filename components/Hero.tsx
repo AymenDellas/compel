@@ -23,7 +23,7 @@ const Hero = () => {
         We refuse 80% of applicants. We exclusively engineer high-speed funnels for coaches with proven offers who can handle serious volume. If you want a pretty digital brochure, close this tab.
       </p>
 
-      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10" onClick={() => document.getElementById('cta-section')?.scrollIntoView({ behavior: 'smooth' })}>
+      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10" onClick={() => window.open('https://calendly.com/dellasaymen/discovery-call-revlane', '_blank')}>
         Book Your Free Discovery Call
       </Button>
 

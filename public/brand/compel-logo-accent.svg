@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;700&amp;display=swap');
+      .font-light { font-family: 'Outfit', sans-serif; font-weight: 100; font-size: 72px; letter-spacing: -0.02em; }
+      .font-bold { font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 72px; letter-spacing: -0.02em; }
+    </style>
+  </defs>
+  
+
+  <text x="47%" y="50%" dominant-baseline="central" text-anchor="middle">
+    <tspan class="font-light" fill="#FFFFFF">com</tspan><tspan class="font-bold" fill="#C8F135">pel</tspan>
+  </text>
+  <circle cx="254" cy="62" r="8" fill="#C8F135" />
+</svg>
