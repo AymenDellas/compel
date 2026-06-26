@@ -54,7 +54,7 @@ const WhyCompel = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
         <Card className="md:col-span-2 rounded-3xl md:p-12 flex flex-col lg:flex-row gap-8 items-center">
           <div className="flex-1 z-10">
-            <h3 className="text-2xl md:text-3xl font-semibold text-white mb-4 leading-tight">If you want to debate color palettes on weekly Zoom calls, hire a traditional agency.<br/><span className="text-accent">We build execution engines.</span></h3>
+            <h3 className="text-2xl md:text-3xl font-semibold text-white mb-4 leading-tight">If you want to debate color palettes on weekly Zoom calls, hire a traditional agency.<br/><span className="text-accent">We are a math problem.</span></h3>
           </div>
           <div className="flex-1 w-full flex flex-col md:flex-row h-auto md:h-64 rounded-xl border border-white/10 overflow-hidden relative">
             <div className="w-full md:w-1/2 h-32 md:h-full bg-gradient-to-br from-neutral-900 to-neutral-950 flex flex-col p-4 gap-3 opacity-60">

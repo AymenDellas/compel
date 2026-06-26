@@ -40,7 +40,7 @@ const CTA = () => {
         alert("Calendly widget is loading. Please try again in a moment.");
       }
     } else {
-      alert("Please fill out all fields to initialize the action plan.");
+      alert("Please fill out all fields to initialize the audit.");
     }
   };
 
@@ -55,7 +55,7 @@ const CTA = () => {
             Ready to scale?
           </h2>
           <p className="text-xl md:text-2xl text-neutral-400 font-medium max-w-xl mx-auto lg:mx-0">
-            Fill out the baseline specs below. We don&apos;t take on every project. If your offer isn&apos;t proven or your fulfillment can&apos;t handle a 30% surge in volume, we will reject your inquiry. If we accept, you pay nothing upfront.
+            Fill out the baseline specs below. We don&apos;t take on every project. If your offer isn&apos;t proven or your fulfillment can&apos;t handle a 30% surge in volume, we will reject your application. If we accept, you pay nothing upfront.
           </p>
         </div>
 
@@ -98,7 +98,7 @@ const CTA = () => {
               />
 
               <Button type="submit" variant="secondary" className="w-full mt-4 h-14 text-lg">
-                [ Initialize Action Plan <span className="ml-2">→</span> ]
+                [ Initialize Funnel Audit <span className="ml-2">→</span> ]
               </Button>
             </div>
             

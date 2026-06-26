@@ -1,17 +1,18 @@
 "use client";
 
 import { useRef, useEffect } from 'react';
-import { m, animate } from 'framer-motion';
+import { m, animate, useInView } from 'framer-motion';
 import { timelineSteps } from '../data/content';
 import { Card } from './ui/Card';
 import { Button } from './ui/Button';
 
 const Counter = ({ from, to }: { from: number; to: number }) => {
   const nodeRef = useRef<HTMLSpanElement>(null);
+  const isInView = useInView(nodeRef);
 
   useEffect(() => {
     const node = nodeRef.current;
-    if (node) {
+    if (node && isInView) {
       const controls = animate(from, to, {
         duration: 2,
         onUpdate(value) {
@@ -20,7 +21,7 @@ const Counter = ({ from, to }: { from: number; to: number }) => {
       });
       return () => controls.stop();
     }
-  }, [from, to]);
+  }, [from, to, isInView]);
 
   return <span ref={nodeRef} />;
 };
@@ -83,7 +84,7 @@ const HowItWorks = () => {
                           <div className="absolute -bottom-3 left-1/2 w-[1px] h-3 bg-neutral-700" />
                         </div>
                         <div className="bg-accent/10 border border-accent/50 px-4 py-3 rounded text-accent text-center relative font-bold shadow-[0_0_15px_rgba(200,241,53,0.1)]">
-                          [ Frictionless Call ]
+                          [ Frictionless Cal ]
                           <div className="absolute -bottom-3 left-1/2 w-[1px] h-3 bg-neutral-700" />
                         </div>
                         <div className="bg-neutral-900 border border-neutral-700 px-4 py-3 rounded text-neutral-300 text-center">
@@ -106,7 +107,7 @@ const HowItWorks = () => {
                           onClick={() => document.getElementById('cta-section')?.scrollIntoView({ behavior: 'smooth' })}
                           className="relative z-10 rounded-full text-sm font-semibold px-8 py-3"
                         >
-                          Book a Strategy Session
+                          Book a Consultation
                         </Button>
                       </div>
                     )}

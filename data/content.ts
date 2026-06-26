@@ -16,7 +16,7 @@ export const faqs = [
   },
   {
     q: "How long does the setup take?",
-    a: "The baseline action plan takes 1-3 days. The infrastructure is built within days 4-14. The 30-day performance window begins immediately after launch.",
+    a: "The baseline audit takes 1-3 days. The infrastructure is built within days 4-14. The 30-day performance window begins immediately after launch.",
     keywords: ["time", "setup", "timeline", "long"]
   },
   {
@@ -35,7 +35,7 @@ export const timelineSteps = [
   {
     id: "01",
     days: "Days 01–03",
-    title: "The Baseline Action Plan",
+    title: "The Baseline Audit",
     description: "We diagnose the exact friction points in your current funnel before writing a single line of code.",
   },
   {
