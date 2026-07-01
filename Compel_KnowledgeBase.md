@@ -1,14 +1,15 @@
 # Compel — Business Knowledge Base
 
 ## 1. What Compel Is
-Compel is a performance-based funnel agency targeting coaches. It builds complete conversion funnels — landing pages, nurture email sequences, and booking flows — and charges nothing upfront. The flat fee is triggered only when discovery call bookings increase by 30%+ over a 30-day baseline. This is the core value proposition: zero financial risk for the client, skin in the game for you.
+Compel is a performance-based funnel agency targeting executive and business coaches. It builds complete conversion funnels — landing pages, nurture email sequences, and booking flows — and charges nothing upfront. Clients only pay if discovery call bookings increase. The performance guarantee is the actual offer; the funnel is the delivery mechanism. This is the core value proposition: zero financial risk for the client, skin in the game for you.
 **Current status:** Pre-revenue. First client not yet closed. Outreach is live and ongoing.
 
 ## 2. Target Market
-- **Vertical:** Business, life, career, and executive coaches.
+- **Vertical:** Executive and business coaches (primary). Life and career coaches (secondary).
 - **Geography:** English-speaking markets — US, UK, Canada.
 - **ICP Title Logic:**
-  - **Include:** Any title containing the word "Coach" (business coach, life coach, executive coach, career coach, leadership coach, etc.)
+  - **Include (primary):** Executive coach, business coach, leadership coach
+  - **Include (secondary):** Life coach, career coach — if strong qualifying signals present
   - **Exclude:** Founder, CEO, Consultant — unless paired explicitly with "Coach"
 - **Qualifying Signals (LinkedIn-based):**
   - Active on LinkedIn within the last 30 days
@@ -22,10 +23,9 @@ Each template is a full conversion funnel (page copy + design, nurture email seq
 3. **Lead Magnet:** Opt-in funnel: freebie → email nurture → call booking. (For coaches with cold or awareness-stage audiences)
 
 ## 4. Pricing
-- **Single Direct-to-Call page:** $600
-- **Full funnel (all components):** $1,200–$1,500
+- **Full funnel (all components):** $1,500–$3,000
 - **Upfront cost to client:** $0
-- **Trigger for payment:** 30%+ increase in discovery call bookings over 30-day baseline.
+- **Trigger for payment:** Discovery call bookings increase.
 *(The performance model eliminates the "I don't know if this will work" objection).*
 
 ## 5. Cold Outreach System
@@ -42,12 +42,14 @@ Each template is a full conversion funnel (page copy + design, nurture email seq
 ## 6. Lead Generation Pipeline
 A chained, semi-automated pipeline that goes from raw LinkedIn search to qualified leads in Google Sheets.
 **Pipeline Chain:**
-1. **Lead Finder (Next.js + SerpAPI):** Takes Boolean LinkedIn search queries with geoUrn, outputs raw lead list with LinkedIn profiles and website URLs.
-2. **Python Qualifier (leads_qualifierV2):** Filters by 30-day LinkedIn activity. Scrapes public profiles (via Googlebot UA) and deduplicates against the 'All Leads' sheet.
-3. **Email Verification:** Built directly inside the lead qualifier project.
-4. **Hook Generator (scraper/extractor.py):** Uses Groq (Llama 3.3 70B) as primary, Cerebras as fallback, to generate personalized `{"hook": "..."}` JSON.
-5. **Google Sheets CRM:** n8n writes the qualified leads + hooks here.
-6. **Instantly Import:** For outreach.
+1. **Lead Finder (Python Flask + Serper API):** Fully automated discovery engine that dynamically generates 900+ boolean queries combining niches (e.g., Executive Coach) with 150+ global cities. 
+   - **Key Features:** Seamless multi-key Serper rotation, early-termination logic, cross-query deduplication (skips remaining pages if >70% overlap is detected), continuous emergency streaming to disk (no data lost on crash), and a premium glassmorphism dark-mode frontend. Leads are saved to a central local JSON store.
+2. **Google Sheets Sync:** From the Lead Finder UI, leads can be routed to country-specific sheets (e.g., US, UK, Canada, Australia) with a single click.
+3. **Python Qualifier (leads_qualifierV2):** Filters by 30-day LinkedIn activity. Scrapes public profiles (via Googlebot UA) and deduplicates against the 'All Leads' sheet.
+4. **Email Verification:** Built directly inside the lead qualifier project.
+5. **Hook Generator (scraper/extractor.py):** Uses Groq (Llama 3.3 70B) as primary, Cerebras as fallback, to generate personalized `{"hook": "..."}` JSON.
+6. **Automation (n8n Workflow):** Writes the qualified leads + hooks into Google Sheets for CRM.
+7. **Instantly Import:** For outreach.
 
 **Tools:**
 - **React Lead Cleaner Tool:** JSX artifact that accepts CSV upload, removes invalid rows, and downloads a clean output.
@@ -82,12 +84,18 @@ Built as HTML artifacts using Anthropic API (Claude Sonnet 4):
 - **First client:** Not yet closed — active outreach ongoing.
 - **Email deliverability:** Resolved and operational.
 - **Reply-to-call conversion:** Rebuilt — new sequence live.
-- **Lead pipeline:** Fully functional; email verification step is built into the qualifier.
+- **Lead pipeline:** Fully functional; Lead Finder overhauled with dynamic multi-query engine, robust key rotation, and premium UI. Email verification is built into the qualifier.
 - **n8n tracking system:** In active development.
-- **Proof / case studies:** None yet (free case study campaign is the solution).
+- **Proof / case studies:** Zero social proof — this is the core bottleneck. Free case study campaign is the designed solution.
 - **Pricing validation:** Not validated — no paying client yet.
 
-## 11. Personal Brand (Planned)
+## 11. Brand Identity
+- **Agency name:** Compel (rebranded from Revlane)
+- **Website:** getcompel.co
+- **Logo concept:** Weight Pull wordmark
+- **Brand palette:** Near-black, warm off-white, electric lime
+
+## 12. Personal Brand (Planned)
 - **Phase 1 (Algerian account):** Instagram (Darija). Documenting the Compel build, marketing education, mindset.
 - **Phase 2 (English account):** Tied directly to Compel brand (Launched after Phase 1 has traction and results).
 

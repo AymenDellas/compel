@@ -34,7 +34,7 @@ const CTA = () => {
     e.preventDefault();
     if (name && url && calls) {
       if (window.Calendly) {
-        const calendlyUrl = `https://calendly.com/dellasaymen/discovery-call-revlane?name=${encodeURIComponent(name)}`;
+        const calendlyUrl = `https://calendly.com/dellasaymen/discovery-call-compel?name=${encodeURIComponent(name)}`;
         window.Calendly.initPopupWidget({ url: calendlyUrl });
       } else {
         alert("Calendly widget is loading. Please try again in a moment.");

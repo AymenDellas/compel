@@ -15,33 +15,55 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: 'Compel | Performance-Based Acquisition for Coaches',
+  metadataBase: new URL('https://getcompel.co'),
+  title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
   description:
-    'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
+    'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase by 30% in 30 days.',
   alternates: {
     canonical: 'https://getcompel.co/',
+    languages: {
+      'en-US': 'https://getcompel.co/',
+      'en-GB': 'https://getcompel.co/',
+      'en-CA': 'https://getcompel.co/',
+    },
   },
   openGraph: {
-    title: 'Compel | Performance-Based Acquisition for Coaches',
+    title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
     description:
-      'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
+      'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase by 30% in 30 days.',
     type: 'website',
     url: 'https://getcompel.co/',
+    siteName: 'Compel',
+    locale: 'en_US',
     images: [
       {
-        url: 'https://getcompel.co/og-image.jpg',
+        url: 'https://getcompel.co/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Compel — Performance-Based Funnels for Coaches',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Compel | Performance-Based Acquisition for Coaches',
+    title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
     description:
-      'Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.',
-    images: ['https://getcompel.co/twitter-image.jpg'],
+      'We build high-converting funnels for coaches. $0 upfront — pay only when your discovery calls increase.',
+    images: ['https://getcompel.co/twitter-image.png'],
   },
   icons: {
     icon: '/favicon.svg',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 };
 
@@ -70,14 +92,30 @@ export default function RootLayout({
               "@type": "ProfessionalService",
               "name": "Compel",
               "url": "https://getcompel.co",
-              "description": "Performance-Based Acquisition for Coaches. Scale your coaching business with guaranteed results.",
-              "priceRange": "$0",
-              "image": "https://getcompel.co/og-image.jpg",
+              "logo": "https://getcompel.co/brand/compel-logo-primary.svg",
+              "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase by 30% in 30 days.",
+              "priceRange": "$0 upfront",
+              "image": "https://getcompel.co/og-image.png",
+              "areaServed": ["US", "GB", "CA"],
+              "serviceType": "Performance-Based Funnel Building for Coaches",
+              "knowsAbout": [
+                "coaching funnels",
+                "lead generation for coaches",
+                "conversion optimization",
+                "landing page design",
+                "email nurture sequences",
+                "discovery call booking systems"
+              ],
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "url": "https://calendly.com/dellasaymen/discovery-call-compel"
+              },
               "offers": {
                 "@type": "Offer",
                 "price": "0",
                 "priceCurrency": "USD",
-                "description": "$0 upfront, 30-day window, 100% financial downside covered."
+                "description": "$0 upfront, 30-day performance window, 100% financial downside covered. Pay only if discovery calls increase by 30%."
               }
             })
           }}

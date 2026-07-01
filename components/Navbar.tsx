@@ -29,7 +29,7 @@ export const Navbar = () => {
         {/* CTA Button */}
         <div className="flex items-center">
           <a
-            href="https://calendly.com/dellasaymen/discovery-call-revlane"
+            href="https://calendly.com/dellasaymen/discovery-call-compel"
             target="_blank" 
             rel="noopener noreferrer"
             className="group relative flex items-center gap-2 rounded-full border border-transparent bg-accent text-background px-5 sm:px-6 py-2 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer transition-colors hover:bg-accent/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background"
