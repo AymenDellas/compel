@@ -1,7 +1,11 @@
+"use client";
+
 import Link from 'next/link';
 import { getAllNiches, getNicheConfig } from '../lib/niches';
+import { useLeadCapture } from './LeadCaptureProvider';
 
 const Footer = () => {
+  const { openModal } = useLeadCapture();
   const niches = getAllNiches();
 
   return (
@@ -31,14 +35,12 @@ const Footer = () => {
             </h3>
             <ul className="space-y-3">
               <li>
-                <a
-                  href="https://calendly.com/dellasaymen/discovery-call-compel"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm text-neutral-300 hover:text-accent transition-colors"
+                <button
+                  onClick={openModal}
+                  className="text-sm text-neutral-300 hover:text-accent transition-colors text-left"
                 >
                   Book a Discovery Call
-                </a>
+                </button>
               </li>
               <li>
                 <a

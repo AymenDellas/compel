@@ -5,8 +5,8 @@ export const faqs = [
     keywords: ["price", "cost", "setup", "fee"]
   },
   {
-    q: "What if I don't get a 30% increase in discovery calls?",
-    a: "If your completed discovery calls do not increase by at least 30% in 30 days, our invoice gets shredded. You risk zero capital.",
+    q: "What if my discovery calls don't increase?",
+    a: "If your completed discovery calls do not increase, our invoice gets shredded. You risk zero capital.",
     keywords: ["guarantee", "refund", "results", "risk"]
   },
   {
@@ -16,7 +16,7 @@ export const faqs = [
   },
   {
     q: "How long does the setup take?",
-    a: "The baseline audit takes 1-3 days. The infrastructure is built within days 4-14. The 30-day performance window begins immediately after launch.",
+    a: "The baseline audit takes few minutes. The infrastructure is built within days 1-2. The 30-day performance window begins immediately after launch.",
     keywords: ["time", "setup", "timeline", "long"]
   },
   {
@@ -34,13 +34,13 @@ export const faqs = [
 export const timelineSteps = [
   {
     id: "01",
-    days: "Days 01–03",
+    days: "Days 1",
     title: "The Baseline Audit",
     description: "We diagnose the exact friction points in your current funnel before writing a single line of code.",
   },
   {
     id: "02",
-    days: "Days 04–14",
+    days: "Days 01-02",
     title: "The Infrastructure",
     description: "We architect a high-speed, frictionless conversion engine tailored to your audience.",
   },
@@ -78,6 +78,6 @@ export const filterProfiles = [
   },
   {
     title: "The 'Traffic Problem' Illusion",
-    description: "\"You have zero audience, zero organic flow, and zero ad budget. A great funnel attached to zero eyeballs still equals zero.\""
+    description: "\"You have zero audience and zero organic flow. A great funnel attached to zero eyeballs still equals zero.\""
   }
 ];

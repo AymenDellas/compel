@@ -3,12 +3,14 @@
 import { getNicheConfig } from '../lib/niches';
 import { InvoiceMock } from './visuals/InvoiceMock';
 import { Button } from './ui/Button';
+import { useLeadCapture } from './LeadCaptureProvider';
 
 interface HeroProps {
   niche?: string;
 }
 
 const NicheHero = ({ niche }: HeroProps) => {
+  const { openModal } = useLeadCapture();
   const config = niche ? getNicheConfig(niche) : undefined;
   const displayName = config?.displayName ?? 'Coaches';
   const badgeText = config
@@ -31,10 +33,10 @@ const NicheHero = ({ niche }: HeroProps) => {
 
       {/* Subheadline */}
       <p className="text-lg md:text-xl text-neutral-400 max-w-3xl text-center mb-8 font-medium">
-        We exclusively engineer high-speed conversion funnels for {displayName.toLowerCase()} with proven offers who can handle serious volume. If your discovery calls don&apos;t increase by 30% in 30 days, you pay nothing.
+        We exclusively engineer high-speed conversion funnels for {displayName.toLowerCase()} with proven offers who can handle serious volume. If your discovery calls don&apos;t increase, you pay nothing.
       </p>
 
-      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10" onClick={() => window.open('https://calendly.com/dellasaymen/discovery-call-compel', '_blank')}>
+      <Button size="lg" className="rounded-full font-bold text-lg px-10 mb-10" onClick={openModal}>
         Book Your Free Discovery Call
       </Button>
 

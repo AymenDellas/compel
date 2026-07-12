@@ -2,8 +2,11 @@
 
 import React from 'react';
 import Link from 'next/link';
+import { useLeadCapture } from './LeadCaptureProvider';
 
 export const Navbar = () => {
+  const { openModal } = useLeadCapture();
+
   return (
     <div className="fixed top-6 left-0 right-0 z-50 flex w-full justify-center px-4 pointer-events-none">
       <nav className="pointer-events-auto relative flex w-full max-w-3xl items-center justify-between rounded-full p-2 pl-6 bg-background/80 backdrop-blur-xl border border-text/10 shadow-sm supports-[backdrop-filter]:bg-background/60">
@@ -20,7 +23,7 @@ export const Navbar = () => {
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" className="h-7 sm:h-8 w-auto">
             <text x="45%" y="50%" dominantBaseline="central" textAnchor="middle" style={{ letterSpacing: '-0.02em' }}>
               <tspan className="font-outfit" style={{ fontWeight: 300, fontSize: '72px' }} fill="#FFFFFF">com</tspan>
-              <tspan className="font-outfit" style={{ fontWeight: 700, fontSize: '72px' }} fill="#FFFFFF">pel</tspan>
+              <tspan className="font-outfit" style={{ fontWeight: 300, fontSize: '72px' }} fill="#FFFFFF">pel</tspan>
             </text>
             <circle cx="264" cy="72" r="8" fill="#C8F135" />
           </svg>
@@ -28,10 +31,8 @@ export const Navbar = () => {
 
         {/* CTA Button */}
         <div className="flex items-center">
-          <a
-            href="https://calendly.com/dellasaymen/discovery-call-compel"
-            target="_blank" 
-            rel="noopener noreferrer"
+          <button
+            onClick={openModal}
             className="group relative flex items-center gap-2 rounded-full border border-transparent bg-accent text-background px-5 sm:px-6 py-2 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer transition-colors hover:bg-accent/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background"
           >
             Book Discovery Call
@@ -44,7 +45,7 @@ export const Navbar = () => {
             >
               <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
             </svg>
-          </a>
+          </button>
         </div>
       </nav>
     </div>

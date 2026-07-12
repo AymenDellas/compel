@@ -13,7 +13,7 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
     displayName: 'Business Coaches',
     title: 'Funnel Agency for Business Coaches | $0 Upfront — Compel',
     description:
-      'We build high-converting funnels for business coaches. Pay nothing upfront. 30% more discovery calls in 30 days or the invoice is shredded.',
+      'We build high-converting funnels for business coaches. Pay nothing upfront. More discovery calls or the invoice is shredded.',
     h1Keyword: 'Business Coaches',
     keywords: [
       'business coaching funnel',
@@ -39,7 +39,7 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
     displayName: 'Performance Coaches',
     title: 'Funnel Agency for Performance Coaches | $0 Upfront — Compel',
     description:
-      'High-converting funnels built for performance coaches. Zero upfront cost. We only get paid when your discovery calls increase by 30%.',
+      'High-converting funnels built for performance coaches. Zero upfront cost. We only get paid when your discovery calls increase.',
     h1Keyword: 'Performance Coaches',
     keywords: [
       'performance coaching funnel',

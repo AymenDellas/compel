@@ -7,7 +7,7 @@ export const InvoiceMock = () => {
       <div className="flex flex-col sm:flex-row justify-between items-start border-b border-neutral-800/80 pb-6 mb-12 gap-4">
         <div>
           <div className="text-white font-semibold text-lg mb-1 tracking-tight">Invoice Trigger Event</div>
-          <div className="text-neutral-500 text-sm font-medium">Performance Target Hit (+30%)</div>
+          <div className="text-neutral-500 text-sm font-medium">Discovery Calls Increased</div>
         </div>
         <div className="text-left sm:text-right">
           <div className="text-neutral-500 text-sm font-medium">Due upon completion</div>
@@ -31,7 +31,7 @@ export const InvoiceMock = () => {
 
           {/* Dotted Threshold Line */}
           <div className="absolute top-[50%] left-0 right-0 border-t-2 border-dashed border-neutral-700/50 flex items-center justify-end z-0">
-            <span className="text-xs font-mono text-neutral-400 -mt-6 bg-[#0A0A0A] px-2">Invoice Trigger (+30%)</span>
+            <span className="text-xs font-mono text-neutral-400 -mt-6 bg-[#0A0A0A] px-2">Your custom target</span>
           </div>
 
           {/* Chart SVGs */}
@@ -70,7 +70,7 @@ export const InvoiceMock = () => {
 
           {/* Y-Axis Labels */}
           <div className="absolute -left-10 top-[5%] -translate-y-1/2 text-[10px] font-mono text-neutral-500">100%</div>
-          <div className="absolute -left-10 top-[50%] -translate-y-1/2 text-[10px] font-mono text-neutral-500">30%</div>
+
           <div className="absolute -left-10 top-[70%] -translate-y-1/2 text-[10px] font-mono text-neutral-500">0%</div>
 
           {/* Labels */}

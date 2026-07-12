@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://getcompel.co'),
   title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
   description:
-    'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase by 30% in 30 days.',
+    'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase.',
   alternates: {
     canonical: 'https://getcompel.co/',
     languages: {
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
     description:
-      'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase by 30% in 30 days.',
+      'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase.',
     type: 'website',
     url: 'https://getcompel.co/',
     siteName: 'Compel',
@@ -69,6 +69,8 @@ export const metadata: Metadata = {
 
 import { MotionProvider } from '../components/MotionProvider';
 import { Navbar } from '../components/Navbar';
+import { LeadCaptureProvider } from '../components/LeadCaptureProvider';
+import { LeadCaptureModal } from '../components/LeadCaptureModal';
 
 export default function RootLayout({
   children,
@@ -80,10 +82,13 @@ export default function RootLayout({
       <body
         className={`bg-background text-text ${outfit.variable} ${firaCode.variable} ${outfit.className}`}
       >
-        <MotionProvider>
-          <Navbar />
-          {children}
-        </MotionProvider>
+        <LeadCaptureProvider>
+          <MotionProvider>
+            <Navbar />
+            {children}
+          </MotionProvider>
+          <LeadCaptureModal />
+        </LeadCaptureProvider>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -93,7 +98,7 @@ export default function RootLayout({
               "name": "Compel",
               "url": "https://getcompel.co",
               "logo": "https://getcompel.co/brand/compel-logo-primary.svg",
-              "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase by 30% in 30 days.",
+              "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.",
               "priceRange": "$0 upfront",
               "image": "https://getcompel.co/og-image.png",
               "areaServed": ["US", "GB", "CA"],
@@ -115,7 +120,7 @@ export default function RootLayout({
                 "@type": "Offer",
                 "price": "0",
                 "priceCurrency": "USD",
-                "description": "$0 upfront, 30-day performance window, 100% financial downside covered. Pay only if discovery calls increase by 30%."
+                "description": "$0 upfront, 30-day performance window, 100% financial downside covered. Pay only if discovery calls increase."
               }
             })
           }}

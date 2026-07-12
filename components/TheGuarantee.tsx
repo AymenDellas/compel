@@ -1,23 +1,27 @@
 "use client";
 
-import { Button } from './ui/Button';
+import { Button } from "./ui/Button";
+import { useLeadCapture } from "./LeadCaptureProvider";
 
 const TheGuarantee = () => {
+  const { openModal } = useLeadCapture();
   const schema = {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "The Unconditional Escrow",
-    "provider": {
+    name: "The Unconditional Escrow",
+    provider: {
       "@type": "Organization",
-      "name": "Compel"
+      name: "Compel",
     },
-    "description": "If your discovery calls don't increase by 30% in 30 days, our invoice is shredded. We rebuild your funnel and take 100% of the financial downside.",
-    "offers": {
+    description:
+      "If your discovery calls don't increase, our invoice is shredded. We rebuild your funnel and take 100% of the financial downside.",
+    offers: {
       "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "USD",
-      "description": "$0 upfront, 30-day window, 100% financial downside covered."
-    }
+      price: "0",
+      priceCurrency: "USD",
+      description:
+        "$0 upfront, 30-day window, 100% financial downside covered.",
+    },
   };
 
   return (
@@ -32,7 +36,11 @@ const TheGuarantee = () => {
         </h2>
 
         <p className="text-xl md:text-2xl font-medium leading-relaxed max-w-3xl mb-16 text-neutral-800">
-          &quot;We can only offer this because we brutally filter out weak businesses. We do not ask for a 3-month commitment. If you pass our initial audit, we rebuild your funnel and take 100% of the financial downside. If your discovery calls don&apos;t increase by 30% in 30 days, our invoice is shredded.&quot;
+          &quot;We can only offer this because we brutally filter out weak
+          businesses. We do not ask for a 3-month commitment. If you pass our
+          initial audit, we rebuild your funnel and take 100% of the financial
+          downside. If your discovery calls don't increase, our invoice is
+          shredded.&quot;
         </p>
 
         <div className="w-full grid md:grid-cols-2 gap-8 md:gap-12 border-t border-neutral-300 pt-16 text-left">
@@ -76,7 +84,11 @@ const TheGuarantee = () => {
         </div>
 
         <div className="w-full flex justify-center pt-16">
-          <Button size="lg" className="rounded-full font-bold text-lg px-10 shadow-2xl" onClick={() => window.open('https://calendly.com/dellasaymen/discovery-call-revlane', '_blank')}>
+          <Button
+            size="lg"
+            className="rounded-full font-bold text-lg px-10 shadow-2xl"
+            onClick={openModal}
+          >
             Book Your Free Discovery Call
           </Button>
         </div>
