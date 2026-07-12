@@ -15,6 +15,11 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Name is required" }, { status: 400 });
     }
 
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!data.email || !emailRegex.test(data.email)) {
+      return NextResponse.json({ error: "A valid email is required" }, { status: 400 });
+    }
+
     // --- NOTION INTEGRATION ---
     if (notion && databaseId) {
       const properties: any = {
@@ -35,8 +40,12 @@ export async function POST(request: Request) {
         properties,
       });
 
-      console.log("New lead saved to Notion:", data.name);
       return NextResponse.json({ success: true }, { status: 201 });
+    }
+
+    if (process.env.NODE_ENV === "production") {
+      console.error("Notion API not configured or missing keys in production.");
+      return NextResponse.json({ error: "Notion integration is not configured." }, { status: 500 });
     }
 
     // --- FALLBACK: LOCAL JSON (Dev only) ---
@@ -62,7 +71,6 @@ export async function POST(request: Request) {
     leads.push(lead);
     fs.writeFileSync(filePath, JSON.stringify(leads, null, 2), "utf-8");
 
-    console.log("New lead saved to local JSON (Notion not configured):", lead);
     return NextResponse.json({ success: true, lead }, { status: 201 });
 
   } catch (error: any) {

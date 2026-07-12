@@ -71,6 +71,7 @@ import { MotionProvider } from '../components/MotionProvider';
 import { Navbar } from '../components/Navbar';
 import { LeadCaptureProvider } from '../components/LeadCaptureProvider';
 import { LeadCaptureModal } from '../components/LeadCaptureModal';
+import Script from 'next/script';
 
 export default function RootLayout({
   children,
@@ -89,6 +90,16 @@ export default function RootLayout({
           </MotionProvider>
           <LeadCaptureModal />
         </LeadCaptureProvider>
+
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-T46JFTGK75" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-T46JFTGK75');
+          `}
+        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
