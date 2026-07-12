@@ -65,8 +65,8 @@ export async function POST(request: Request) {
     console.log("New lead saved to local JSON (Notion not configured):", lead);
     return NextResponse.json({ success: true, lead }, { status: 201 });
 
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error saving lead:", error);
-    return NextResponse.json({ error: "Internal Server Error" }, { status: 500 });
+    return NextResponse.json({ error: error.message || "Internal Server Error" }, { status: 500 });
   }
 }

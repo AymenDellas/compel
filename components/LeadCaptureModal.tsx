@@ -55,10 +55,11 @@ export const LeadCaptureModal = () => {
         setEmail("");
         router.push("/thank-you");
       } else {
-        alert("Something went wrong. Please try again.");
+        const errorData = await response.json().catch(() => null);
+        alert(`Error: ${errorData?.error || "Something went wrong. Please try again."}`);
       }
-    } catch {
-      alert("Something went wrong. Please try again.");
+    } catch (error: any) {
+      alert(`Error: ${error.message || "Something went wrong. Please try again."}`);
     } finally {
       setIsSubmitting(false);
     }
