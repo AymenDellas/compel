@@ -1,6 +1,7 @@
 ---
 title: "The Best Coaching Call Booking Systems: Calendly vs. Acuity vs. TidyCal"
 date: "2026-06-12"
+updated: 2026-09-24
 excerpt: "Stop playing email tag with prospects. Discover the best coaching call booking systems and scheduling tools to automate your calendar, reduce no-shows, and close more clients."
 ---
 
@@ -107,6 +108,6 @@ Are you sick of playing IT support for your own business? Are you tired of [payi
 
 At **[Compel](/)**, we solve the calendar problem. We build completely custom, high-converting client acquisition funnels for coaches on a strict **zero-upfront, performance-only basis**. We integrate the booking tools, write the copy, build the landing pages, and set up the automations. 
 
-You pay us absolutely nothing upfront. We only make money if we increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. We take the technical headache off your plate so you can get back to coaching. 
+You pay us absolutely nothing upfront. We only make money if we increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We take the technical headache off your plate so you can get back to coaching.
 
 Ready to upgrade your entire acquisition system risk-free? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

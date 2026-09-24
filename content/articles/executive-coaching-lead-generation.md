@@ -1,6 +1,7 @@
 ---
 title: "Lead Generation for Executive Coaches: LinkedIn, Events, and Beyond"
 date: "2026-05-09"
+updated: 2026-09-24
 excerpt: "Master executive coaching lead generation. Learn actionable strategies spanning LinkedIn outbound, strategic events, and digital funnels to build a predictable pipeline of high-ticket clients."
 ---
 
@@ -131,6 +132,6 @@ At Compel, we specialize exclusively in building performance-based funnels for t
 
 We handle the entire lead generation infrastructure: the landing pages, the lead magnets, the email nurture sequences, and the automated booking flows. We build the engine designed specifically to attract and convert high-ticket clients.
 
-Our commitment is reflected in our pricing structure. With our [zero-upfront model](/learn/zero-upfront-model), you pay nothing to have this elite system built and launched. You only pay us when we deliver results. Specifically, if we do not increase your discovery call bookings by 30% within 30 days, you owe us nothing. We take on the risk because we know our systems work. 
+Our commitment is reflected in our pricing structure. With our [zero-upfront model](/learn/zero-upfront-model), you pay nothing to have this elite system built and launched. You only pay us when we deliver results. Specifically, if we do not increase your discovery call bookings by the agreed target during the performance window, you owe us nothing. We take on the risk because we know our systems work.
 
 Ready to fill your calendar with high-intent C-suite leads without gambling on agency retainers? Visit the [Compel homepage](/) to learn how we can scale your practice today.

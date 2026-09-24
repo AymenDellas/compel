@@ -1,5 +1,4 @@
 import { Suspense } from 'react'
-import Link from 'next/link'
 import Hero from '../components/Hero'
 import WhoItsFor from '../components/WhoItsFor'
 import HowItWorks from '../components/HowItWorks'
@@ -8,30 +7,11 @@ import WhyCompel from '../components/WhyCompel'
 import FAQ from '../components/FAQ'
 import CTA from '../components/CTA'
 import Footer from '../components/Footer'
-import { getAllArticles } from '../lib/markdown'
-import { getAllNiches, getNicheConfig } from '../lib/niches'
+import ExploreGuides from '../components/ExploreGuides'
 
 export default function Page() {
-  const articles = getAllArticles()
-  const niches = getAllNiches()
-
-  const videoSchema = {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Compel Performance Funnels for Coaches",
-    "description": "Learn how we build high-converting funnels for coaches with $0 upfront cost.",
-    "thumbnailUrl": "https://getcompel.co/og-image.png",
-    "uploadDate": "2026-06-25T08:00:00+08:00",
-    "contentUrl": "https://www.youtube.com/watch?v=placeholder",
-    "embedUrl": "https://www.youtube.com/embed/placeholder"
-  }
-
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }}
-      />
       <div className="relative min-h-screen selection:bg-accent selection:text-black font-sans bg-background text-text overflow-x-hidden">
       <div className="absolute inset-0 z-0 pointer-events-none">
         <div className="absolute inset-0 bg-[radial-gradient(rgba(255,255,255,0.07)_1px,transparent_1px)] bg-[size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_80%,transparent_100%)]"></div>
@@ -56,6 +36,7 @@ export default function Page() {
         <Suspense fallback={<div className="animate-pulse h-32 bg-neutral-900/50 rounded-xl my-8 w-full max-w-4xl mx-auto"></div>}>
           <FAQ />
         </Suspense>
+        <ExploreGuides />
 
       </main>
 

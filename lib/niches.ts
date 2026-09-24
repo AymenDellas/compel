@@ -5,6 +5,10 @@ export interface NicheConfig {
   description: string;
   h1Keyword: string;
   keywords: string[];
+  challenge: string;
+  approach: string;
+  guideSlug: string;
+  guideLabel: string;
 }
 
 export const NICHE_CONFIG: Record<string, NicheConfig> = {
@@ -20,6 +24,10 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
       'business coach marketing',
       'business coach lead generation',
     ],
+    challenge: 'A business coach may have a strong referral pipeline but no consistent path from a new website visitor to a qualified call.',
+    approach: 'We connect a focused offer page, proof and qualification, email follow-up, and a short booking flow so each step can be measured.',
+    guideSlug: 'business-coaching-client-acquisition',
+    guideLabel: 'Business coach client acquisition guide',
   },
   'career-coaching': {
     slug: 'career-coaching',
@@ -33,6 +41,10 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
       'career coach client acquisition',
       'career coach marketing',
     ],
+    challenge: 'Career coaching prospects often need to understand the specific career outcome and whether the offer fits their stage before booking.',
+    approach: 'A clear problem-specific page and follow-up sequence can help visitors identify the right next step before they reach your calendar.',
+    guideSlug: 'career-coaching-lead-generation',
+    guideLabel: 'Career coach lead generation guide',
   },
   'performance-coaching': {
     slug: 'performance-coaching',
@@ -46,6 +58,10 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
       'performance coach lead generation',
       'performance coach marketing',
     ],
+    challenge: 'Performance coaching covers different audiences, from individuals to teams, so a broad promise can make the offer hard to evaluate.',
+    approach: 'We structure the page around your defined audience, the measurable problem you solve, and a booking path that qualifies fit.',
+    guideSlug: 'performance-coaching-marketing',
+    guideLabel: 'Performance coaching marketing guide',
   },
   'life-coaching': {
     slug: 'life-coaching',
@@ -59,6 +75,10 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
       'life coach marketing strategy',
       'life coach client acquisition',
     ],
+    challenge: 'Life coaching buyers need a clear reason to trust the process before committing to a conversation about a personal goal.',
+    approach: 'We make the offer specific, explain the steps and fit, and use useful follow-up for visitors who are not ready to book immediately.',
+    guideSlug: 'life-coach-marketing-plan',
+    guideLabel: 'Life coach marketing plan',
   },
   'executive-coaching': {
     slug: 'executive-coaching',
@@ -72,6 +92,10 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
       'executive coach lead generation',
       'executive coach marketing agency',
     ],
+    challenge: 'Executive coaching often involves a longer evaluation cycle and sometimes a second buyer, such as HR or a leadership team.',
+    approach: 'We clarify the audience and business problem, support the offer with concrete evidence you can provide, and keep the consultation path simple.',
+    guideSlug: 'executive-coaching-lead-generation',
+    guideLabel: 'Executive coach lead generation guide',
   },
 };
 

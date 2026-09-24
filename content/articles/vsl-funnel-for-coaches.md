@@ -1,6 +1,7 @@
 ---
 title: "VSL Funnels for Coaches: How Video Sales Letters Convert Cold Traffic"
 date: "2026-05-08"
+updated: 2026-09-24
 excerpt: "Discover the anatomy of a high-converting Video Sales Letter (VSL) funnel for coaches. Learn how to turn cold traffic into high-ticket clients automatically."
 ---
 
@@ -121,6 +122,6 @@ Building a VSL funnel from scratch—writing the copy, building the pages, setti
 
 To scale efficiently, you need experts who understand direct response. Whether you operate on a [retainer vs performance](/learn/retainer-vs-performance) model with your own clients, you should demand performance from your marketing partners.
 
-At [Compel](/), we build and deploy world-class VSL funnels for elite coaches. We handle the scripting, page design, application flow, and backend automation. And we do it using a pure [zero-upfront model](/learn/zero-upfront-model). We build your assets at zero cost, and we only get paid when we increase your qualified discovery call bookings by 30% within 30 days. 
+At [Compel](/), we build and deploy world-class VSL funnels for elite coaches. We handle the scripting, page design, application flow, and backend automation. And we do it using a pure [zero-upfront model](/learn/zero-upfront-model). We build your assets at zero cost, and we only get paid when we increase your qualified discovery call bookings by the agreed target during the performance window.
 
 If you are ready to stop chasing leads and start attracting highly qualified, high-ticket clients on autopilot, let's build your VSL funnel today.

@@ -126,7 +126,7 @@ Your email list is a captive audience. Don't waste that privilege by sending the
 A great newsletter strategy doesn't just build an audience; it builds a pipeline of pre-sold clients who view you as the only logical solution to their problems.
 
 **Want to stop writing emails into the void?**
-At Compel, we build high-converting funnels that turn your email list into a predictable revenue engine. We operate on a strict [retainer vs performance](/learn/retainer-vs-performance) basis, meaning we only get paid if you see a 30% increase in discovery calls. 
+At Compel, we build funnels that connect your email list to a measurable booking path. Under our [performance-based model](/learn/retainer-vs-performance), we only get paid if discovery calls increase by the target agreed before launch.
 
 [Click here to learn about our zero-upfront model and apply.](/learn/zero-upfront-model)
 

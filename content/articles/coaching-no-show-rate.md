@@ -1,6 +1,7 @@
 ---
 title: "Reduce Coaching No-Show Rates: The 5-Touch Confirmation System"
 date: "2026-06-14"
+updated: 2026-09-24
 excerpt: "Stop staring at empty Zoom rooms. Discover the exact 5-touch confirmation system used by top coaches to slash coaching no-show rates and ensure prospects show up eager to buy."
 ---
 
@@ -104,6 +105,6 @@ At **[Compel](/)**, we build this entire 5-Touch Confirmation System for you.
 
 We are a performance-based funnel agency that builds, writes, and deploys high-ticket acquisition systems for coaches. We handle the technical integration, the copywriting, and the automations to ensure your prospects show up hot, pre-sold, and ready to buy. 
 
-The best part? You pay **zero upfront fees**. We only get paid a performance fee if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. We take on the risk, you get a full calendar of prospects who actually show up. 
+The best part? You pay **zero upfront fees**. We only get paid a performance fee if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We take on the risk, you get a full calendar of prospects who actually show up.
 
 Stop staring at empty Zoom rooms. [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

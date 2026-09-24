@@ -1,6 +1,7 @@
 ---
 title: "How to 3x Your Coaching Discovery Calls Without Spending More on Ads"
 date: "2026-06-08"
+updated: 2026-09-24
 excerpt: "Struggling with an empty calendar? Learn the proven strategies to increase coaching discovery calls organically and optimize your existing funnel for maximum bookings."
 ---
 
@@ -106,6 +107,6 @@ At **[Compel](/)**, we believe that if an agency doesn't get you results, they s
 
 We are a performance-based funnel agency built specifically for coaches. We will build, write, and optimize your entire client acquisition funnel—from the landing page to the email sequences to the booking flows—with **zero upfront cost**. 
 
-You only pay us a flat performance fee if we successfully increase your discovery call bookings by 30% within 30 days. We take on 100% of the risk. 
+You only pay us a flat performance fee if we successfully increase your discovery call bookings by the agreed target during the performance window. We take on 100% of the risk.
 
 If you want to stop guessing and start scaling your coaching business predictably, learn more about our [zero-upfront model](/learn/zero-upfront-model) and see if you qualify to partner with us today.

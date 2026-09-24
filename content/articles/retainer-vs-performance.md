@@ -1,6 +1,7 @@
 ---
 title: "Retainer vs. Performance-Based Marketing for Coaches: The Real Cost of Choosing Wrong"
 date: "2026-06-25"
+updated: 2026-09-24
 excerpt: "Retainer agencies cost coaches $3,000–$10,000/month whether they deliver or not. Performance-based models charge $0 until results land. Here's the honest breakdown of both—and which one actually scales coaching businesses."
 ---
 
@@ -132,7 +133,7 @@ Not all performance-based agencies are created equal. Here is the framework for 
 
 Vague promises like "we will grow your business" are red flags. Look for **specific, measurable guarantees** tied to a defined timeframe:
 
-- ✅ "30% increase in booked discovery calls within 30 days"
+- ✅ "an agreed increase in booked discovery calls during the performance window"
 - ✅ "Minimum 15 qualified leads per month or you don't pay"
 - ❌ "We'll get you more leads"
 - ❌ "Results may vary based on market conditions"
@@ -219,6 +220,6 @@ When these elements are engineered correctly, the economics of coaching client a
 
 If you are currently locked into a retainer agency contract and watching your cash flow bleed without proportional results, there is a better path.
 
-[Compel](/) is a performance-based funnel agency built exclusively for coaches. We design and build your complete conversion funnel—landing pages, email nurture sequences, booking flows, and follow-up systems—with **$0 upfront cost**. You pay nothing unless your discovery call bookings increase by at least 30% within 30 days. If we fall short of that benchmark, you keep everything we built and owe us nothing.
+[Compel](/) is a performance-based funnel agency built exclusively for coaches. We design and build your complete conversion funnel—landing pages, email nurture sequences, booking flows, and follow-up systems—with **$0 upfront cost**. You pay nothing unless your discovery call bookings increase by the agreed target during the performance window. If we fall short of that benchmark, you keep everything we built and owe us nothing.
 
 This is not a watered-down hybrid model or a retainer with a performance label slapped on. It is a genuine zero-risk partnership where our revenue depends entirely on your results. We have built this model specifically for coaches in the [executive](/coaches/executive-coaching), [business](/coaches/business-coaching), [life](/coaches/life-coaching), and [career](/coaches/career-coaching) coaching space because we know these funnels inside and out—and we are confident enough to bet our own time and resources on the outcome. Stop paying agencies for effort. Start paying for results.

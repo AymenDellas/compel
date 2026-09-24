@@ -1,6 +1,7 @@
 ---
 title: "Business Coaching Marketing Plan: The Ultimate 90-Day Roadmap to a Full Calendar"
 date: "2026-05-22"
+updated: 2026-09-24
 excerpt: "Stop relying on sporadic referrals. Discover the systematic 90-day marketing roadmap for business coaches to generate predictable, high-ticket discovery calls and scale your practice."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Stop relying on sporadic referrals. Discover the systematic 90-day mar
 - **The 90-Day Phased Approach:** Break your marketing into Offer Clarity (Days 1-30), Traffic & Capture (Days 31-60), and Nurture & Conversion (Days 61-90).
 - **Fix the Leaks:** Before pouring money into ads, ensure your foundation is solid. A leaky funnel will drain your budget fast.
 - **Performance Over Retainers:** Align with partners who share your risk. Learn why the [zero upfront model](/learn/zero-upfront-model) is changing the coaching industry.
-- **Compel’s Guarantee:** We build performance-based funnels for [business coaches](/coaches/business-coaching) with $0 upfront. You only pay when your discovery calls increase by 30% in 30 days.
+- **Compel’s Guarantee:** We build performance-based funnels for [business coaches](/coaches/business-coaching) with $0 upfront. You only pay when your discovery calls increase by the agreed target during the performance window.
 
 ## The Anatomy of a High-Converting Business Coaching Marketing Plan
 
@@ -144,4 +145,4 @@ Building a reliable, high-converting business coaching marketing plan takes work
 Focus on your offer, dial in your traffic channels, and build an airtight nurture sequence. The clients are out there, waiting for the exact solution you provide. It is your responsibility to make sure they find you.
 
 **Ready to fill your calendar without the financial risk?** 
-At [Compel](https://getcompel.co), we specialize in building high-converting, automated funnels exclusively for coaches. We operate on a pure performance basis. **Zero upfront costs.** You only pay us when we increase your discovery call bookings by 30% within 30 days. Let us handle the marketing engine so you can focus on what you do best: coaching. [Visit our homepage to learn more and apply today.](/)
+At [Compel](https://getcompel.co), we specialize in building high-converting, automated funnels exclusively for coaches. We operate on a pure performance basis. **Zero upfront costs.** You only pay us when we increase your discovery call bookings by the agreed target during the performance window. Let us handle the marketing engine so you can focus on what you do best: coaching. [Visit our homepage to learn more and apply today.](/)

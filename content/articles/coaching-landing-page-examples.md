@@ -1,14 +1,15 @@
 ---
-title: "15 Coaching Landing Page Examples That Convert Above 20%"
+title: "15 Coaching Landing Page Formats and When to Use Them"
 date: 2026-06-01
-excerpt: "Discover 15 coaching landing page examples that consistently convert above 20%. Learn the exact design frameworks and copy strategies top coaches use to book more high-ticket discovery calls."
+updated: 2026-09-24
+excerpt: "Compare 15 coaching landing page formats and learn which layout, message, and booking path may fit your offer."
 ---
 
 If you are driving traffic to your coaching website and nobody is booking a [discovery call](/learn/coaching-discovery-call-script), your landing page is the bottleneck. The coaching industry has become wildly competitive. You cannot throw up a generic WordPress template, talk about your "holistic approach," and expect high-value clients to hand over their credit cards. 
 
 Today, you need a high converting coaching page that clearly articulates your value proposition, builds instant authority, and removes all friction from the booking process. When you get this right, you can expect conversion rates of 20% or higher. When you get it wrong, you burn money on ads and organic content that leads to a dead end. 
 
-At [Compel](https://getcompel.co), we build performance-based funnels for coaches. We have analyzed hundreds of coaching landing page examples across various niches. In this comprehensive guide, we will break down 15 specific examples and design frameworks that consistently drive high-ticket bookings.
+At [Compel](https://getcompel.co), we build performance-based funnels for coaches. This guide breaks down 15 landing page formats and explains when each could fit a coaching offer. Treat them as design patterns to test with your own audience, rather than guaranteed conversion results.
 
 ## Key Takeaways
 
@@ -122,6 +123,6 @@ Remember, traffic is becoming more expensive every single day. If your landing p
 
 You excel at coaching your clients. You shouldn't have to be a world-class copywriter, funnel designer, and conversion rate optimization expert just to get people on the phone. 
 
-At [Compel](https://getcompel.co), we build these exact high-converting funnels for coaches—and we do it with a **$0 upfront model**. We design the landing pages, write the copy, and build the automation. You only pay us when your discovery call bookings increase by 30% within 30 days. If we don't deliver, you don't pay a dime. 
+At [Compel](https://getcompel.co), we build these exact high-converting funnels for coaches—and we do it with a **$0 upfront model**. We design the landing pages, write the copy, and build the automation. You only pay us when your discovery call bookings increase by the agreed target during the performance window. If we don't deliver, you don't pay a dime.
 
 Stop losing high-ticket clients to competitors with better landing pages. Partner with Compel and let us build a conversion machine that fills your calendar with qualified leads.

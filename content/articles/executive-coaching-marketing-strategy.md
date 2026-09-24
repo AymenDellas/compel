@@ -1,6 +1,7 @@
 ---
 title: "Executive Coaching Marketing Strategy: Attracting Elite C-Suite Clients Predictably"
 date: "2026-05-05"
+updated: 2026-09-24
 excerpt: "Stop relying solely on word-of-mouth. Discover a predictable, high-ROI executive coaching marketing strategy designed to attract, nurture, and close C-suite leaders and top-tier corporate executives."
 ---
 
@@ -150,4 +151,4 @@ This is why traditional agency models—where you pay thousands of dollars upfro
 
 At Compel, we believe the agency should share the risk. We build out elite, end-to-end conversion funnels tailored specifically for the coaching industry. From high-ticket landing pages to sophisticated email nurture sequences and booking flows, we handle the entire infrastructure. 
 
-The best part? Our model is built entirely on results. With our [zero-upfront model](/learn/zero-upfront-model), you pay absolutely nothing to start. You only pay us if we successfully increase your discovery call bookings by 30% within 30 days. We build the system, we drive the performance, and you focus on closing high-ticket clients and delivering exceptional coaching. If you are an executive coach ready to scale without the upfront financial risk, explore how Compel can build your predictable client acquisition engine today. Visit our homepage at [Compel](/) to learn more.
+The best part? Our model is built entirely on results. With our [zero-upfront model](/learn/zero-upfront-model), you pay absolutely nothing to start. You only pay us if we successfully increase your discovery call bookings by the agreed target during the performance window. We build the system, we drive the performance, and you focus on closing high-ticket clients and delivering exceptional coaching. If you are an executive coach ready to scale without the upfront financial risk, explore how Compel can build your predictable client acquisition engine today. Visit our homepage at [Compel](/) to learn more.

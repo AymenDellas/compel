@@ -1,6 +1,7 @@
 ---
 title: "Workshop Funnels for Business Coaches: Sell Out Live Events Consistently"
 date: "2026-06-15"
+updated: 2026-09-24
 excerpt: "Live workshops are the ultimate conversion mechanism for high-ticket coaching. Learn the exact workshop funnel architecture to sell out live events and ascend attendees into your core programs."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Live workshops are the ultimate conversion mechanism for high-ticket c
 - **The Self-Liquidating Funnel:** A properly priced paid workshop can completely cover your advertising costs, allowing you to acquire highly qualified leads for free.
 - **The Back-End Ascension:** The goal of the workshop is not ticket revenue; it is the back-end ascension into your $10k+ mastermind or 1:1 coaching.
 - **Automation is Mandatory:** A successful workshop launch requires complex, multi-touch [coaching email nurture sequences](/learn/coaching-email-nurture-sequence) to ensure high show rates and post-event conversions.
-- **Compel’s Guarantee:** We engineer end-to-end workshop funnels for [business coaches](/coaches/business-coaching) and [performance coaches](/coaches/performance-coaching) with **$0 upfront**. You only pay when we increase your high-ticket booked calls by 30%.
+- **Compel’s Guarantee:** We engineer end-to-end workshop funnels for [business coaches](/coaches/business-coaching) and [performance coaches](/coaches/performance-coaching) with **$0 upfront**. You only pay when booked calls increase by the agreed target.
 
 ## The Power of the Business Coaching Workshop Funnel
 
@@ -90,4 +91,4 @@ A well-engineered workshop funnel is the most powerful weapon a business coach c
 Stop relying on slow, organic trust-building. Put your prospects in a room, solve their problems live, and watch your high-ticket sales explode.
 
 **Ready to build a self-liquidating workshop funnel without the upfront agency fees?**
-At [Compel](https://getcompel.co), we architect and manage complex, high-converting workshop funnels for top-tier coaches. We reject the traditional agency retainer model. **We work for $0 upfront.** We build the registration pages, write the email sequences, and manage the ads. You only pay us when we successfully increase your high-ticket discovery calls by 30% within 30 days. Let us pack the room so you can focus on changing lives. [Click here to apply for our performance-based partnership.](/)
+At [Compel](https://getcompel.co), we architect and manage complex, high-converting workshop funnels for top-tier coaches. We reject the traditional agency retainer model. **We work for $0 upfront.** We build the registration pages, write the email sequences, and manage the ads. You only pay us when we successfully increase your high-ticket discovery calls by the agreed target during the performance window. Let us pack the room so you can focus on changing lives. [Click here to apply for our performance-based partnership.](/)

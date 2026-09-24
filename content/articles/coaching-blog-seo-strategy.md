@@ -1,6 +1,7 @@
 ---
 title: "Coaching Blog SEO: How to Rank on Google and Attract Organic Leads"
 date: "2026-04-30"
+updated: 2026-09-24
 excerpt: "Stop relying exclusively on rented social media platforms. Discover the ultimate coaching blog SEO strategy to rank on Google, capture high-intent search traffic, and build an evergreen lead generation asset."
 ---
 
@@ -140,4 +141,4 @@ Generating organic traffic takes months of hard work. When that traffic finally 
 
 At Compel, we build the ultimate backend for high-ticket coaches. We design and launch high-converting funnels, VSLs, and email sequences, ensuring every organic visitor is pushed toward a discovery call. 
 
-The best part? You pay **$0 upfront**. We only get paid if we increase your booked calls by 30% within 30 days. Let us handle the conversion mechanics so you can focus on building your authority. Check out our [homepage](/) or learn more about our [zero-upfront model](/learn/zero-upfront-model) today.
+The best part? You pay **$0 upfront**. We only get paid if we increase your booked calls by the agreed target during the performance window. Let us handle the conversion mechanics so you can focus on building your authority. Check out our [homepage](/) or learn more about our [zero-upfront model](/learn/zero-upfront-model) today.

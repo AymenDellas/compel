@@ -1,6 +1,7 @@
 ---
 title: "How to Build a High-Ticket Coaching Funnel That Closes $5K+ Clients"
 date: "2026-05-04"
+updated: 2026-09-24
 excerpt: "The complete playbook for building a coaching funnel that attracts and converts high-ticket clients paying $5,000 or more. Includes the trust architecture, pricing psychology, and conversion mechanics that premium coaches use."
 ---
 
@@ -198,4 +199,4 @@ Here is what most coaches do not realize: a well-built high-ticket funnel gets b
 
 This is the flywheel effect, and it is why coaches who invest in proper funnel infrastructure early — whether they build it themselves or work with a [performance-based agency](/learn/retainer-vs-performance) — end up dominating their niche within 12-18 months.
 
-If you are a coach with a proven offer and you want a team to build your high-ticket funnel with zero upfront cost, [Compel](/) specializes in exactly this. We build the landing pages, email sequences, and booking flows — and you only pay if your discovery calls increase by 30% in 30 days.
+If you are a coach with a proven offer and you want a team to build your high-ticket funnel with zero upfront cost, [Compel](/) specializes in exactly this. We build the landing pages, email sequences, and booking flows — and you only pay if your discovery calls increase by the agreed target during the performance window.

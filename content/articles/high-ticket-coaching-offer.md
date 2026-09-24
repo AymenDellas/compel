@@ -1,6 +1,7 @@
 ---
 title: "How to Create a High-Ticket Coaching Offer That Sells Itself"
 date: "2026-05-04"
+updated: 2026-09-24
 excerpt: "Discover the exact framework to build a high-ticket coaching offer that commands premium prices, delivers massive client transformations, and makes selling effortless."
 ---
 
@@ -109,6 +110,6 @@ Creating a world-class high-ticket coaching offer is your job. Getting highly qu
 
 At [Compel](/), we specialize in building high-conversion funnels that eliminate the friction between your premium offer and your ideal clients. We don't just build pretty landing pages; we engineer end-to-end client acquisition systems tailored for high-ticket coaches.
 
-We believe so strongly in our ability to generate results that we work on a [zero upfront model](/learn/zero-upfront-model). We build your funnel, write your copy, and optimize your booking flow with $0 upfront costs. You only pay us if we successfully increase your qualified discovery calls by 30% within 30 days. 
+We believe so strongly in our ability to generate results that we work on a [zero upfront model](/learn/zero-upfront-model). We build your funnel, write your copy, and optimize your booking flow with $0 upfront costs. You only pay us if we successfully increase your qualified discovery calls by the agreed target during the performance window.
 
 Stop wasting time on marketing that doesn't convert. Focus on delivering your high-ticket transformation, and let Compel handle the rest.

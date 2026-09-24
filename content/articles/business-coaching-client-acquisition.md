@@ -1,6 +1,7 @@
 ---
 title: "Client Acquisition for Business Coaches: A Systematic, Predictable Approach"
 date: "2026-05-26"
+updated: 2026-09-24
 excerpt: "Stop relying on luck and referrals. Discover the systematic client acquisition engine designed specifically for business coaches to generate high-ticket leads on demand."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Stop relying on luck and referrals. Discover the systematic client acq
 - **The Power of the Funnel:** Without a structured funnel, you are simply renting attention online. You need a dedicated mechanism to turn that attention into booked calls.
 - **Outbound vs. Inbound:** A robust acquisition strategy leverages both inbound content marketing and strategic outbound prospecting to ensure pipeline consistency.
 - **Performance Over Promises:** Stop paying agency retainers for zero results. Understand why a [performance-based approach](/learn/retainer-vs-performance) is the safest way to scale.
-- **Compel’s Guarantee:** We build client acquisition funnels for [business coaches](/coaches/business-coaching) and [executive coaches](/coaches/executive-coaching) with **$0 upfront**. You only pay when we boost your discovery calls by 30% in 30 days.
+- **Compel’s Guarantee:** We build client acquisition funnels for [business coaches](/coaches/business-coaching) and [executive coaches](/coaches/executive-coaching) with **$0 upfront**. You only pay when we boost your discovery calls by the agreed target during the performance window.
 
 ## The Reality of Client Acquisition for Business Coaches
 
@@ -91,4 +92,4 @@ Transitioning to a systematic client acquisition model is the single highest-lev
 Start by clearly defining your target audience and the specific transformation you provide. Then, build the infrastructure: a high-converting landing page, an automated email sequence, and an optimized booking flow. Finally, fuel the system with targeted outbound outreach and authoritative inbound content.
 
 **Tired of trying to build this system yourself?** 
-At [Compel](https://getcompel.co), we eliminate the guesswork and the financial risk of client acquisition. We build and manage high-converting funnels for business and executive coaches on a pure performance basis. **Zero upfront fees.** You only pay us when your discovery call volume increases by 30% within 30 days. Let us handle the acquisition engine, so you can handle the coaching. [Explore our zero-upfront model and apply today.](/)
+At [Compel](https://getcompel.co), we eliminate the guesswork and the financial risk of client acquisition. We build and manage high-converting funnels for business and executive coaches on a pure performance basis. **Zero upfront fees.** You only pay us when your discovery call volume increases by the agreed target during the performance window. Let us handle the acquisition engine, so you can handle the coaching. [Explore our zero-upfront model and apply today.](/)

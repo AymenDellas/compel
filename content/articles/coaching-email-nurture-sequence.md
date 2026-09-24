@@ -1,6 +1,7 @@
 ---
 title: "Coaching Email Nurture Sequence: The 7-Email Framework That Books Calls"
 date: "2026-05-22"
+updated: 2026-09-24
 excerpt: "Stop letting leads go cold. Discover the exact 7-email coaching nurture sequence that turns skeptical prospects into booked discovery calls without being pushy."
 ---
 
@@ -186,6 +187,6 @@ Your email nurture sequence is the engine room of your coaching funnel. It works
 Stop sending generic newsletters and start sending a strategic, 7-step sequence designed to convert. Build the asset once, and it will serve your business for years.
 
 **Ready to stop guessing and start converting?**
-At Compel, we build high-converting funnels for coaches—including battle-tested email nurture sequences—with **$0 upfront**. You only pay when we increase your discovery call bookings by 30% in 30 days. [Learn more about our zero-upfront model and apply today.](/learn/zero-upfront-model)
+At Compel, we build high-converting funnels for coaches—including battle-tested email nurture sequences—with **$0 upfront**. You only pay when we increase your discovery call bookings by the agreed target during the performance window. [Learn more about our zero-upfront model and apply today.](/learn/zero-upfront-model)
 
 *Return to the [Compel Homepage](/) to explore more coaching funnel strategies.*

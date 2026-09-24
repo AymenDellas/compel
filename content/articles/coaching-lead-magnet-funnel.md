@@ -1,6 +1,7 @@
 ---
 title: "Lead Magnet Funnels for Coaches: From Freebie to Paying Client"
 date: "2026-05-12"
+updated: 2026-09-24
 excerpt: "Stop giving away PDFs that collect digital dust. Learn how to design a coaching lead magnet funnel that actively drives high-ticket discovery calls."
 ---
 
@@ -105,6 +106,6 @@ Optimizing these metrics requires constant iteration—tweaking headlines, testi
 
 If you are a high-level coach, your time is better spent coaching, not agonizing over email automation software or landing page conversion rates. 
 
-At [Compel](/), we handle the entire funnel architecture. We design the lead magnets, write the copy, build the automation sequences, and drive the strategy. And because we operate on a [zero-upfront model](/learn/zero-upfront-model), we take on all the risk. We build your high-converting funnel for free, and you only pay us when we successfully increase your qualified discovery call bookings by 30% within 30 days.
+At [Compel](/), we handle the entire funnel architecture. We design the lead magnets, write the copy, build the automation sequences, and drive the strategy. And because we operate on a [zero-upfront model](/learn/zero-upfront-model), we take on all the risk. We build your high-converting funnel for free, and you only pay us when we successfully increase your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop letting valuable leads slip through your fingers. Let's build a lead magnet funnel that actively fills your calendar.

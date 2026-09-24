@@ -7,9 +7,7 @@ export async function GET() {
   const urls = articles.map(article => `
   <url>
     <loc>https://getcompel.co/learn/${article.slug}</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    ${article.updated ? `<lastmod>${article.updated}</lastmod>` : ''}
   </url>`).join('');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

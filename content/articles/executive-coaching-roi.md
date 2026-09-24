@@ -1,6 +1,7 @@
 ---
 title: "The ROI of Executive Coaching: Data and Frameworks to Justify Your Fees"
 date: "2026-05-25"
+updated: 2026-09-24
 excerpt: "Learn how to quantify the value of your services. Discover data, frameworks, and methodologies to calculate executive coaching ROI and easily justify high-ticket coaching fees to corporate sponsors."
 ---
 
@@ -102,6 +103,6 @@ Most coaches struggle to translate their incredible client results into compelli
 
 Compel is different. We build high-ticket, performance-based conversion funnels specifically for the coaching industry. We know how to take your complex ROI data and weave it into high-converting landing pages, authoritative lead magnets, and sophisticated email sequences that pre-sell corporate decision-makers before they ever get on a call with you.
 
-We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We build your custom pipeline and embed your ROI messaging into every touchpoint at zero initial cost to you. We only get paid if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take on the financial risk, engineer the funnel, and align our success entirely with your growth. 
+We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We build your custom pipeline and embed your ROI messaging into every touchpoint at zero initial cost to you. We only get paid if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take on the financial risk, engineer the funnel, and align our success entirely with your growth.
 
 If you are ready to stop defending your fees and start letting your results do the selling, visit [Compel](/) to discover how we can build your performance-driven client acquisition engine today.

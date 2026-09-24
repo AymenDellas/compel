@@ -1,6 +1,7 @@
 ---
 title: "Inbound Marketing for Coaches: Attract Clients Who Are Already Looking For You"
 date: "2026-06-04"
+updated: 2026-09-24
 excerpt: "Stop chasing cold leads. Discover how to build an inbound marketing engine for your coaching business that attracts highly qualified, ready-to-buy clients on autopilot."
 ---
 
@@ -85,6 +86,6 @@ We know the agency world is full of broken promises and expensive monthly retain
 
 We use a **[zero-upfront model](/learn/zero-upfront-model)**. We build your entire inbound ecosystem for free. We write the copy, design the pages, and set up the automations. You pay absolutely nothing out of pocket. 
 
-We only get paid when the system actually works. Our compensation is tied directly to results: we only get paid when we increase your booked discovery calls by 30% within 30 days. 
+We only get paid when the system actually works. Our compensation is tied directly to results: we only get paid when we increase your booked discovery calls by the agreed target during the performance window.
 
 Stop chasing cold leads. Start attracting clients who are already looking for you. Learn more about our risk-free, performance-based partnership on our [homepage](/).

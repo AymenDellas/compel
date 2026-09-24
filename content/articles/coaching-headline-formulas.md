@@ -1,6 +1,7 @@
 ---
 title: "11 Coaching Headline Formulas That Stop the Scroll and Drive Clicks"
 date: 2026-06-15
+updated: 2026-09-24
 excerpt: "You have 3 seconds to capture their attention. Use these 11 proven coaching headline formulas to stop the scroll, instantly hook your ideal clients, and drastically increase your funnel conversion rates."
 ---
 
@@ -102,6 +103,6 @@ Crafting the perfect headline requires an intimate understanding of copywriting,
 
 At [Compel](https://getcompel.co), we handle all of the heavy lifting. We are a performance-based funnel agency that builds, writes, and optimizes the entire client acquisition ecosystem for high-ticket coaches.
 
-We operate entirely on a **[zero upfront model](/learn/zero-upfront-model)**. We write the scroll-stopping headlines, build the landing pages, and optimize the funnels. You pay absolutely nothing upfront. We assume the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by 30% within 30 days. 
+We operate entirely on a **[zero upfront model](/learn/zero-upfront-model)**. We write the scroll-stopping headlines, build the landing pages, and optimize the funnels. You pay absolutely nothing upfront. We assume the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window.
 
 If our headlines don't drive traffic and our copy doesn't convert, you don't pay. Partner with Compel today and let us build the system that fills your calendar on autopilot.

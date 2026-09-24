@@ -4,8 +4,6 @@ import { useState } from 'react';
 import { Search } from 'lucide-react';
 import { faqs } from '../data/content';
 import { Input } from './ui/Input';
-import { Accordion } from './ui/Accordion';
-import { AccordionItem } from './ui/AccordionItem';
 
 const FAQ = () => {
   const [search, setSearch] = useState('');
@@ -59,17 +57,20 @@ const FAQ = () => {
         </div>
       </div>
 
-      <Accordion className="border-t border-neutral-900">
+      <div className="border-t border-neutral-900">
         {filteredFaqs.length === 0 ? (
           <div className="py-8 text-neutral-500 font-mono text-sm">No matching queries found.</div>
         ) : (
-          filteredFaqs.map((faq, index) => (
-            <AccordionItem key={index} index={index} title={faq.q}>
-              {faq.a}
-            </AccordionItem>
+          filteredFaqs.map((faq) => (
+            <details key={faq.q} className="group border-b border-neutral-900">
+              <summary className="cursor-pointer py-6 text-lg font-medium text-neutral-300 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent">
+                {faq.q}
+              </summary>
+              <p className="pb-6 leading-relaxed text-neutral-400">{faq.a}</p>
+            </details>
           ))
         )}
-      </Accordion>
+      </div>
     </section>
   );
 };

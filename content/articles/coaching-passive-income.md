@@ -1,6 +1,7 @@
 ---
 title: "Passive Income for Coaches: Digital Products, Courses, and Membership Sites"
 date: "2026-05-22"
+updated: 2026-09-24
 excerpt: "Unlock true financial freedom by building passive income for coaches. Learn how to launch profitable digital courses, membership sites, and digital products that sell while you sleep."
 ---
 
@@ -87,6 +88,6 @@ If your tech stack is clunky or your sales copy is weak, your brilliant digital 
 
 At [Compel](/), we build the advanced funnel infrastructure required to sell digital products, courses, and high-ticket coaching on autopilot. We understand the precise customer journey needed to take a cold lead, sell them a low-ticket entry product, and seamlessly ascend them into your high-ticket world.
 
-We remove the risk of building this complex infrastructure. Using our [zero upfront model](/learn/zero-upfront-model), we will architect, write, and launch your funnels without charging any upfront development fees. We only get paid when the system performs—specifically, when we increase your qualified bookings by 30% in 30 days.
+We remove the risk of building this complex infrastructure. Using our [zero upfront model](/learn/zero-upfront-model), we will architect, write, and launch your funnels without charging any upfront development fees. We only get paid when the system performs—specifically, when we increase your qualified bookings by the agreed target during the performance window.
 
 Stop trading all your time for money. Build your passive income streams and let Compel build the funnels that sell them.

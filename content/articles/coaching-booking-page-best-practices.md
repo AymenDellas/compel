@@ -1,6 +1,7 @@
 ---
 title: "Coaching Booking Page Best Practices: Remove Friction, Book More Calls"
 date: 2026-06-07
+updated: 2026-09-24
 excerpt: "Your prospect clicked 'Book a Call', but they never actually scheduled the time. Learn the critical coaching booking page best practices to eliminate friction and stop losing hot leads at the finish line."
 ---
 
@@ -10,7 +11,7 @@ This drop-off point is where thousands of dollars in potential revenue are lost 
 
 Optimizing your calendar and scheduling flow is just as important as optimizing your sales copy. By implementing strict coaching booking page best practices, you can seamlessly transition high-intent prospects from interested readers into confirmed appointments. 
 
-At [Compel](https://getcompel.co), we have analyzed the exact points [why funnel leaking](/learn/why-funnel-leaking) occurs. In our experience building performance-based funnels, the booking page is almost always the most neglected piece of real estate. In this guide, we will show you exactly how to reduce booking friction, maintain psychological momentum, and drastically increase your scheduled calls.
+At [Compel](https://getcompel.co), we treat the booking page as a measurable step in the funnel. This guide shows how to review [where visitors leave](/learn/why-funnel-leaking), simplify the scheduling path, and test whether changes improve completed bookings.
 
 ## Key Takeaways
 
@@ -85,6 +86,6 @@ As a coach, you should be focused on delivering life-changing results for your c
 
 At [Compel](https://getcompel.co), we eliminate these technical headaches entirely. We build end-to-end, high-converting funnels that remove all friction from the booking process. And we do it using a completely **[zero upfront model](/learn/zero-upfront-model)**.
 
-We will rebuild your landing page, optimize your booking flow, and write your pre-call indoctrination sequences. You pay $0 upfront. We take on all the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by 30% within 30 days. If we don't deliver, you don't pay. 
+We will rebuild your landing page, optimize your booking flow, and write your pre-call indoctrination sequences. You pay $0 upfront. We take on all the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window. If we don't deliver, you don't pay.
 
 Stop losing hot leads at the finish line. Partner with Compel and let us turn your broken booking page into a seamless conversion machine.

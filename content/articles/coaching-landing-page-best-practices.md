@@ -1,14 +1,15 @@
 ---
 title: "Coaching Landing Page Best Practices: The 9-Point Conversion Checklist"
 date: 2026-06-03
-excerpt: "Stop losing traffic to poor design. Follow these 9 coaching landing page best practices to plug your funnel leaks, optimize your page, and book more high-ticket discovery calls immediately."
+updated: 2026-09-24
+excerpt: "Use this 9-point checklist to review your coaching landing page, find friction in the booking path, and decide what to test next."
 ---
 
 You are driving traffic, posting content every day, and maybe even running paid ads, but your calendar remains agonizingly empty. If people are clicking your links but failing to book a call, the problem is not your coaching methodology—it is your landing page. Understanding and implementing coaching landing page best practices is the fastest lever you can pull to increase your revenue. 
 
 A landing page for a coaching business cannot function like a standard brochure website. A brochure website says, "Here is who I am." A highly optimized landing page says, "Here is exactly how I will solve your most urgent problem, and here is exactly what you need to do next." Every pixel, every headline, and every button must be engineered for a single outcome: conversion.
 
-At [Compel](https://getcompel.co), we specialize in building high-converting funnels for coaches. We have audited thousands of pages and discovered exactly [why funnel leaking](/learn/why-funnel-leaking) happens. In this definitive guide, we have distilled our findings into a 9-point landing page checklist. Apply these coaching page optimization strategies to turn your passive traffic into high-ticket clients.
+At [Compel](https://getcompel.co), we focus on coaching funnels that move visitors toward a booked conversation. This 9-point checklist covers common sources of [funnel friction](/learn/why-funnel-leaking), from the offer and page copy to the booking step. Use it to review where your own visitors may be dropping off.
 
 ## Key Takeaways
 
@@ -89,4 +90,4 @@ Optimizing landing pages, writing high-converting copy, and setting up seamless 
 
 At [Compel](https://getcompel.co), we operate on a completely **[zero upfront model](/learn/zero-upfront-model)**. We will build, optimize, and launch your entire high-ticket funnel using these exact best practices. We write the copy, design the landing pages, and handle all the tech integrations. 
 
-You pay $0 upfront. We only get paid when your discovery call bookings increase by 30% within 30 days. We assume all the risk, because we know our systems work. Stop losing high-value clients to bad page design. Let Compel build your conversion machine today.
+You pay $0 upfront. We only get paid when your discovery call bookings increase by the agreed target during the performance window. We assume all the risk, because we know our systems work. Stop losing high-value clients to bad page design. Let Compel build your conversion machine today.

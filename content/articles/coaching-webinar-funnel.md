@@ -1,6 +1,7 @@
 ---
 title: "Webinar Funnels for Coaches: The Ultimate Playbook for Filling Live Events"
 date: "2026-05-06"
+updated: 2026-09-24
 excerpt: "Stop presenting to empty rooms. Learn the exact coaching webinar funnel framework to consistently pack your live events with highly qualified, high-ticket prospects."
 ---
 
@@ -129,6 +130,6 @@ Webinars are particularly effective for selling high-ticket masterminds, group c
 
 Building, testing, and optimizing a webinar funnel takes hundreds of hours and tens of thousands of dollars in ad spend to get right. From the landing page copy to the indoctrination sequence, the slide deck structure, and the post-webinar follow-up, there are countless variables to manage.
 
-At [Compel](/), we remove the risk and the guesswork. We build and manage high-converting, performance-based funnels for established coaches. We handle the copy, the design, the automation, and the strategy. The best part? We operate on a strict [zero-upfront model](/learn/zero-upfront-model). We build your entire funnel for free, and you only pay us when we increase your qualified discovery call bookings by 30% within 30 days.
+At [Compel](/), we remove the risk and the guesswork. We build and manage high-converting, performance-based funnels for established coaches. We handle the copy, the design, the automation, and the strategy. The best part? We operate on a strict [zero-upfront model](/learn/zero-upfront-model). We build your entire funnel for free, and you only pay us when we increase your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop presenting to empty rooms and start speaking to highly qualified prospects who are ready to buy. Let's scale your impact and your income.

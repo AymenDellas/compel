@@ -1,6 +1,7 @@
 ---
 title: "27 [Discovery Call](/learn/coaching-discovery-call-script) Questions That Uncover If a Prospect Is Ready to Buy"
 date: "2026-06-18"
+updated: 2026-09-24
 excerpt: "Stop wasting time on unqualified leads. Use these 27 psychological coaching discovery call questions to uncover true buying motivation and close more high-ticket clients."
 ---
 
@@ -101,6 +102,6 @@ At **[Compel](/)**, we solve the lead generation problem completely risk-free.
 
 We are a performance-based funnel agency that builds bespoke acquisition funnels for high-ticket coaches. We handle the landing pages, the copy, and the email automations with **zero upfront cost**. 
 
-You only pay us a performance fee if we successfully increase your qualified discovery call bookings by 30% within 30 days. We pack your calendar with qualified leads, so you can focus on asking the right questions and closing deals. 
+You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We pack your calendar with qualified leads, so you can focus on asking the right questions and closing deals.
 
 Ready to scale your coaching business predictably? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

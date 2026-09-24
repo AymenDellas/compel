@@ -1,6 +1,7 @@
 ---
 title: "The LinkedIn Funnel for Career Coaches: From Connection to Client"
 date: "2026-05-31"
+updated: 2026-09-24
 excerpt: "Master the LinkedIn funnel for career coaches. Learn the exact system to turn passive connections into high-paying coaching clients on autopilot."
 ---
 
@@ -94,4 +95,4 @@ A far safer and more effective approach is the [/learn/zero-upfront-model](/lear
 
 LinkedIn is a goldmine for career coaches, but only if you have the right machinery in place to extract the value. Stop randomly connecting with people and hoping for referrals. Build a structured LinkedIn funnel that systematically turns strangers into high-paying clients.
 
-**If you want to dominate LinkedIn but don't want to spend your days building landing pages and writing email sequences, Compel is your solution. We build complete, end-to-end performance funnels for career coaches. We optimize your profile, build your lead magnets, design the landing pages, and set up the automations. The best part? $0 upfront. You only pay if we increase your booked discovery calls by 30% within 30 days. [Visit our homepage](/) to turn your LinkedIn profile into a client acquisition machine.**
+**If you want to dominate LinkedIn but don't want to spend your days building landing pages and writing email sequences, Compel is your solution. We build complete, end-to-end performance funnels for career coaches. We optimize your profile, build your lead magnets, design the landing pages, and set up the automations. The best part? $0 upfront. You only pay if we increase your booked discovery calls by the agreed target during the performance window. [Visit our homepage](/) to turn your LinkedIn profile into a client acquisition machine.**

@@ -1,6 +1,7 @@
 ---
 title: "How to Get Coaching Clients Online: 12 Proven Strategies for 2026"
 date: "2026-05-17"
+updated: 2026-09-24
 excerpt: "12 proven strategies to get coaching clients online in 2026. Covers organic methods, paid advertising, referral systems, and the funnel infrastructure that ties everything together."
 ---
 
@@ -203,4 +204,4 @@ Do not try to do all 12. Choose 2-3 strategies based on:
 
 Individual strategies generate individual leads. A **system** generates a predictable pipeline. The difference is infrastructure — the [funnel template](/learn/coaching-funnel-template), the [email sequences](/learn/coaching-email-nurture-sequence), the [booking flow](/learn/coaching-booking-page-best-practices), and the [tracking metrics](/learn/coaching-website-conversion-rate) that tie everything together.
 
-At [Compel](/), we build the conversion infrastructure that turns your chosen traffic strategy into a predictable client acquisition system. Zero upfront cost — we only get paid when your discovery calls increase by 30% in 30 days. Because if the system does not work, why should you pay for it?
+At [Compel](/), we build the conversion infrastructure that turns your chosen traffic strategy into a predictable client acquisition system. Zero upfront cost — we only get paid when your discovery calls increase by the agreed target during the performance window. Because if the system does not work, why should you pay for it?

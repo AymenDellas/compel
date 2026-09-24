@@ -1,6 +1,7 @@
 ---
 title: "[Life Coach](/coaches/life-coaching) Niche Selection: How to Pick a Profitable Specialty"
 date: "2026-05-15"
+updated: 2026-09-24
 excerpt: "Master life coach niche selection. Learn how to pick a profitable specialty, stand out in a saturated market, and attract high-ticket clients effortlessly."
 ---
 
@@ -106,4 +107,4 @@ Life coach niche selection is not a lifelong marriage; it is a strategic decisio
 
 Stop hiding behind the title of "General Life Coach." Claim your specialty, command premium prices, and start building a predictable acquisition system.
 
-**At Compel, we specialize in building high-converting funnels for specialized coaches. We handle the technical heavy lifting—from landing page design (check out our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)) to email automation. We operate on a $0 upfront performance model, meaning you only pay if we boost your discovery call bookings by 30% in 30 days. Ready to dominate your niche? [Visit our homepage](/) and let's scale your impact.**
+**At Compel, we specialize in building high-converting funnels for specialized coaches. We handle the technical heavy lifting—from landing page design (check out our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)) to email automation. We operate on a $0 upfront performance model, meaning you only pay if we boost your discovery call bookings by the agreed target during the performance window. Ready to dominate your niche? [Visit our homepage](/) and let's scale your impact.**

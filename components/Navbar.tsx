@@ -9,7 +9,7 @@ export const Navbar = () => {
 
   return (
     <div className="fixed top-6 left-0 right-0 z-50 flex w-full justify-center px-4 pointer-events-none">
-      <nav className="pointer-events-auto relative flex w-full max-w-3xl items-center justify-between rounded-full p-2 pl-6 bg-background/80 backdrop-blur-xl border border-text/10 shadow-sm supports-[backdrop-filter]:bg-background/60">
+      <nav className="pointer-events-auto relative flex w-full max-w-3xl items-center justify-between rounded-full p-2 pl-4 sm:pl-6 bg-background/80 backdrop-blur-xl border border-text/10 shadow-sm supports-[backdrop-filter]:bg-background/60">
         
         {/* Subtle top border highlight (static, no animations) */}
         <div className="absolute inset-x-0 top-0 h-[1px] bg-gradient-to-r from-transparent via-text/10 to-transparent rounded-t-full" />
@@ -29,13 +29,18 @@ export const Navbar = () => {
           </svg>
         </Link>
 
+        <div className="flex items-center gap-3 sm:gap-6">
+          <Link href="/learn" className="text-xs sm:text-sm font-medium text-neutral-300 hover:text-accent">Guides</Link>
+          <Link href="/about" className="hidden sm:inline text-sm font-medium text-neutral-300 hover:text-accent">About</Link>
+        </div>
+
         {/* CTA Button */}
         <div className="flex items-center">
           <button
             onClick={openModal}
-            className="group relative flex items-center gap-2 rounded-full border border-transparent bg-accent text-background px-5 sm:px-6 py-2 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer transition-colors hover:bg-accent/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background"
+            className="group relative flex items-center gap-2 rounded-full border border-transparent bg-accent text-background px-3 sm:px-6 py-2 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer transition-colors hover:bg-accent/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background"
           >
-            Book Discovery Call
+            <span className="sm:hidden">Book a Call</span><span className="hidden sm:inline">Book Discovery Call</span>
             <svg
               className="w-3.5 h-3.5 opacity-80 transition-transform duration-200 group-hover:translate-x-0.5"
               fill="none"

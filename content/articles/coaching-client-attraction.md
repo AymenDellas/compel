@@ -1,6 +1,7 @@
 ---
 title: "Client Attraction for Coaches: The Psychology Behind Why People Buy Coaching"
 date: "2026-06-02"
+updated: 2026-09-24
 excerpt: "Stop selling your credentials and start selling the transformation. Understand the deep psychological triggers of coaching client attraction to effortlessly book more discovery calls."
 ---
 
@@ -88,6 +89,6 @@ This is where Compel steps in.
 
 We are not just a marketing agency; we are a performance-based growth partner for high-ticket coaches. We understand the deep psychology required to convert cold traffic into high-paying clients. We build your entire funnel—from the disruptive ad creatives to the emotionally resonant VSLs and automated email sequences.
 
-The best part? We operate on a zero-risk model. **You pay $0 upfront.** We only get paid when we successfully increase your booked discovery calls by 30% within 30 days. If our psychology-driven funnels don't deliver, you don't pay a dime.
+The best part? We operate on a zero-risk model. **You pay $0 upfront.** We only get paid when we successfully increase your booked discovery calls by the agreed target during the performance window. If our psychology-driven funnels don't deliver, you don't pay a dime.
 
 Stop relying on hope and start engineering your client attraction. Learn more about our performance-based model on our [homepage](/).

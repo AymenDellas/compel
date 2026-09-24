@@ -1,6 +1,7 @@
 ---
 title: "Thought Leadership for Executive Coaches: Build Authority That Attracts Inbound"
 date: "2026-05-29"
+updated: 2026-09-24
 excerpt: "Stop chasing clients. Discover how to build authentic thought leadership for executive coaches. Learn the frameworks to create magnetic content that positions you as the ultimate industry authority."
 ---
 
@@ -103,6 +104,6 @@ At Compel, we specialize in building the infrastructure for coaching thought lea
 
 We build the landing pages that showcase your whitepapers, we design the automated email sequences that nurture your executive audience, and we integrate the frictionless booking flows that fill your calendar. 
 
-Best of all, we operate on a [zero-upfront model](/learn/zero-upfront-model). We build your custom thought-leadership funnel at zero initial cost. You only pay us if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take on the technical and financial risk, allowing you to focus entirely on sharing your genius with the world. 
+Best of all, we operate on a [zero-upfront model](/learn/zero-upfront-model). We build your custom thought-leadership funnel at zero initial cost. You only pay us if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take on the technical and financial risk, allowing you to focus entirely on sharing your genius with the world.
 
 Ready to turn your expertise into a predictable client acquisition engine? Visit the [Compel homepage](/) to see how we can build your performance-based pipeline today.

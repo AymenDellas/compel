@@ -1,6 +1,7 @@
 ---
 title: "Coaching Business Automation: Save 15+ Hours Per Week With These Systems"
 date: "2026-05-25"
+updated: 2026-09-24
 excerpt: "Stop drowning in admin work. Learn the essential coaching business automation systems to streamline onboarding, lead nurturing, and client management so you can focus on coaching."
 ---
 
@@ -86,6 +87,6 @@ If you are not technically inclined, trying to build these complex automated wor
 
 At [Compel](/), we don't just build pretty landing pages; we architect the entire automated backend of your client acquisition machine. Whether you are a [business coach](/coaches/business-coaching) or a [performance coach](/coaches/performance-coaching), we design the systems that seamlessly capture leads, nurture them, qualify them, and book them onto your calendar on autopilot.
 
-We handle the complex integrations, the Zapier webhooks, and the email sequencing. And because we operate on a strict [zero upfront model](/learn/zero-upfront-model), we build this entire automated infrastructure for free. You only pay us when our automated systems successfully increase your qualified discovery calls by 30% within 30 days. 
+We handle the complex integrations, the Zapier webhooks, and the email sequencing. And because we operate on a strict [zero upfront model](/learn/zero-upfront-model), we build this entire automated infrastructure for free. You only pay us when our automated systems successfully increase your qualified discovery calls by the agreed target during the performance window.
 
 Stop doing data entry and start coaching. Partner with Compel to automate your growth today.

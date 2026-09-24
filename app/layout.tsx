@@ -21,11 +21,6 @@ export const metadata: Metadata = {
     'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase.',
   alternates: {
     canonical: 'https://getcompel.co/',
-    languages: {
-      'en-US': 'https://getcompel.co/',
-      'en-GB': 'https://getcompel.co/',
-      'en-CA': 'https://getcompel.co/',
-    },
   },
   openGraph: {
     title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
@@ -116,15 +111,13 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "ProfessionalService",
+              "@type": "Organization",
+              "@id": "https://getcompel.co/#organization",
               "name": "Compel",
               "url": "https://getcompel.co",
               "logo": "https://getcompel.co/brand/compel-logo-primary.svg",
               "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.",
-              "priceRange": "$0 upfront",
               "image": "https://getcompel.co/og-image.png",
-              "areaServed": ["US", "GB", "CA"],
-              "serviceType": "Performance-Based Funnel Building for Coaches",
               "knowsAbout": [
                 "coaching funnels",
                 "lead generation for coaches",
@@ -136,14 +129,9 @@ export default function RootLayout({
               "contactPoint": {
                 "@type": "ContactPoint",
                 "contactType": "sales",
-                "url": "https://calendly.com/dellasaymen/discovery-call-compel"
+                "email": "aymen@getcompel.co"
               },
-              "offers": {
-                "@type": "Offer",
-                "price": "0",
-                "priceCurrency": "USD",
-                "description": "$0 upfront, 30-day performance window, 100% financial downside covered. Pay only if discovery calls increase."
-              }
+              "founder": { "@type": "Person", "name": "Aymen Dellas", "url": "https://getcompel.co/about" }
             })
           }}
         />

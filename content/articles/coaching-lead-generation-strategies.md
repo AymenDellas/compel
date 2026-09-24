@@ -1,6 +1,7 @@
 ---
 title: "Lead Generation for Coaches: The Definitive Strategy Guide"
 date: "2026-05-21"
+updated: 2026-09-24
 excerpt: "Struggling to find consistent coaching clients? Discover the definitive guide to lead generation for coaches, covering organic outreach, paid ads, and automated funnels."
 ---
 
@@ -102,7 +103,7 @@ Most marketing agencies will charge you massive monthly retainers to run your le
 
 At Compel, we believe that is fundamentally broken. 
 
-We are a performance-based growth partner specifically for high-ticket coaches. We build out your entire lead generation ecosystem—landing pages, ad creatives, email funnels, and CRM automations. And the best part? We operate on a **zero-upfront model**. You pay absolutely nothing out of pocket. We only get paid when we increase your booked discovery calls by 30% within 30 days.
+We are a performance-based growth partner specifically for high-ticket coaches. We build out your entire lead generation ecosystem—landing pages, ad creatives, email funnels, and CRM automations. And the best part? We operate on a **zero-upfront model**. You pay absolutely nothing out of pocket. We only get paid when we increase your booked discovery calls by the agreed target during the performance window.
 
 Stop stressing over where your next client is coming from. Focus on delivering incredible transformations, and let us handle the pipeline.
 

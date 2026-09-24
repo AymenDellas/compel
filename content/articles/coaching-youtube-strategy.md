@@ -1,6 +1,7 @@
 ---
 title: "YouTube for Coaches: Build a Channel That Generates Coaching Leads"
 date: "2026-04-18"
+updated: 2026-09-24
 excerpt: "Stop fighting the algorithm on Instagram. Discover the ultimate coaching YouTube strategy to build a video channel that acts as an evergreen, 24/7 lead generation machine for high-ticket clients."
 ---
 
@@ -125,7 +126,7 @@ A **YouTube for coaches** strategy is completely different. It is cumulative.
 
 When you publish a highly optimized video addressing a specific problem, it acts like a digital employee working for you 24/7/365. You might publish a video today that gets 50 views this week. But over the next two years, it might slowly accumulate 50,000 views via organic search. 
 
-We have seen coaches book $10,000 coaching packages from a client who watched a video published three years prior. This is the definition of leveraging your time. Every video you create is an asset added to your portfolio, slowly building your authority and your lead pipeline.
+An older video can continue to introduce a coach to new prospects if it answers a question people still search for. Each useful video becomes part of a growing library that can support your lead pipeline over time.
 
 ---
 
@@ -172,6 +173,6 @@ When you combine the organic search power of YouTube with a finely tuned convers
 ### Ready to Scale Your Funnel Without the Financial Risk?
 Generating traffic on YouTube is only half the battle. If your landing pages and VSLs aren't converting those viewers into booked discovery calls, you are leaving massive amounts of money on the table. 
 
-At Compel, we specialize in building high-converting funnels for coaches—and we do it with **$0 upfront**. We build your entire conversion architecture and you only pay us if we increase your discovery call bookings by 30% within 30 days. 
+At Compel, we specialize in building high-converting funnels for coaches—and we do it with **$0 upfront**. We build your entire conversion architecture and you only pay us if we increase your discovery call bookings by the agreed target during the performance window.
 
 Stop worrying about funnel tech and start focusing on recording great videos. Learn more about our incredible [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to see how we can turn your YouTube traffic into premium clients.

@@ -1,7 +1,8 @@
 ---
 title: "The $0 Upfront Model: How Performance-Based Funnel Agencies Are Replacing Retainers for Coaches"
 date: "2026-06-25"
-excerpt: "Tired of paying agencies thousands before seeing a single booked call? The $0 upfront, performance-based acquisition model flips the script — you only pay when [discovery call](/learn/coaching-discovery-call-script) bookings increase by 30%. Here's exactly how it works."
+updated: 2026-09-24
+excerpt: "Learn how Compel's $0 upfront model works: agree on a booking baseline and target, build the funnel, then pay only if that target is reached."
 ---
 
 Most coaches have been burned by an agency at least once. You paid $3,000–$7,000 upfront for a funnel build, waited 60 days, and ended up with a landing page that converted at 1.2% and an [email sequence](/learn/coaching-email-nurture-sequence) that felt like it was written by someone who has never coached anyone. Sound familiar?
@@ -14,7 +15,7 @@ This article breaks down exactly how the $0 upfront model works, why it's partic
 
 ## Key Takeaways
 
-- **Zero financial risk**: You pay nothing until discovery call bookings increase by at least 30% within 30 days
+- **Zero financial risk**: You pay nothing until discovery call bookings increase by the agreed target during the performance window
 - **Aligned incentives**: The agency only profits when you profit, eliminating the "take the money and run" dynamic
 - **Full funnel delivery**: Landing pages, email sequences, booking flows, and automations are built for you before you spend a dollar
 - **Ideal for coaches**: Whether you're in [executive coaching](/coaches/executive-coaching), [business coaching](/coaches/business-coaching), or [life coaching](/coaches/life-coaching), the model scales with your practice
@@ -34,7 +35,7 @@ Here's what the typical retainer engagement looks like for a coaching business:
 
 By month three, you've invested $9,000–$23,000 and you're still not sure if the funnel is working. You ask for changes. The agency pushes back because they've already allocated their team's time. You're stuck in a contract that's burning cash while your coaching practice needs clients *now*.
 
-This isn't a hypothetical. It's the lived experience of hundreds of coaches who eventually find their way to a [performance-based model](/learn/retainer-vs-performance) after getting burned by the retainer treadmill.
+These numbers are an illustration of how a retainer can add up. Compare actual proposals, scope, and terms before choosing a [performance-based model](/learn/retainer-vs-performance).
 
 ### The Core Problem: Misaligned Incentives
 
@@ -88,17 +89,17 @@ Here's where the performance-based model earns its name. The funnel goes live, a
 - **Booking page completion rates**
 - **No-show rates**
 
-The target is clear: **a 30% increase in discovery call bookings within 30 days**. This isn't measured against a vague baseline — it's benchmarked against your pre-funnel booking rate with documented evidence.
+The target is set with each client before launch: **an agreed increase in discovery call bookings during the performance window**. It is measured against a documented pre-funnel baseline.
 
-During this window, the agency is actively optimizing. They're A/B testing headlines, adjusting email copy, tweaking booking page layouts, and analyzing drop-off points. They have every reason to move fast and iterate aggressively because their payment depends on hitting that 30% threshold.
+During this window, the agency can test headlines, adjust email copy, improve booking page layouts, and analyze drop-off points. Payment depends on hitting the agreed target.
 
 ### Step 4: Payment Triggers Only on Results
 
-If the 30% increase is achieved, the agreed-upon payment structure kicks in. If it's not achieved, you owe nothing. Zero. You keep the funnel assets, and you walk away.
+If the agreed target is achieved, the agreed-upon payment structure kicks in. If it is not achieved, you owe nothing and keep the funnel assets.
 
 This is the part that makes most coaches skeptical: *"Why would an agency do all that work for free?"*
 
-The answer is straightforward. A competent performance-based agency has a high win rate. They've built dozens or hundreds of coaching funnels. They know which frameworks convert. They can predict with reasonable accuracy whether a given coaching niche and offer will respond to their funnel architecture. The math works in their favor at portfolio level, even if individual engagements occasionally don't hit the target.
+The answer depends on each agency's economics. A selective agency can assess the offer and current traffic before accepting the risk, set a clear target, and price the work to account for projects that may not hit it. Ask any provider how their baseline, attribution, and payment trigger are documented.
 
 It's the same model that [drives the economics behind CPA-based client acquisition](/learn/cpa-high-ticket) in high-ticket services. The agency trades short-term risk for long-term, aligned revenue.
 
@@ -132,7 +133,7 @@ The rising popularity of **risk-free marketing for coaches** has attracted some 
 
 ### Red Flag #1: Vague Success Metrics
 
-If an agency says they'll "improve your marketing performance" without defining specific, measurable targets (like a 30% increase in booked discovery calls within 30 days), walk away. Vague promises are the hallmark of agencies that want the marketing cachet of "performance-based" without the actual accountability.
+If an agency says they'll "improve your marketing performance" without defining specific, measurable targets (like a an agreed increase in booked discovery calls during the performance window), walk away. Vague promises are the hallmark of agencies that want the marketing cachet of "performance-based" without the actual accountability.
 
 ### Red Flag #2: Hidden Setup Fees
 
@@ -152,13 +153,13 @@ Counterintuitively, a good sign is an agency that turns down potential clients. 
 
 ## The ROI Math: Running the Numbers on a $0 Upfront Funnel
 
-Let's make this concrete with a realistic example.
+Let's make this concrete with a hypothetical example. The 30% lift below is an illustration, not Compel's standard target or a forecast.
 
 **Scenario**: You're a [business coach](/coaches/business-coaching) charging $8,000 per 3-month engagement. You currently book 8 discovery calls per month and close 25% of them (2 new clients/month = $16,000/month in new revenue).
 
 **With a performance-based funnel agency**:
 
-| Metric | Before | After (30% increase) |
+| Metric | Before | After (illustrative 30% lift) |
 |---|---|---|
 | Discovery calls/month | 8 | 10.4 (~11) |
 | Close rate (unchanged) | 25% | 25% |
@@ -203,7 +204,7 @@ It works less well for coaches who:
 
 The coaching industry is full of agencies that will happily take your $5,000 retainer and deliver a Canva-designed landing page with stock photos and generic copy. You deserve better.
 
-[Compel](/) is a **performance-based funnel agency** built specifically for coaches. We design and build your entire conversion funnel — landing pages, email sequences, booking flows — at **$0 upfront**. You only pay if we increase your discovery call bookings by 30% within 30 days. If we don't hit that number, you owe nothing and keep the funnel assets.
+[Compel](/) is a **performance-based funnel agency** built specifically for coaches. We design and build your entire conversion funnel — landing pages, email sequences, booking flows — at **$0 upfront**. You only pay if we increase your discovery call bookings by the agreed target during the performance window. If we don't hit that number, you owe nothing and keep the funnel assets.
 
 No retainers. No onboarding fees. No vague promises about "brand awareness." Just a simple bet: we build it, and if it works, we both win. If it doesn't, you lose nothing.
 

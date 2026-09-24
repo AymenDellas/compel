@@ -1,6 +1,7 @@
 ---
 title: "Building an Online Presence for Business Coaches: Website, Social, and Content"
 date: "2026-06-03"
+updated: 2026-09-24
 excerpt: "A digital brochure won't cut it anymore. Discover how to build an authoritative online presence for business coaches that actively converts passive scrollers into high-ticket clients."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "A digital brochure won't cut it anymore. Discover how to build an auth
 - **The One-Page Funnel:** Ditch the complex, multi-page website. A streamlined, high-converting landing page is all a modern [business coach](/coaches/business-coaching) needs to capture leads.
 - **Omnipresence through Repurposing:** You don't need to be everywhere all the time, but you do need to appear that way to your target audience through smart content repurposing.
 - **Email is the Ultimate Asset:** Social media algorithms change, but your email list is an asset you own. Prioritize capturing emails above gaining followers.
-- **Compel’s Guarantee:** We engineer high-converting digital footprints for [business coaches](/coaches/business-coaching) and [career coaches](/coaches/career-coaching) with **$0 upfront**. You only pay when discovery calls jump by 30% in 30 days.
+- **Compel’s Guarantee:** We engineer high-converting digital footprints for [business coaches](/coaches/business-coaching) and [career coaches](/coaches/career-coaching) with **$0 upfront**. You only pay when discovery calls jump by the agreed target during the performance window.
 
 ## The State of the Business Coaching Online Presence
 
@@ -99,4 +100,4 @@ Your online presence should be a relentless, 24/7 sales engine. By shifting from
 Stop treating your digital presence as an afterthought. Treat it as the most important employee in your business.
 
 **Ready to transform your online presence into a conversion engine?**
-At [Compel](https://getcompel.co), we don't build pretty websites; we build high-performance funnels that generate booked discovery calls. And the best part? We do it on a pure performance basis. **Zero upfront costs.** We design, build, and optimize your entire digital funnel, and you only pay us when your discovery calls increase by 30% in 30 days. Stop paying for agency promises and start paying for performance. [Click here to apply for our zero-upfront model.](/)
+At [Compel](https://getcompel.co), we don't build pretty websites; we build high-performance funnels that generate booked discovery calls. And the best part? We do it on a pure performance basis. **Zero upfront costs.** We design, build, and optimize your entire digital funnel, and you only pay us when your discovery calls increase by the agreed target during the performance window. Stop paying for agency promises and start paying for performance. [Click here to apply for our zero-upfront model.](/)

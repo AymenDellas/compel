@@ -50,6 +50,7 @@ export const LeadCaptureModal = () => {
       });
 
       if (response.ok) {
+        window.gtag?.('event', 'generate_lead', { lead_source: 'site_form' });
         closeModal();
         setName("");
         setEmail("");

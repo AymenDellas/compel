@@ -1,6 +1,7 @@
 ---
 title: "Coaching Pricing Strategy: How to Set Prices That Attract Premium Clients"
 date: "2026-05-01"
+updated: 2026-09-24
 excerpt: "Stop undercharging for your coaching services. Learn the exact coaching pricing strategies to structure high-ticket packages and scale your income without working more hours."
 ---
 
@@ -110,4 +111,4 @@ A premium coaching pricing strategy only works if you have a consistent flow of 
 
 At [Compel](/), we build high-converting funnels specifically designed for coaches who charge premium rates. Whether you specialize in [performance coaching](/coaches/performance-coaching) or [life coaching](/coaches/life-coaching), we craft the landing pages, email sequences, and booking flows that pre-qualify prospects and sell them on your value *before* they ever get on a call. 
 
-The best part? We operate on a 100% performance-based model. Zero upfront fees. You only pay when we increase your qualified discovery calls by 30% within 30 days. Ready to scale your premium coaching business risk-free? Let's talk.
+The best part? We operate on a 100% performance-based model. Zero upfront fees. You only pay when we increase your qualified discovery calls by the agreed target during the performance window. Ready to scale your premium coaching business risk-free? Let's talk.

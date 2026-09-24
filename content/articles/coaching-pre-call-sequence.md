@@ -1,6 +1,7 @@
 ---
 title: "The Pre-Call [Email Sequence](/learn/coaching-email-nurture-sequence) Every Coach Needs (Templates Included)"
 date: "2026-06-16"
+updated: 2026-09-24
 excerpt: "Stop getting on sales calls with cold prospects. Use this proven coaching pre-call sequence to build authority, handle objections in advance, and close more clients."
 ---
 
@@ -145,6 +146,6 @@ At **[Compel](/)**, we do things differently. We are a performance-based agency 
 
 The best part? **We charge $0 upfront.** 
 
-You only pay us a performance fee if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take all the risk, you get all the pre-sold, highly qualified leads. 
+You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take all the risk, you get all the pre-sold, highly qualified leads.
 
 If you are ready to stop winging your sales process and want a predictable, guaranteed system, [learn more about our zero-upfront model today](/learn/zero-upfront-model).

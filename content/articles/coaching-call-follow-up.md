@@ -1,6 +1,7 @@
 ---
 title: "Coaching Call Follow-Up Strategy: Convert Maybes Into Paying Clients"
 date: "2026-06-20"
+updated: 2026-09-24
 excerpt: "Most high-ticket coaching sales are lost in the follow-up. Learn the exact 3-step coaching call follow-up strategy to convert hesitant prospects into paying clients."
 ---
 
@@ -130,6 +131,6 @@ Most coaches don't have the technical skills to build this out, and traditional 
 
 At **[Compel](/)**, we build end-to-end client acquisition funnels with advanced follow-up automations already baked in. We are a performance-based funnel agency, meaning we build the landing pages, the pre-call sequences, and the post-call follow-up automations with **zero upfront cost**. 
 
-You only pay us a performance fee if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take the technical and copywriting burden completely off your plate so you can focus on coaching. 
+You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take the technical and copywriting burden completely off your plate so you can focus on coaching.
 
 Stop letting high-ticket clients slip through the cracks. [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

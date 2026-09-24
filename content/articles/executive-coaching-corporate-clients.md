@@ -1,6 +1,7 @@
 ---
 title: "How to Land Corporate Executive Coaching Contracts: A B2B Playbook"
 date: "2026-05-21"
+updated: 2026-09-24
 excerpt: "Stop selling to individuals. Discover the exact B2B strategies to land lucrative, multi-figure corporate executive coaching contracts by navigating HR, procurement, and C-suite sponsors."
 ---
 
@@ -111,6 +112,6 @@ Compel operates on a fundamentally different paradigm. We are an exclusive growt
 
 We build the entire B2B acquisition engine—the corporate-facing landing pages, the high-friction lead magnets, the authoritative email sequences, and the streamlined booking flows. We ensure your digital presence passes the scrutiny of the most rigorous corporate procurement teams.
 
-Our commitment is guaranteed through our [zero-upfront model](/learn/zero-upfront-model). We design, build, and launch your enterprise funnel at absolutely no upfront cost. You only pay us if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. We take on the entire financial risk because we build systems designed specifically to convert C-suite decision-makers and corporate sponsors.
+Our commitment is guaranteed through our [zero-upfront model](/learn/zero-upfront-model). We design, build, and launch your enterprise funnel at absolutely no upfront cost. You only pay us if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We take on the entire financial risk because we build systems designed specifically to convert C-suite decision-makers and corporate sponsors.
 
 If you are an [executive coach](/coaches/executive-coaching) ready to move upmarket, secure lucrative corporate contracts, and scale your impact without the risk of expensive agency retainers, visit the [Compel homepage](/) to learn how we can engineer your pipeline today.

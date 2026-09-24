@@ -1,6 +1,7 @@
 ---
 title: "Group Coaching Programs: How Business Coaches Scale Beyond 1:1"
 date: "2026-06-07"
+updated: 2026-09-24
 excerpt: "Hitting an income ceiling? Learn the exact blueprint for transitioning to business coaching group programs and scaling your impact without working more hours."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Hitting an income ceiling? Learn the exact blueprint for transitioning
 - **Curriculum is King:** Successful group coaching relies heavily on a productized, step-by-step curriculum that handles the foundational teaching, saving live calls for high-level strategy.
 - **The Cohort Advantage:** Launching in cohorts creates natural scarcity and urgency, which drastically improves your marketing funnel conversions.
 - **Marketing the Shift:** Selling a group program requires a different funnel architecture than selling 1:1. Learn why a robust [coaching email nurture sequence](/learn/coaching-email-nurture-sequence) is vital for group launches.
-- **Compel’s Guarantee:** We build the automated acquisition systems needed to fill your group programs. For [business coaches](/coaches/business-coaching) and [life coaches](/coaches/life-coaching), we work for **$0 upfront**, getting paid only when your calls increase by 30%.
+- **Compel’s Guarantee:** We build the automated acquisition systems needed to fill your group programs. For [business coaches](/coaches/business-coaching) and [life coaches](/coaches/life-coaching), we work for **$0 upfront**, getting paid only when calls increase by the agreed target.
 
 ## The Evolution to Business Coaching Group Programs
 
@@ -96,4 +97,4 @@ Transitioning to business coaching group programs is the definitive rite of pass
 Stop trading your time for money. Build the system, fill the group, and watch your impact and income soar.
 
 **Need a predictable system to fill your next cohort?**
-At [Compel](https://getcompel.co), we build the high-volume, automated funnels required to sell out group coaching programs. We don't charge hefty retainers for empty promises. We operate on a 100% performance basis. **$0 upfront.** You only pay us when we increase your qualified discovery calls by 30% within 30 days. Let us build the machine to fill your groups so you can focus on delivering an incredible experience. [Discover the zero-upfront difference and apply today.](/)
+At [Compel](https://getcompel.co), we build the high-volume, automated funnels required to sell out group coaching programs. We don't charge hefty retainers for empty promises. We operate on a 100% performance basis. **$0 upfront.** You only pay us when we increase your qualified discovery calls by the agreed target during the performance window. Let us build the machine to fill your groups so you can focus on delivering an incredible experience. [Discover the zero-upfront difference and apply today.](/)

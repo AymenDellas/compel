@@ -1,6 +1,7 @@
 ---
 title: "Brand Positioning for Executive Coaches: Stand Out in a Crowded Market"
 date: "2026-06-02"
+updated: 2026-09-24
 excerpt: "Stop blending in. Master executive coaching brand positioning to differentiate your practice, command premium fees, and effortlessly attract high-intent C-suite clients."
 ---
 
@@ -103,6 +104,6 @@ At Compel, we do not do generic marketing. We are a specialized growth partner b
 
 We take your unique expertise and translate it into a sharp, uncompromising brand position. But we don't stop at strategy. We build the entire performance-based funnel required to execute that strategy. We design the premium landing pages, write the authoritative email sequences, and build the lead generation systems that position you as a "Category of One."
 
-Our confidence in our ability to position you correctly is reflected in our pricing. With our [zero-upfront model](/learn/zero-upfront-model), you pay absolutely nothing for us to build and launch your custom conversion funnel. You only pay us if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. We assume the financial risk because we build systems engineered to attract, nurture, and convert high-ticket clients. 
+Our confidence in our ability to position you correctly is reflected in our pricing. With our [zero-upfront model](/learn/zero-upfront-model), you pay absolutely nothing for us to build and launch your custom conversion funnel. You only pay us if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We assume the financial risk because we build systems engineered to attract, nurture, and convert high-ticket clients.
 
 If you are ready to step out of the sea of sameness, command the fees your expertise deserves, and build a predictable pipeline of C-suite clients, visit [Compel](/) to learn how we can build your performance-driven engine today.

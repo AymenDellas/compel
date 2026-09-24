@@ -1,6 +1,7 @@
 ---
 title: "Coaching Business Models: 7 Ways to Structure Your Practice for Profit"
 date: "2026-05-10"
+updated: 2026-09-24
 excerpt: "Explore the top 7 coaching business models to scale your income. Discover which structure aligns with your goals, from 1:1 high-ticket consulting to leveraged group programs and digital products."
 ---
 
@@ -105,6 +106,6 @@ Regardless of which coaching business model you choose—whether you are launchi
 
 At [Compel](/), we don't just build websites; we engineer client acquisition systems tailored to your specific coaching model. We understand the nuance of selling a high-ticket [retainer vs performance](/learn/retainer-vs-performance) package compared to an automated webinar funnel for a digital course.
 
-Best of all, we shoulder the risk. Through our innovative [zero upfront model](/learn/zero-upfront-model), we will build your entire funnel, craft the copy, and optimize the booking flow without charging you a dime upfront. We only get paid when we successfully increase your [discovery call](/learn/coaching-discovery-call-script) volume by 30% within 30 days. 
+Best of all, we shoulder the risk. Through our innovative [zero upfront model](/learn/zero-upfront-model), we will build your entire funnel, craft the copy, and optimize the booking flow without charging you a dime upfront. We only get paid when we successfully increase your [discovery call](/learn/coaching-discovery-call-script) volume by the agreed target during the performance window.
 
 Don't let a brilliant coaching model fail due to a lack of leads. Partner with Compel and scale with confidence.

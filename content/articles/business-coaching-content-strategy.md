@@ -1,6 +1,7 @@
 ---
 title: "Content Strategy for Business Coaches: What to Post, Where, and How Often"
 date: "2026-06-19"
+updated: 2026-09-24
 excerpt: "Stop guessing what to post. Discover the definitive content strategy for business coaches designed to build undeniable authority and drive high-ticket discovery calls."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Stop guessing what to post. Discover the definitive content strategy f
 - **The "Pillar and Splinter" System:** Maximize output and minimize effort by creating one piece of long-form "Pillar" content weekly and splintering it into dozens of micro-assets.
 - **LinkedIn is the Goldmine:** For business coaches, LinkedIn is the highest-leverage platform. Master it before diluting your focus across Instagram or TikTok.
 - **Email Nurturing is Non-Negotiable:** Social media captures attention, but email captures revenue. Your content must seamlessly transition prospects onto your email list.
-- **Compel’s Guarantee:** We build the end-to-end funnels that convert your content viewers into booked calls. We help [business coaches](/coaches/business-coaching) and [career coaches](/coaches/career-coaching) with **$0 upfront**. You only pay when calls increase by 30%.
+- **Compel’s Guarantee:** We build the end-to-end funnels that convert your content viewers into booked calls. We help [business coaches](/coaches/business-coaching) and [career coaches](/coaches/career-coaching) with **$0 upfront**. You only pay when calls increase by the agreed target.
 
 ## The Broken Reality of Coaching Content Strategies
 
@@ -105,4 +106,4 @@ Your content strategy is the fuel for your client acquisition engine. By shiftin
 Implement the Pillar and Splinter method, dominate LinkedIn, and fiercely protect and grow your email list. When you treat your content as a strategic sales asset, your calendar will fill with premium clients eager to pay your high-ticket rates.
 
 **Is your content getting likes but no booked calls?**
-At [Compel](https://getcompel.co), we build the conversion funnels that turn your content viewers into high-paying clients. We operate entirely on a performance model. **Zero upfront retainers.** We build your landing pages, optimize your email sequences, and streamline your booking process. You only pay us when we increase your qualified discovery calls by 30% within 30 days. Let us handle the conversion mechanics so you can focus on creating great content and coaching. [Click here to apply for our zero-upfront partnership.](/)
+At [Compel](https://getcompel.co), we build the conversion funnels that turn your content viewers into high-paying clients. We operate entirely on a performance model. **Zero upfront retainers.** We build your landing pages, optimize your email sequences, and streamline your booking process. You only pay us when we increase your qualified discovery calls by the agreed target during the performance window. Let us handle the conversion mechanics so you can focus on creating great content and coaching. [Click here to apply for our zero-upfront partnership.](/)

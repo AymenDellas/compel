@@ -13,7 +13,22 @@ export interface ArticleData {
   description?: string;
   excerpt?: string;
   date?: string;
+  updated?: string;
   [key: string]: any;
+}
+
+function normalizeFrontmatter(data: Record<string, any>) {
+  const normalizeDate = (value: unknown) =>
+    value instanceof Date ? value.toISOString().slice(0, 10) : typeof value === 'string' ? value : undefined;
+
+  return {
+    ...data,
+    title: typeof data.title === 'string'
+      ? data.title.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      : undefined,
+    date: normalizeDate(data.date),
+    updated: normalizeDate(data.updated),
+  };
 }
 
 export async function getArticleBySlug(slug: string): Promise<ArticleData> {
@@ -33,7 +48,7 @@ export async function getArticleBySlug(slug: string): Promise<ArticleData> {
   return {
     slug,
     contentHtml,
-    ...(matterResult.data as Record<string, any>),
+    ...normalizeFrontmatter(matterResult.data as Record<string, any>),
   };
 }
 
@@ -55,7 +70,7 @@ export function getAllArticles(): ArticleData[] {
 
       return {
         slug,
-        ...(matterResult.data as Record<string, any>),
+        ...normalizeFrontmatter(matterResult.data as Record<string, any>),
       };
     });
 

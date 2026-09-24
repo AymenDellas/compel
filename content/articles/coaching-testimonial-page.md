@@ -1,14 +1,15 @@
 ---
 title: "How to Build a Coaching Testimonial Page That Sells For You"
 date: 2026-06-17
-excerpt: "A generic wall of quotes doesn't convert high-ticket clients. Learn how to structure a coaching testimonial page that systematically destroys objections and drives calendar bookings."
+updated: 2026-09-24
+excerpt: "Learn how to present real coaching testimonials with context, specific outcomes, and a clear path to a discovery call."
 ---
 
 When a high-ticket prospect is on the fence about booking a call with you, they will inevitably look for proof. They will navigate to your "Client Results" or "Success Stories" page. If they find a generic list of text quotes saying, "John is a great coach and he really helped me," they will leave. 
 
 In the coaching industry, trust is your most valuable currency. A well-structured coaching testimonial page is not just a digital trophy case; it is a highly engineered sales asset. It should systematically dismantle objections, validate your methodology, and push the prospect toward a [discovery call](/learn/coaching-discovery-call-script) with overwhelming force. 
 
-At [Compel](https://getcompel.co), we have seen exactly [why funnel leaking](/learn/why-funnel-leaking) happens right before a prospect is about to convert. Often, it's because the social proof wasn't strong enough. In this guide, we will show you exactly how to build a testimonial page that does the heavy lifting for your sales team.
+At [Compel](https://getcompel.co), we look at what a prospect needs to understand before booking. Relevant, specific testimonials can answer some of those questions. This guide shows how to present real client feedback clearly and where to place it in the [funnel](/learn/why-funnel-leaking).
 
 ## Key Takeaways
 
@@ -77,6 +78,6 @@ Gathering testimonials, editing videos, structuring the page, and optimizing the
 
 At [Compel](https://getcompel.co), we build the infrastructure that turns your client wins into a relentless client acquisition machine. 
 
-We operate on a **[zero upfront model](/learn/zero-upfront-model)**. We will design your landing pages, structure your testimonial frameworks, and optimize your entire funnel. You pay $0 upfront. We take on the risk, and you only pay when your discovery call bookings increase by 30% within 30 days. 
+We operate on a **[zero upfront model](/learn/zero-upfront-model)**. We will design your landing pages, structure your testimonial frameworks, and optimize your entire funnel. You pay $0 upfront. We take on the risk, and you only pay when your discovery call bookings increase by the agreed target during the performance window.
 
 Stop letting your best client results go to waste on a poorly designed page. Partner with Compel, and let us build a funnel that sells for you.

@@ -1,6 +1,7 @@
 ---
 title: "Executive Coaching Pricing: How to Price Your Programs for Maximum Revenue"
 date: "2026-05-13"
+updated: 2026-09-24
 excerpt: "Stop charging by the hour. Discover the optimal executive coaching pricing strategy to transition to high-ticket, value-based retainers that reflect the true ROI of your expertise."
 ---
 
@@ -114,6 +115,6 @@ Many coaches turn to marketing agencies to build these premium funnels, only to 
 
 Compel operates differently. We are a performance-based growth partner for executive, business, and specialized coaches. We build the high-end, conversion-optimized funnels necessary to justify premium pricing—from the landing pages and lead magnets to the sophisticated email nurture sequences that build your authority before you ever get on a call.
 
-Our model is simple and risk-free: [Zero upfront costs](/learn/zero-upfront-model). We build your custom pipeline, and you only pay us if we successfully increase your qualified discovery call bookings by 30% within 30 days. We align our success entirely with yours. 
+Our model is simple and risk-free: [Zero upfront costs](/learn/zero-upfront-model). We build your custom pipeline, and you only pay us if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We align our success entirely with yours.
 
 If you are ready to command higher fees and need the marketing infrastructure to support it, visit [Compel](/) to see how we can build your performance-driven client acquisition engine.

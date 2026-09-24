@@ -1,6 +1,7 @@
 ---
 title: "Marketing for Performance Coaches: Reach Athletes, Executives, and High-Performers"
 date: "2026-06-08"
+updated: 2026-09-24
 excerpt: "Dominate the high-end market. Discover the definitive guide to marketing for performance coaches and attract elite athletes, founders, and executives."
 ---
 
@@ -87,4 +88,4 @@ To protect your brand and your capital, seek out partnerships based on the [/lea
 
 Marketing for performance coaches is about signaling exclusivity, demonstrating deep technical authority, and providing a frictionless pathway for elite individuals to access your expertise. By building a robust application funnel, producing data-driven content, and targeting high-leverage partnerships, you can build a waiting list of the world's top performers.
 
-**If you are a world-class [performance coach](/coaches/performance-coaching), you shouldn't be wasting your time figuring out conversion rate optimization or email deliverability. At Compel, we build elite, performance-based funnels for high-ticket coaches. We handle the technical architecture, the high-converting copy, and the complex automations required to attract top-tier clients. We operate strictly on a $0 upfront model—you only pay when we increase your qualified discovery calls by 30% within 30 days. Ready to scale your elite practice? [Visit our homepage](/) and let's optimize your acquisition system.**
+**If you are a world-class [performance coach](/coaches/performance-coaching), you shouldn't be wasting your time figuring out conversion rate optimization or email deliverability. At Compel, we build elite, performance-based funnels for high-ticket coaches. We handle the technical architecture, the high-converting copy, and the complex automations required to attract top-tier clients. We operate strictly on a $0 upfront model—you only pay when we increase your qualified discovery calls by the agreed target during the performance window. Ready to scale your elite practice? [Visit our homepage](/) and let's optimize your acquisition system.**

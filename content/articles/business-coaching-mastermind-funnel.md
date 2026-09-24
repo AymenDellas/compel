@@ -1,6 +1,7 @@
 ---
 title: "How to Fill Your Mastermind: Funnel Strategy for Business Coaches"
 date: "2026-06-11"
+updated: 2026-09-24
 excerpt: "Masterminds are the pinnacle of high-ticket coaching. Discover the exact funnel architecture and marketing strategies required to consistently fill your business coaching mastermind with premium clients."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Masterminds are the pinnacle of high-ticket coaching. Discover the exa
 - **Exclusivity as a Lever:** You don't "sell" a mastermind; you curate it. Your marketing must heavily emphasize exclusivity, peer quality, and a rigorous application process.
 - **The Application Funnel:** To filter out unqualified prospects and elevate perceived value, you must utilize a multi-step application and interview funnel.
 - **Economics of Acquisition:** Because masterminds command premium prices ($15k - $50k+), your acceptable [CPA for high-ticket](/learn/cpa-high-ticket) clients is much higher, allowing you to dominate paid advertising channels.
-- **Compel’s Guarantee:** We engineer elite acquisition funnels to help [business coaches](/coaches/business-coaching) and [executive coaches](/coaches/executive-coaching) scale their masterminds with **$0 upfront**. You only pay when discovery calls increase by 30% in 30 days.
+- **Compel’s Guarantee:** We engineer elite acquisition funnels to help [business coaches](/coaches/business-coaching) and [executive coaches](/coaches/executive-coaching) scale their masterminds with **$0 upfront**. You only pay when discovery calls increase by the agreed target during the performance window.
 
 ## The Pinnacle of the Coaching Ecosystem: The Mastermind
 
@@ -96,4 +97,4 @@ Filling a business coaching mastermind is the ultimate test of your marketing au
 Remember, the value of the mastermind is the room itself. Protect the room, market the exclusivity, and your calendar will fill with premium founders eager to earn a seat at your table.
 
 **Want to automate the lead flow for your Mastermind without the agency risk?**
-At [Compel](https://getcompel.co), we specialize in building the high-authority, complex application funnels required to sell ultra-high-ticket masterminds. We abandon the outdated retainer model in favor of pure performance. **Zero upfront costs.** We build the system, drive the traffic, and you only pay us when we increase your qualified applications and booked calls by 30% in 30 days. It is the ultimate alignment of incentives. [Click here to learn more about our zero-upfront model and apply.](/)
+At [Compel](https://getcompel.co), we specialize in building the high-authority, complex application funnels required to sell ultra-high-ticket masterminds. We abandon the outdated retainer model in favor of pure performance. **Zero upfront costs.** We build the system, drive the traffic, and you only pay us when we increase your qualified applications and booked calls by the agreed target during the performance window. It is the ultimate alignment of incentives. [Click here to learn more about our zero-upfront model and apply.](/)

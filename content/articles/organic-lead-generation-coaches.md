@@ -1,6 +1,7 @@
 ---
 title: "Organic Lead Generation for Coaches: Build a Pipeline Without Paid Ads"
 date: "2026-05-23"
+updated: 2026-09-24
 excerpt: "Tired of burning cash on Facebook ads? Learn the exact frameworks for organic lead generation for coaches, allowing you to build a profitable pipeline using zero ad spend."
 ---
 
@@ -94,6 +95,6 @@ However, scaling requires capital, expertise, and time—resources you might not
 
 This is where Compel comes in. 
 
-We partner with coaches who have a proven offer and help them scale through advanced funnels and paid acquisition. Unlike traditional agencies that charge hefty monthly retainers, we operate on a **100% performance-based model**. We cover the costs of building the funnel and running the traffic. You pay $0 upfront. We only get paid when your booked discovery calls increase by 30% within 30 days.
+We partner with coaches who have a proven offer and help them scale through advanced funnels and paid acquisition. Unlike traditional agencies that charge hefty monthly retainers, we operate on a **100% performance-based model**. We cover the costs of building the funnel and running the traffic. You pay $0 upfront. We only get paid when your booked discovery calls increase by the agreed target during the performance window.
 
 Ready to take your proven organic offer and pour fuel on the fire without the financial risk? Learn more about how we can scale your coaching business on our [homepage](/).

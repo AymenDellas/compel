@@ -1,6 +1,7 @@
 ---
 title: "Facebook Ads for Coaches: Targeting, Creatives, and Funnel Setup"
 date: "2026-05-27"
+updated: 2026-09-24
 excerpt: "Master Facebook Ads for your coaching business. Learn the exact targeting strategies, ad creatives, and funnel setups to book high-ticket discovery calls consistently."
 ---
 
@@ -100,6 +101,6 @@ Compel is changing the industry standard.
 
 We are a performance-based growth partner for high-ticket coaches. We build your entire funnel—the landing pages, the VSL, the email sequences—and we manage the Facebook ads. The difference? **You pay $0 upfront.**
 
-We only get paid when we actually deliver results. Our compensation is tied directly to increasing your booked discovery calls by 30% within 30 days. We take on the risk, so you can focus on coaching.
+We only get paid when we actually deliver results. Our compensation is tied directly to increasing your booked discovery calls by the agreed target during the performance window. We take on the risk, so you can focus on coaching.
 
 Ready to dominate Facebook ads without the financial gamble? Learn more about our zero-risk model on our [homepage](/).

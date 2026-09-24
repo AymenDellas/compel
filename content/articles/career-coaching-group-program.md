@@ -1,6 +1,7 @@
 ---
 title: "Group Career Coaching: How to Build and Fill a High-Value Program"
 date: "2026-06-04"
+updated: 2026-09-24
 excerpt: "Scale your impact and revenue with group career coaching. Learn how to design, market, and fill a high-ticket group program predictably."
 ---
 
@@ -100,4 +101,4 @@ The smartest way to scale your cohorts is by utilizing a [/learn/zero-upfront-mo
 
 Group career coaching is the gateway to a seven-figure coaching business. By packaging your expertise into a structured hybrid curriculum, leveraging the power of community, and building a robust event-based funnel, you can serve dozens of clients simultaneously and drastically increase your revenue.
 
-**At Compel, we specialize in building the high-converting funnels required to fill group coaching programs. We handle the webinar registration pages, the VSLs, and the complex email launch sequences so you can focus on delivering an incredible experience to your cohort. Best of all, we operate on a $0 upfront performance model. You only pay if we deliver a 30% increase in qualified bookings within 30 days. Ready to fill your next cohort? [Visit our homepage](/) and let’s talk strategy.**
+**At Compel, we specialize in building the high-converting funnels required to fill group coaching programs. We handle the webinar registration pages, the VSLs, and the complex email launch sequences so you can focus on delivering an incredible experience to your cohort. Best of all, we operate on a $0 upfront performance model. You only pay if we deliver a an agreed increase in qualified bookings during the performance window. Ready to fill your next cohort? [Visit our homepage](/) and let’s talk strategy.**

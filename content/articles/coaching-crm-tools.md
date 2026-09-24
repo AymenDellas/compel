@@ -1,6 +1,7 @@
 ---
 title: "The Best CRM Tools for Coaches: Manage Leads, Clients, and Revenue"
 date: "2026-05-28"
+updated: 2026-09-24
 excerpt: "Ditch the messy spreadsheets. Discover the best CRM tools for coaches to track leads, automate follow-ups, manage client pipelines, and scale your coaching revenue."
 ---
 
@@ -75,6 +76,6 @@ If this technical integration sounds like a nightmare, you don't have to do it a
 
 At [Compel](/), we act as the complete technical and growth partner for elite coaches, from [career coaching](/coaches/career-coaching) to specialized consulting. When we build your client acquisition funnel, we handle the entire CRM integration. We ensure your landing pages, your booking software, and your email sequences speak to each other flawlessly, creating a watertight system that tracks every lead from first click to closed deal.
 
-Best of all, we do this under a [zero upfront model](/learn/zero-upfront-model). We build, integrate, and launch your automated funnel ecosystem without charging a retainer. We only get paid a success fee when we prove our systems work by increasing your qualified discovery calls by 30% in 30 days.
+Best of all, we do this under a [zero upfront model](/learn/zero-upfront-model). We build, integrate, and launch your automated funnel ecosystem without charging a retainer. We only get paid a success fee when we prove our systems work by increasing your qualified discovery calls by the agreed target during the performance window.
 
 Stop fighting with software and start closing deals. Let Compel build your CRM infrastructure today.

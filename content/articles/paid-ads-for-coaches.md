@@ -1,6 +1,7 @@
 ---
 title: "Paid Advertising for Coaches: Which Platforms Actually Work"
 date: "2026-05-25"
+updated: 2026-09-24
 excerpt: "Stop wasting budget on the wrong platforms. Discover the ultimate guide to paid ads for coaches, including which platforms drive the highest quality discovery calls."
 ---
 
@@ -107,7 +108,7 @@ Traditionally, the solution was to hire a marketing agency. But most agencies ch
 
 At Compel, we believe that is fundamentally unfair to the coach.
 
-We operate on a purely performance-based model. We build your landing pages, write your copy, craft your email sequences, and run your paid ads. **You pay $0 upfront.** We take on the financial risk, and we only get paid when your calendar is packed—specifically, when we increase your booked discovery calls by 30% within 30 days.
+We operate on a purely performance-based model. We build your landing pages, write your copy, craft your email sequences, and run your paid ads. **You pay $0 upfront.** We take on the financial risk, and we only get paid when your calendar is packed—specifically, when we increase your booked discovery calls by the agreed target during the performance window.
 
 If you are ready to scale with paid ads but refuse to gamble your hard-earned money on broken agency models, let's talk. 
 

@@ -1,6 +1,7 @@
 ---
 title: "Instagram Marketing for Life Coaches: Grow Your Following and Book Calls"
 date: "2026-05-11"
+updated: 2026-09-24
 excerpt: "Master Instagram marketing for life coaches. Learn how to convert passive followers into paying clients with a strategic content and funnel approach."
 ---
 
@@ -95,4 +96,4 @@ Instagram marketing for life coaches requires intentionality. Every post, every 
 
 If managing social media algorithms and building funnels sounds overwhelming, there is a better way. Focus on coaching, and let experts handle the acquisition. 
 
-**At Compel, we build performance-based conversion funnels for coaches. We construct the landing pages, craft the email sequences, and optimize the booking flows that turn your social media traffic into paying clients. We operate strictly on a $0 upfront model—you only pay if we increase your discovery call bookings by 30% within 30 days. Ready to scale your impact? [Visit our homepage](/) to get started.**
+**At Compel, we build performance-based conversion funnels for coaches. We construct the landing pages, craft the email sequences, and optimize the booking flows that turn your social media traffic into paying clients. We operate strictly on a $0 upfront model—you only pay if we increase your discovery call bookings by the agreed target during the performance window. Ready to scale your impact? [Visit our homepage](/) to get started.**

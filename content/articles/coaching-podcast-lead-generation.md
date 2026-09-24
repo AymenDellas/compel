@@ -1,6 +1,7 @@
 ---
 title: "Podcasting for Coaches: How to Turn Episodes Into Discovery Calls"
 date: "2026-04-21"
+updated: 2026-09-24
 excerpt: "Stop recording episodes that only your mom listens to. Discover how to leverage a coaching podcast for high-ticket lead generation, build unshakeable authority, and turn passive listeners into booked discovery calls."
 ---
 
@@ -148,6 +149,6 @@ Whether you use the Trojan Horse networking strategy or focus on deep-dive solo 
 ### Tired of Paying Agency Retainers With Zero ROI?
 Producing a great podcast takes time and energy. The last thing you want is to drive those hard-earned listeners to a clunky website or a broken funnel. Many coaches get burned by agencies charging massive monthly retainers with no guarantee of results. It is vital to understand the difference between a [retainer vs performance](/learn/retainer-vs-performance) model. 
 
-At Compel, we remove the risk. We build high-converting funnels, landing pages, and email sequences specifically for coaches—with **$0 upfront**. We only get paid if we increase your booked discovery calls by 30% within 30 days. 
+At Compel, we remove the risk. We build high-converting funnels, landing pages, and email sequences specifically for coaches—with **$0 upfront**. We only get paid if we increase your booked discovery calls by the agreed target during the performance window.
 
 Focus on recording incredible podcast episodes, and let us handle turning those listeners into paying clients. Visit our [homepage](/) to learn more about how our performance-based model can scale your coaching business today.

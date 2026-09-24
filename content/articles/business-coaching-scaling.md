@@ -1,6 +1,7 @@
 ---
 title: "Scaling a Business Coaching Practice: From Solo to 7-Figure Operation"
 date: "2026-05-30"
+updated: 2026-09-24
 excerpt: "Learn the exact frameworks, operational shifts, and marketing funnels required for scaling a business coaching practice from a time-strapped solo coach to a 7-figure enterprise."
 ---
 
@@ -9,7 +10,7 @@ excerpt: "Learn the exact frameworks, operational shifts, and marketing funnels 
 - **The Group Model Shift:** Transitioning from strictly 1:1 coaching to group cohorts or hybrid mastermind models is non-negotiable for hitting 7 figures.
 - **Automated Client Acquisition:** Relying on hustle and networking will cap your growth. You need an automated, predictable funnel that generates discovery calls while you sleep.
 - **Performance-Based Growth:** Scale faster by removing marketing risk. Discover how [the zero-upfront model](/learn/zero-upfront-model) allows coaches to scale rapidly without burning cash.
-- **Compel’s Guarantee:** We build the acquisition funnels that make scaling possible for [business coaches](/coaches/business-coaching) and [performance coaches](/coaches/performance-coaching). **$0 upfront.** You only pay when we increase your booked calls by 30% in 30 days.
+- **Compel’s Guarantee:** We build the acquisition funnels that make scaling possible for [business coaches](/coaches/business-coaching) and [performance coaches](/coaches/performance-coaching). **$0 upfront.** You only pay when we increase your booked calls by the agreed target during the performance window.
 
 ## The Bottleneck of Scaling a Business Coaching Practice
 
@@ -92,4 +93,4 @@ Scaling a business coaching practice from a solo operation to a 7-figure enterpr
 Productize your intellectual property. Shift to a highly scalable hybrid delivery model. And most importantly, build a mathematically predictable, automated client acquisition funnel that fills your calendar with qualified prospects.
 
 **Ready to scale without the financial risk of traditional agencies?**
-At [Compel](https://getcompel.co), we build and manage the exact funnels required to scale coaching practices to 7 figures and beyond. We work entirely on a performance basis. **Zero upfront retainers.** We align our success with yours—you only pay when we successfully increase your discovery call volume by 30% in 30 days. [Visit our homepage to see if you qualify for our zero-upfront model.](/)
+At [Compel](https://getcompel.co), we build and manage the exact funnels required to scale coaching practices to 7 figures and beyond. We work entirely on a performance basis. **Zero upfront retainers.** We align our success with yours—you only pay when we successfully increase your discovery call volume by the agreed target during the performance window. [Visit our homepage to see if you qualify for our zero-upfront model.](/)

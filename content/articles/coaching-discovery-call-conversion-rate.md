@@ -1,6 +1,7 @@
 ---
 title: "Coaching [Discovery Call](/learn/coaching-discovery-call-script) Conversion Rate: Benchmarks and How to Improve"
 date: "2026-06-10"
+updated: 2026-09-24
 excerpt: "Is your coaching call close rate too low? Discover industry benchmarks for high-ticket coaching and actionable strategies to double your discovery call conversion rate."
 ---
 
@@ -111,6 +112,6 @@ Building application funnels, writing high-converting pre-call email sequences, 
 
 At **[Compel](/)**, we solve this exact problem. We are a performance-based funnel agency that builds bespoke, high-converting acquisition systems for coaches. 
 
-We handle all the heavy lifting—from the copy to the tech stack—with **zero upfront cost**. You only pay us a performance fee if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take the risk; you get a packed calendar of highly qualified leads.
+We handle all the heavy lifting—from the copy to the tech stack—with **zero upfront cost**. You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take the risk; you get a packed calendar of highly qualified leads.
 
 Ready to dominate your market? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

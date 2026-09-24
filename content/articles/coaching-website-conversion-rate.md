@@ -1,14 +1,15 @@
 ---
 title: "What's a Good Coaching Website Conversion Rate? Benchmarks by Niche"
 date: 2026-06-05
-excerpt: "Stop guessing if your funnel is working. Discover the exact coaching website conversion rate benchmarks by niche, and learn how to mathematically optimize your pages for higher ticket sales."
+updated: 2026-09-24
+excerpt: "Learn how to calculate your coaching website conversion rate, compare funnel steps, and use your own baseline to prioritize improvements."
 ---
 
 "Is my website actually working?" It is the most common question coaches ask when they finally start tracking their data. You might be getting 1,000 visitors a month, but if only 3 people are booking a call, you don't have a traffic problem—you have a conversion problem. To fix it, you need to understand exactly what a good coaching website conversion rate looks like.
 
 Without hard data, coaches often rely on "gut feelings" or vanity metrics like page views and social media followers. But in the business of high-ticket coaching, the only metric that matters is the percentage of visitors who turn into qualified booked appointments. If you are running paid ads, understanding your [CPA for high-ticket offers](/learn/cpa-high-ticket) relies entirely on knowing your conversion benchmarks. 
 
-At [Compel](https://getcompel.co), we have visibility into the backend analytics of hundreds of coaching funnels across multiple verticals. We know exactly [why funnel leaking](/learn/why-funnel-leaking) happens, and more importantly, we know the mathematical baselines you should be hitting. 
+At [Compel](https://getcompel.co), we use a funnel's own analytics to identify [where visitors drop off](/learn/why-funnel-leaking). The most useful baseline is your current performance by traffic source and funnel step; generic averages can be misleading.
 
 In this guide, we will break down the exact coaching conversion benchmarks by niche, explain what factors influence these numbers, and show you how to push your metrics into the top 1%.
 
@@ -101,6 +102,6 @@ If you are a highly skilled coach, it is a tragedy to let bad page design preven
 
 At [Compel](https://getcompel.co), we obsess over coaching page metrics so you don't have to. We are a performance-based funnel agency that builds custom, high-converting ecosystems for coaches. 
 
-We operate entirely on a performance basis. We build your landing pages, write your copy, and optimize your funnels. You pay absolutely nothing upfront. We only win when you win—specifically, when we increase your [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. If your conversion rate doesn't improve, you don't pay. 
+We operate entirely on a performance basis. We build your landing pages, write your copy, and optimize your funnels. You pay absolutely nothing upfront. We only win when you win—specifically, when we increase your [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. If your conversion rate doesn't improve, you don't pay.
 
 Stop guessing if your website is working. Partner with Compel and let us build a funnel that consistently hits the highest conversion benchmarks in the industry.

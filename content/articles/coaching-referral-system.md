@@ -1,6 +1,7 @@
 ---
 title: "How to Build a Referral System for Your Coaching Business"
 date: "2026-05-31"
+updated: 2026-09-24
 excerpt: "Stop waiting for word-of-mouth to happen accidentally. Learn how to engineer a predictable, automated coaching referral system that generates highly qualified discovery calls."
 ---
 
@@ -106,6 +107,6 @@ The problem? Most marketing agencies charge massive retainers to build these fun
 
 Compel is fundamentally different. We operate on a [zero-upfront model](/learn/zero-upfront-model). We build your landing pages, write your ad copy, and set up the complex backend automations required to turn cold traffic into booked calls. You pay absolutely nothing out of pocket. 
 
-We only get paid when your discovery calls increase by 30% within 30 days. We take the risk; you focus on delivering incredible results to your clients (who will then refer you even more business).
+We only get paid when your discovery calls increase by the agreed target during the performance window. We take the risk; you focus on delivering incredible results to your clients (who will then refer you even more business).
 
 Ready to build a predictable, scalable pipeline? Learn more about our performance-based partnership on our [homepage](/).

@@ -1,6 +1,7 @@
 ---
 title: "A/B Testing Your Coaching Funnel: What to Test First for Maximum Impact"
 date: 2026-06-11
+updated: 2026-09-24
 excerpt: "Stop guessing what works. Learn the exact A/B testing coaching funnel frameworks that data-driven coaches use to systematically increase their conversion rates and book more high-ticket clients."
 ---
 
@@ -71,6 +72,6 @@ This is the fundamental difference between the traditional [retainer vs performa
 
 At [Compel](https://getcompel.co), we run rigorous A/B testing on your funnels, but we carry the risk. We operate on a **$0 upfront model**. We build the variations, write the new headlines, and relentlessly test your funnel to maximize conversions. 
 
-You pay us nothing to run the tests. You only pay us when our testing actually works—when your discovery call bookings increase by 30% within 30 days. 
+You pay us nothing to run the tests. You only pay us when our testing actually works—when your discovery call bookings increase by the agreed target during the performance window.
 
 Stop guessing what your market wants. Stop relying on intuition. Partner with Compel and let our data-driven systems build a funnel that is mathematically proven to convert.

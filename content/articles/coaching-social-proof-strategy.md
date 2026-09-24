@@ -1,6 +1,7 @@
 ---
 title: "Social Proof for Coaches: How to Collect and Display Proof That Converts"
 date: "2026-05-03"
+updated: 2026-09-24
 excerpt: "Claims are cheap, proof is priceless. Discover the definitive coaching social proof strategy to collect devastatingly effective testimonials, build unshakable credibility, and close high-ticket clients effortlessly."
 ---
 
@@ -124,4 +125,4 @@ You are doing incredible work for your clients. But if your funnel is weak, your
 
 At Compel, we build high-converting conversion architectures for coaches. We take your raw social proof and build a funnel that weaponizes it, turning skeptical visitors into ravenous, high-ticket buyers. 
 
-The best part? You pay us nothing upfront. We operate on a pure performance basis. If we don't increase your discovery call bookings by 30% within 30 days, you pay $0. Stop letting your social proof go to waste. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to start closing more premium clients today.
+The best part? You pay us nothing upfront. We operate on a pure performance basis. If we don't increase your discovery call bookings by the agreed target during the performance window, you pay $0. Stop letting your social proof go to waste. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to start closing more premium clients today.

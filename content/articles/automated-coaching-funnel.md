@@ -1,6 +1,7 @@
 ---
 title: "How to Build an Automated Coaching Funnel That Works While You Sleep"
 date: "2026-05-18"
+updated: 2026-09-24
 excerpt: "Stop trading hours for dollars. Learn how to architect an evergreen, automated coaching funnel that consistently generates high-ticket discovery calls on autopilot."
 ---
 
@@ -95,6 +96,6 @@ If you attempt to build this yourself, you will spend months tinkering with Zapi
 
 At [Compel](/), we are engineers of high-ticket automation. We build end-to-end evergreen systems for established coaches. Whether you operate on a standard package or a [retainer vs performance](/learn/retainer-vs-performance) model, we ensure your calendar stays full of qualified prospects.
 
-The best part? We do it on a [zero-upfront model](/learn/zero-upfront-model). We design, build, and deploy your automated coaching funnel without charging you thousands in retainer fees. We only win when you win. You pay us strictly based on the performance of the funnel—specifically, when we increase your qualified discovery call bookings by 30% within 30 days.
+The best part? We do it on a [zero-upfront model](/learn/zero-upfront-model). We design, build, and deploy your automated coaching funnel without charging you thousands in retainer fees. We only win when you win. You pay us strictly based on the performance of the funnel—specifically, when we increase your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop trading your time for leads. Let's build a machine that works while you sleep.

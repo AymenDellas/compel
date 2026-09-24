@@ -1,6 +1,7 @@
 ---
 title: "Thought Leadership for Coaches: Position Yourself as the Industry Expert"
 date: "2026-05-09"
+updated: 2026-09-24
 excerpt: "Stop competing on price and start competing on authority. Discover the ultimate coaching thought leadership strategy to elevate your positioning, command premium fees, and become the undisputed expert in your niche."
 ---
 
@@ -119,4 +120,4 @@ At Compel, we believe that true thought leaders should spend their time thinking
 
 We partner with high-level coaches to build the elite conversion funnels that capture their authority-driven traffic. We build your VSLs, optimize your lead magnets, and construct your email sequences. 
 
-We do this with **$0 upfront**. We take all the financial risk. We only get paid if we increase your booked discovery calls by 30% within 30 days. Let us handle the conversion mechanics so you can focus on leading your industry. Visit our [homepage](/) to start scaling risk-free.
+We do this with **$0 upfront**. We take all the financial risk. We only get paid if we increase your booked discovery calls by the agreed target during the performance window. Let us handle the conversion mechanics so you can focus on leading your industry. Visit our [homepage](/) to start scaling risk-free.

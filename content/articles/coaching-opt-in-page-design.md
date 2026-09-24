@@ -1,6 +1,7 @@
 ---
 title: "Coaching Opt-In Page Design: Maximize Email Signups With These Layouts"
 date: 2026-06-09
+updated: 2026-09-24
 excerpt: "Stop giving away free value without capturing the lead. Discover the exact coaching opt-in page design frameworks that turn passive traffic into high-quality email subscribers."
 ---
 
@@ -81,6 +82,6 @@ If you are tired of tweaking opt-in pages, writing lead magnets, and trying to f
 
 At [Compel](https://getcompel.co), we design and deploy these exact coaching email capture systems. And because we use a **[zero upfront model](/learn/zero-upfront-model)**, you don't carry the financial risk of building the funnel. 
 
-We will design your opt-in pages, write the copy, and build the backend email sequences. You only pay us when your bottom-line metric improves—when your discovery call bookings increase by 30% within 30 days. 
+We will design your opt-in pages, write the copy, and build the backend email sequences. You only pay us when your bottom-line metric improves—when your discovery call bookings increase by the agreed target during the performance window.
 
 Stop losing traffic to poorly designed opt-in forms. Partner with Compel and start capturing the leads you deserve.

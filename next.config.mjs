@@ -1,5 +1,3 @@
-import { server } from 'typescript';
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   outputFileTracingRoot: process.cwd(),

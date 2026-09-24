@@ -1,6 +1,7 @@
 ---
 title: "The Complete Coaching Funnel Template: Copy This Proven Framework"
 date: "2026-05-02"
+updated: 2026-09-24
 excerpt: "A step-by-step coaching funnel template you can copy today. Covers landing pages, email sequences, booking flows, and the conversion benchmarks that separate profitable funnels from money pits."
 ---
 
@@ -215,4 +216,4 @@ Here is the complete template in checklist format:
 
 This template gives you the conversion infrastructure. But infrastructure without traffic is an empty highway. And traffic without a [proven offer](/learn/high-ticket-coaching-offer) is wasted spend. The coaches who scale fastest are the ones who get their funnel technically right (this template), then focus relentlessly on two things: driving consistent traffic and optimizing their [cost per acquisition](/learn/cpa-high-ticket).
 
-If you want a team to build this entire system for you — landing pages, email sequences, booking flows — with zero upfront cost and a guarantee of 30% more discovery calls in 30 days, [Compel](/) builds performance-based funnels for coaches. You only pay when it works.
+If you want a team to build this entire system for you — landing pages, email sequences, booking flows — with zero upfront cost and a guarantee of more discovery calls against the agreed target during the performance window, [Compel](/) builds performance-based funnels for coaches. You only pay when it works.

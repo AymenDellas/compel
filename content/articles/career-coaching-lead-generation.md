@@ -1,6 +1,7 @@
 ---
 title: "Lead Generation for Career Coaches: Where Your Clients Are Searching"
 date: "2026-05-23"
+updated: 2026-09-24
 excerpt: "Master lead generation for career coaches. Stop waiting for referrals and build a predictable system to attract high-paying professionals."
 ---
 
@@ -98,4 +99,4 @@ Career coaching lead generation does not have to be a mystery. Your clients are 
 
 By optimizing your LinkedIn presence, creating high-value lead magnets, nurturing leads relentlessly via email, and utilizing a robust sales funnel, you can build a predictable, scalable stream of high-ticket clients.
 
-**If you want to focus on coaching professionals rather than managing complex marketing funnels, Compel can help. We specialize in building performance-based funnels specifically for coaches. We handle the lead magnets, the landing pages (see our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)), and the automated email sequences. The best part? We operate strictly on a $0 upfront model. You only pay if we increase your discovery call bookings by 30% within 30 days. [Visit our homepage](/) to learn how we can fill your calendar with ambitious professionals.**
+**If you want to focus on coaching professionals rather than managing complex marketing funnels, Compel can help. We specialize in building performance-based funnels specifically for coaches. We handle the lead magnets, the landing pages (see our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)), and the automated email sequences. The best part? We operate strictly on a $0 upfront model. You only pay if we increase your discovery call bookings by the agreed target during the performance window. [Visit our homepage](/) to learn how we can fill your calendar with ambitious professionals.**

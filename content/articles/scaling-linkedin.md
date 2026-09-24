@@ -1,6 +1,7 @@
 ---
 title: "LinkedIn Outreach for Coaches: The Complete B2B Scaling Playbook (2026)"
 date: 2026-06-25
+updated: 2026-09-24
 excerpt: "Most coaches burn hours on LinkedIn with nothing to show for it. Here's the exact outreach framework that generates 15–30 discovery calls per month — without cold spam or ad spend."
 ---
 
@@ -245,6 +246,6 @@ LinkedIn outreach is powerful, but it's one piece of the puzzle. The coaches who
 
 You now have the complete LinkedIn outreach framework. But outreach is only half the equation. The other half is what happens *after* a prospect clicks your link, visits your page, and decides whether to book a call.
 
-That's where [Compel](/) comes in. We build done-for-you conversion funnels for coaches — landing pages, email sequences, and booking flows — engineered to turn LinkedIn leads into booked discovery calls. And we do it on a **zero-upfront, performance-only model**: you pay nothing unless your discovery call bookings increase by at least 30% within 30 days.
+That's where [Compel](/) comes in. We build done-for-you conversion funnels for coaches — landing pages, email sequences, and booking flows — engineered to turn LinkedIn leads into booked discovery calls. And we do it on a **zero-upfront, performance-only model**: you pay nothing unless your discovery call bookings increase by the agreed target during the performance window.
 
 No retainer. No risk. Just a growth partner whose revenue depends on your results. If your LinkedIn outreach is generating leads but your funnel isn't converting them, [let's fix that](/).

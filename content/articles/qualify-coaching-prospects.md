@@ -1,6 +1,7 @@
 ---
 title: "How to Qualify Coaching Prospects Before They Ever Get on Your Calendar"
 date: "2026-06-22"
+updated: 2026-09-24
 excerpt: "Tired of taking discovery calls with broke or uncommitted leads? Learn how to qualify coaching prospects automatically using advanced application funnels and screening systems."
 ---
 
@@ -71,6 +72,6 @@ At **[Compel](/)**, we believe the agency model is broken.
 
 We are a performance-based funnel agency built exclusively for high-ticket coaches. We will build this exact 3-Tier Application Funnel for you, write all the copy, and manage the technical automations with **zero upfront cost**. 
 
-You only pay us a performance fee if we successfully increase your *highly qualified* [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days. We take all the financial risk, and you get a calendar full of people who are pre-sold, qualified, and eager to buy. 
+You only pay us a performance fee if we successfully increase your *highly qualified* [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We take all the financial risk, and you get a calendar full of people who are pre-sold, qualified, and eager to buy.
 
 Ready to stop wasting time on unqualified leads? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

@@ -1,6 +1,7 @@
 ---
 title: "Coaching Package Structure: Design Packages That Maximize Lifetime Value"
 date: "2026-05-07"
+updated: 2026-09-24
 excerpt: "Learn how to build a profitable coaching package structure that delivers exceptional client results, prevents burnout, and maximizes customer lifetime value."
 ---
 
@@ -91,6 +92,6 @@ To fill your newly structured high-ticket packages, you need a relentless, autom
 
 At [Compel](/), we build conversion-engineered funnels for elite coaches. From [performance coaching](/coaches/performance-coaching) to specialized career consulting, we create the digital infrastructure that turns cold traffic into highly qualified discovery calls.
 
-We are so confident in our funnel architecture that we operate entirely on a [zero upfront model](/learn/zero-upfront-model). We build your custom funnel, write your copy, and launch your campaigns for free. You only pay us a success fee if we increase your discovery call volume by 30% in the first 30 days. 
+We are so confident in our funnel architecture that we operate entirely on a [zero upfront model](/learn/zero-upfront-model). We build your custom funnel, write your copy, and launch your campaigns for free. You only pay us a success fee if we increase your discovery call volume by the agreed target during the performance window.
 
 Stop struggling with empty calendars and start scaling your high-ticket packages. Partner with Compel today.

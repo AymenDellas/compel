@@ -154,6 +154,6 @@ Generating leads doesn't have to be a painful, expensive process of trial and er
 
 However, building the funnels, writing the copy, and running the ads takes time away from what you do best: coaching. 
 
-If you are tired of empty calendars and complex marketing tech stacks, Compel can help. We are a performance-based growth partner for high-ticket coaches. We build your entire funnel, set up your lead magnets, and run your traffic. The best part? You pay **$0 upfront**. We only get paid when your discovery calls increase by 30%. It is entirely risk-free. 
+If you are tired of empty calendars and complex marketing tech stacks, Compel can help. We are a performance-based growth partner for high-ticket coaches. We build your funnel, set up your lead magnet, and connect the follow-up to your booking flow. You pay **$0 upfront**. We only get paid when discovery calls increase by the agreed target.
 
 Ready to transform your client acquisition? Learn more about our zero-risk, performance-based model on our [homepage](/).

@@ -1,6 +1,7 @@
 ---
 title: "LinkedIn Strategy for Executive Coaches: Position Yourself as the Go-To Authority"
 date: "2026-05-17"
+updated: 2026-09-24
 excerpt: "Master executive coaching LinkedIn strategy. Learn how to transform your profile, leverage inbound thought leadership, and execute outbound campaigns to attract high-ticket C-suite clients."
 ---
 
@@ -107,6 +108,6 @@ At Compel, we believe that you should only pay for results. We are a specialized
 
 We don't just give you a LinkedIn strategy; we build the entire digital infrastructure required to convert LinkedIn traffic into high-ticket clients. We design the high-converting landing pages, write the sophisticated email nurture sequences, and integrate the seamless booking flows. We build the funnel that your LinkedIn profile points to.
 
-Because we are entirely performance-driven, we operate on a [zero-upfront model](/learn/zero-upfront-model). We build your custom conversion system at absolutely no initial cost. You only pay us if we successfully increase your qualified discovery call bookings by 30% within 30 days. We take the risk, build the engine, and align our success directly with your pipeline growth. 
+Because we are entirely performance-driven, we operate on a [zero-upfront model](/learn/zero-upfront-model). We build your custom conversion system at absolutely no initial cost. You only pay us if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take the risk, build the engine, and align our success directly with your pipeline growth.
 
 Ready to transform your LinkedIn presence into a predictable revenue engine without the financial risk of traditional agencies? Visit the [Compel homepage](/) to discover how we can scale your practice today.

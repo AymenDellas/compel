@@ -7,9 +7,6 @@ export async function GET() {
   const urls = niches.map(nicheSlug => `
   <url>
     <loc>https://getcompel.co/coaches/${nicheSlug}</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>`).join('');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

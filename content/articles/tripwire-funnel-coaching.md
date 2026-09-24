@@ -1,6 +1,7 @@
 ---
 title: "Tripwire Funnels for Coaching: How a $27 Offer Can Sell Your $5K Program"
 date: "2026-05-14"
+updated: 2026-09-24
 excerpt: "Discover how tripwire funnels for coaching can liquidate your ad spend instantly while effortlessly upgrading buyers into high-ticket coaching programs."
 ---
 
@@ -104,6 +105,6 @@ When transitioning from low-ticket sales to high-ticket closing, the positioning
 
 If you want the benefits of a highly profitable funnel without the headaches of building it, you need a performance partner. 
 
-At [Compel](/), we build elite, automated funnels for high-ticket coaches. We handle the strategy, the copywriting, the design, and the technical integrations. Through our [zero-upfront model](/learn/zero-upfront-model), we build your funnel assets entirely for free. We only get paid when we successfully increase your qualified discovery call bookings by 30% within 30 days.
+At [Compel](/), we build elite, automated funnels for high-ticket coaches. We handle the strategy, the copywriting, the design, and the technical integrations. Through our [zero-upfront model](/learn/zero-upfront-model), we build your funnel assets entirely for free. We only get paid when we successfully increase your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop relying on free leads who never convert. Let's build a tripwire funnel that liquidates your ad spend and fills your calendar with proven buyers.

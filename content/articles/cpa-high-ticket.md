@@ -1,6 +1,7 @@
 ---
 title: "Cost Per Acquisition for High-Ticket Coaching: Benchmarks, Breakdowns, and How to Cut Your CPA by 40%"
 date: "2026-06-25"
+updated: 2026-09-24
 excerpt: "The average CPA for high-ticket coaching clients sits between $500 and $1,500—but top-performing funnels cut that in half. Here's the exact framework coaches use to lower acquisition costs while booking more discovery calls."
 ---
 
@@ -212,4 +213,4 @@ Your coaching CPA is not a fixed number—it is a direct reflection of how well 
 
 Most coaches overpay for clients not because their offer is weak, but because their funnel has structural problems that silently inflate acquisition costs. A leaky booking flow, a missing follow-up sequence, or a poorly targeted ad campaign can double or triple your CPA without you realizing it.
 
-This is exactly the problem [Compel](/) was built to solve. We build complete conversion funnels—landing pages, email sequences, booking flows, and follow-up systems—specifically for coaches in the [executive](/coaches/executive-coaching), [business](/coaches/business-coaching), [life](/coaches/life-coaching), and [career](/coaches/career-coaching) coaching space. And we do it with **$0 upfront**. You only pay if your discovery call bookings increase by at least 30% within 30 days. If we do not hit that benchmark, you owe nothing. That is how confident we are in the funnel framework that has driven best-in-class CPAs for coaches across every niche. If your current CPA is eating into your margins, it is time to fix the funnel—not increase the budget.
+This is exactly the problem [Compel](/) was built to solve. We build complete conversion funnels—landing pages, email sequences, booking flows, and follow-up systems—specifically for coaches in the [executive](/coaches/executive-coaching), [business](/coaches/business-coaching), [life](/coaches/life-coaching), and [career](/coaches/career-coaching) coaching space. And we do it with **$0 upfront**. You only pay if your discovery call bookings increase by the agreed target during the performance window. If we do not hit that benchmark, you owe nothing. That is how confident we are in the funnel framework that has driven best-in-class CPAs for coaches across every niche. If your current CPA is eating into your margins, it is time to fix the funnel—not increase the budget.

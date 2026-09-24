@@ -1,6 +1,7 @@
 ---
 title: "How to Write a Coaching Case Study That Converts (Template Included)"
 date: 2026-06-19
+updated: 2026-09-24
 excerpt: "A standard testimonial isn't enough for high-ticket sales. Learn how to write a coaching case study that logically proves your methodology and acts as your ultimate 24/7 sales asset."
 ---
 
@@ -71,6 +72,6 @@ If you are tired of getting on sales calls with skeptical prospects who demand e
 
 This is exactly what we do at [Compel](https://getcompel.co). We are a performance-based funnel agency that refuses to operate like a traditional marketing firm. We know the [retainer vs performance](/learn/retainer-vs-performance) debate is over. Results are all that matter. 
 
-We operate on a **[zero upfront model](/learn/zero-upfront-model)**. We will extract the narratives from your best clients, write these high-converting case studies, and build the funnel that drives traffic to them. You pay nothing upfront. We take on the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by 30% within 30 days. 
+We operate on a **[zero upfront model](/learn/zero-upfront-model)**. We will extract the narratives from your best clients, write these high-converting case studies, and build the funnel that drives traffic to them. You pay nothing upfront. We take on the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window.
 
 Stop telling people you are a great coach. Let the case studies prove it. Partner with Compel today.

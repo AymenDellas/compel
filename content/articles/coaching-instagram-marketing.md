@@ -1,6 +1,7 @@
 ---
 title: "Instagram Marketing for Coaches: Reels, Stories, and DM Strategies That Convert"
 date: "2026-04-24"
+updated: 2026-09-24
 excerpt: "Tired of getting likes but no clients? Discover the definitive coaching Instagram marketing strategy to transform your profile from an aesthetic portfolio into a high-converting client acquisition funnel."
 ---
 
@@ -143,4 +144,4 @@ If you are generating attention on Instagram but failing to capture leads and bo
 
 At Compel, we build the infrastructure required to turn your followers into high-ticket clients. We design and launch high-converting landing pages, VSLs, and email sequences for coaches—and we do it entirely on performance. 
 
-You pay **$0 upfront**. We only get paid if we increase your booked discovery calls by 30% within 30 days. Stop letting your hard-earned Instagram traffic go to waste. Visit our [homepage](/) or learn more about our [zero-upfront model](/learn/zero-upfront-model) to scale your coaching business today.
+You pay **$0 upfront**. We only get paid if we increase your booked discovery calls by the agreed target during the performance window. Stop letting your hard-earned Instagram traffic go to waste. Visit our [homepage](/) or learn more about our [zero-upfront model](/learn/zero-upfront-model) to scale your coaching business today.

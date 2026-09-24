@@ -1,6 +1,7 @@
 ---
 title: "Video Marketing for Coaches: Loom, YouTube, and VSL Strategies"
 date: "2026-05-06"
+updated: 2026-09-24
 excerpt: "Text is ignored; video builds trust. Discover the ultimate coaching video marketing strategy, leveraging asynchronous Looms, long-form YouTube content, and high-converting VSLs to dominate your niche."
 ---
 
@@ -106,4 +107,4 @@ Recording the VSL is only half the battle. If your landing pages are slow, your 
 
 At Compel, we build elite conversion architectures for coaches. We take your video assets and embed them into high-converting funnels that turn viewers into booked appointments. 
 
-We take on all the financial risk. With our performance-based model, you pay **$0 upfront**. We only get paid if we increase your discovery call bookings by 30% within 30 days. Stop wasting time with tech headaches and focus on recording great content. Visit our [homepage](/) or learn about our [zero-upfront model](/learn/zero-upfront-model) to start scaling today.
+We take on all the financial risk. With our performance-based model, you pay **$0 upfront**. We only get paid if we increase your discovery call bookings by the agreed target during the performance window. Stop wasting time with tech headaches and focus on recording great content. Visit our [homepage](/) or learn about our [zero-upfront model](/learn/zero-upfront-model) to start scaling today.

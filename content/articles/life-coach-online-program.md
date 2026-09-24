@@ -1,6 +1,7 @@
 ---
 title: "How to Create and Sell an Online Life Coaching Program"
 date: "2026-05-19"
+updated: 2026-09-24
 excerpt: "Scale your impact and revenue by learning how to create and sell an online life coaching program. Break free from the 1-on-1 time trap."
 ---
 
@@ -106,4 +107,4 @@ Creating an online life coaching program is the ultimate act of leverage in your
 
 Start by defining a clear transformation, validate it through a live beta cohort, and then build a robust, automated sales funnel to scale it to the masses.
 
-**At Compel, we help coaches transition from exhausting 1-on-1 schedules to scalable digital programs. We build the entire conversion architecture—the landing pages, the VSL funnels, and the complex email automations required to sell high-ticket programs consistently. Best of all, we use a $0 upfront model. You only pay when we increase your discovery call volume by 30% within 30 days. Ready to scale your program? [Visit our homepage](/) and let’s talk.**
+**At Compel, we help coaches transition from exhausting 1-on-1 schedules to scalable digital programs. We build the entire conversion architecture—the landing pages, the VSL funnels, and the complex email automations required to sell high-ticket programs consistently. Best of all, we use a $0 upfront model. You only pay when we increase your discovery call volume by the agreed target during the performance window. Ready to scale your program? [Visit our homepage](/) and let’s talk.**

@@ -1,5 +1,7 @@
 import { Suspense } from 'react'
 import type { Metadata } from 'next'
+import { notFound } from 'next/navigation'
+import Link from 'next/link'
 import { getAllNiches, getNicheConfig } from '../../../lib/niches'
 import NicheHero from '../../../components/NicheHero'
 import WhoItsFor from '../../../components/WhoItsFor'
@@ -57,12 +59,12 @@ export default async function Page({ params }: Props) {
   const config = getNicheConfig(niche)
   
   if (!config) {
-    return <div>Not Found</div>
+    notFound()
   }
 
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'ProfessionalService',
+    '@type': 'Service',
     name: `Compel — Funnel Agency for ${config.displayName}`,
     description: config.description,
     url: `https://getcompel.co/coaches/${niche}`,
@@ -70,8 +72,7 @@ export default async function Page({ params }: Props) {
     areaServed: ['US', 'GB', 'CA'],
     provider: {
       '@type': 'Organization',
-      name: 'Compel',
-      url: 'https://getcompel.co',
+      '@id': 'https://getcompel.co/#organization',
     },
   }
 
@@ -116,6 +117,15 @@ export default async function Page({ params }: Props) {
         <header>
           <NicheHero niche={niche} />
         </header>
+        <section className="relative mx-auto max-w-5xl px-6 py-16" aria-labelledby="niche-approach">
+          <p className="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-accent">Built for {config.displayName}</p>
+          <h2 id="niche-approach" className="text-3xl font-semibold text-white md:text-4xl">A clearer path from interest to conversation</h2>
+          <div className="mt-8 grid gap-6 md:grid-cols-2">
+            <div className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-6"><h3 className="text-lg font-semibold text-accent">The challenge</h3><p className="mt-3 leading-relaxed text-neutral-300">{config.challenge}</p></div>
+            <div className="rounded-2xl border border-neutral-800 bg-neutral-950/70 p-6"><h3 className="text-lg font-semibold text-accent">Our approach</h3><p className="mt-3 leading-relaxed text-neutral-300">{config.approach}</p></div>
+          </div>
+          <Link href={`/learn/${config.guideSlug}`} className="mt-6 inline-block text-sm font-semibold text-accent underline underline-offset-4">Read: {config.guideLabel} →</Link>
+        </section>
         <Suspense fallback={<div className="animate-pulse h-32 bg-neutral-900/50 rounded-xl my-8 w-full max-w-4xl mx-auto"></div>}>
           <WhoItsFor />
         </Suspense>

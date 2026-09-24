@@ -1,6 +1,7 @@
 ---
 title: "Content Marketing for Coaches: The Ultimate Strategy Guide to Attract High-Ticket Clients"
 date: "2026-04-15"
+updated: 2026-09-24
 excerpt: "Stop wasting time on generic posts. Discover the ultimate coaching content marketing strategy designed to position you as an authority, capture qualified leads, and effortlessly book more discovery calls."
 ---
 
@@ -158,6 +159,6 @@ Mastering **coaching content marketing** is not about becoming a full-time influ
 Stop viewing your content as an obligation and start viewing it as the primary engine for your coaching business's growth. 
 
 ### Ready to Scale Without the Risk?
-Building the funnels to capture and convert your content traffic shouldn't be a gamble. At Compel, we build high-converting landing pages, VSLs, and email sequences for coaches—and we do it with **$0 upfront**. You only pay us if we increase your discovery call bookings by 30% within 30 days. 
+Building the funnels to capture and convert your content traffic shouldn't be a gamble. At Compel, we build high-converting landing pages, VSLs, and email sequences for coaches—and we do it with **$0 upfront**. You only pay us if we increase your discovery call bookings by the agreed target during the performance window.
 
 If you are ready to stop leaking leads and start maximizing the ROI of your content, learn more about our [zero-upfront model](/learn/zero-upfront-model) or check out our [homepage](/) to see how we can transform your coaching business today.

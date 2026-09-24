@@ -1,6 +1,7 @@
 ---
 title: "Multiple Revenue Streams for Coaches: Beyond 1:1 Sessions"
 date: "2026-05-13"
+updated: 2026-09-24
 excerpt: "Stop relying solely on 1:1 clients. Discover how to build multiple revenue streams for coaches, from digital products and group cohorts to affiliate marketing and speaking gigs."
 ---
 
@@ -89,6 +90,6 @@ If your backend systems are a mess, adding new products will only accelerate the
 
 That is where [Compel](/) steps in. We are a performance-based growth agency specializing in building end-to-end funnel ecosystems for top-tier coaches, from [performance coaching](/coaches/performance-coaching) to specialized business consulting. 
 
-We don't just build a single landing page; we architect the entire customer journey, ensuring that every lead is routed to the exact right offer in your value ladder. And we do it all on a [zero upfront model](/learn/zero-upfront-model). We build your funnels for free, and you only pay us when we hit strict, agreed-upon performance metrics—like increasing your qualified bookings by 30% in 30 days. 
+We don't just build a single landing page; we architect the entire customer journey, ensuring that every lead is routed to the exact right offer in your value ladder. And we do it all on a [zero upfront model](/learn/zero-upfront-model). We build your funnels for free, and you only pay us when we hit strict, agreed-upon performance metrics—like increasing your qualified bookings by the agreed target during the performance window.
 
 Ready to stop trading hours for dollars and start building a diversified coaching empire? Let's build your value ladder today.

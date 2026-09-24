@@ -1,6 +1,7 @@
 ---
 title: "Scaling Your Coaching Business Past Six Figures: The Operational Playbook"
 date: "2026-05-19"
+updated: 2026-09-24
 excerpt: "Hitting six figures requires hustle; scaling past it requires systems. Discover the exact operational playbook for scaling your coaching business to multiple six and seven figures."
 ---
 
@@ -79,6 +80,6 @@ If you attempt to build this infrastructure yourself, you risk spending months t
 
 At [Compel](/), we act as the growth engine for elite coaches. We build the automated, high-converting funnels required to scale past six figures. We specialize in positioning your high-ticket offer, crafting the copy that pre-sells your expertise, and optimizing the backend automation so leads seamlessly turn into booked appointments.
 
-We understand the risks of scaling, which is why we completely eliminate them for our clients. We operate exclusively on a [zero upfront model](/learn/zero-upfront-model). We build your entire funnel infrastructure for free. You only pay us a success fee when we prove our value by increasing your qualified discovery calls by 30% within 30 days. 
+We understand the risks of scaling, which is why we completely eliminate them for our clients. We operate exclusively on a [zero upfront model](/learn/zero-upfront-model). We build your entire funnel infrastructure for free. You only pay us a success fee when we prove our value by increasing your qualified discovery calls by the agreed target during the performance window.
 
 Stop grinding in the six-figure trap. Let Compel build your scaling infrastructure today.

@@ -52,17 +52,6 @@ const NicheHero = ({ niche }: HeroProps) => {
         {/* Subtle green radial glow */}
         <div className="absolute inset-0 bg-accent/15 blur-3xl rounded-full translate-y-8 pointer-events-none" />
 
-        {/* Floating Metrics */}
-        <div className="hidden md:flex absolute -left-12 top-20 bg-neutral-900/80 backdrop-blur-md border border-neutral-700/50 rounded-xl p-4 flex-col gap-1 z-20 shadow-xl">
-          <span className="text-neutral-400 text-xs font-mono">Conversion Rate</span>
-          <span className="text-text font-bold text-xl">+14.2% <span className="text-accent text-sm">↑</span></span>
-        </div>
-
-        <div className="hidden md:flex absolute -right-8 bottom-32 bg-neutral-900/80 backdrop-blur-md border border-neutral-700/50 rounded-xl p-4 flex-col gap-1 z-20 shadow-xl">
-          <span className="text-neutral-400 text-xs font-mono">Cost Per Call</span>
-          <span className="text-text font-bold text-xl">-$42.50 <span className="text-accent text-sm">↓</span></span>
-        </div>
-
         <InvoiceMock />
       </div>
     </section>

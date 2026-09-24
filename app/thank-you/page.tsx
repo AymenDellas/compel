@@ -1,15 +1,23 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import Link from "next/link";
-import { Navbar } from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export default function ThankYouPage() {
+  useEffect(() => {
+    const onCalendlyMessage = (message: MessageEvent) => {
+      if (message.origin !== 'https://calendly.com') return;
+      if (message.data?.event === 'calendly.event_scheduled') {
+        window.gtag?.('event', 'book_discovery_call');
+      }
+    };
+    window.addEventListener('message', onCalendlyMessage);
+    return () => window.removeEventListener('message', onCalendlyMessage);
+  }, []);
+
   return (
     <main className="min-h-screen bg-background text-text flex flex-col font-sans selection:bg-accent selection:text-black">
-      <Navbar />
-
       <section className="flex-1 flex flex-col items-center justify-start pt-32 pb-24 px-6 relative w-full">
         {/* Background Gradients */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,#0A1205_0%,#000000_70%)] z-0 pointer-events-none" />

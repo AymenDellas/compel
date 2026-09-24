@@ -1,6 +1,7 @@
 ---
 title: "Application Funnels for Coaches: How to Pre-Qualify High-Ticket Clients"
 date: "2026-05-20"
+updated: 2026-09-24
 excerpt: "Stop wasting time on discovery calls with unqualified prospects. Learn how to architect a coaching application funnel that pre-qualifies every lead before they hit your calendar."
 ---
 
@@ -93,6 +94,6 @@ If you are tired of playing the guessing game and want a proven system built for
 
 At [Compel](/), we specialize in building ruthless, high-converting application funnels for elite coaches. We handle the technical integration, the form psychology, the copywriting, and the follow-up automations. 
 
-We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We do not charge you $10,000 to build your funnel. We build the entire infrastructure for free, and we only get paid when we successfully increase your volume of *qualified*, application-approved discovery calls by 30% within 30 days.
+We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We do not charge you $10,000 to build your funnel. We build the entire infrastructure for free, and we only get paid when we successfully increase your volume of *qualified*, application-approved discovery calls by the agreed target during the performance window.
 
 Stop wasting your most valuable asset—your time—on people who will never buy. Let's build a funnel that protects your calendar and scales your revenue.

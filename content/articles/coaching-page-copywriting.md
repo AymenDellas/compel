@@ -1,7 +1,8 @@
 ---
 title: "Coaching Page Copywriting: Frameworks That Turn Visitors Into Clients"
 date: 2026-06-13
-excerpt: "Your coaching page copy is the only thing standing between a bounce and a $10,000 client. Learn the exact coaching copywriting frameworks that consistently convert cold traffic into high-ticket bookings."
+updated: 2026-09-24
+excerpt: "Learn practical copywriting frameworks for explaining a coaching offer, answering objections, and inviting qualified visitors to book a call."
 ---
 
 You can have the most beautiful website design in the world. You can have professional branding, a custom logo, and cinematic video production. But if your coaching page copywriting is weak, generic, or confusing, your calendar will remain empty. 
@@ -10,7 +11,7 @@ Copywriting is salesmanship in print. When a prospect lands on your page, your c
 
 Most coaches fail at this. They write copy that sounds like an academic journal, or worse, they write copy that is entirely focused on themselves ("I have 10 years of experience, I am certified, my approach is holistic"). Prospects do not care about your certifications; they care about their own problems. 
 
-At [Compel](https://getcompel.co), we have analyzed thousands of pages to understand [why funnel leaking](/learn/why-funnel-leaking) happens. The #1 culprit is almost always bad copy. In this masterclass, we will break down the exact copywriting for coaches frameworks you need to turn skeptical visitors into high-ticket clients.
+At [Compel](https://getcompel.co), we focus on the language that helps visitors decide whether a coaching offer is right for them. Copy is one possible source of [funnel friction](/learn/why-funnel-leaking). This guide gives you frameworks to clarify the offer, answer objections, and invite a qualified conversation.
 
 ## Key Takeaways
 
@@ -83,6 +84,6 @@ You shouldn't have to. At [Compel](https://getcompel.co), we specialize in writi
 
 We operate entirely on a **[zero upfront model](/learn/zero-upfront-model)**. We will audit your current page, completely rewrite your copy using proven psychological frameworks, and build the funnel for you. You pay absolutely nothing upfront. We assume all the risk. 
 
-We only get paid when our copy actually performs—specifically, when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by 30% within 30 days. If our words don't convince your traffic to book a call, you don't pay us a dime. 
+We only get paid when our copy actually performs—specifically, when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window. If our words don't convince your traffic to book a call, you don't pay us a dime.
 
 Stop losing high-value clients to weak copy. Partner with Compel, and let us write the words that scale your business.

@@ -1,6 +1,7 @@
 ---
 title: "Google Ads for Coaches: Search Campaigns That Book Discovery Calls"
 date: "2026-05-29"
+updated: 2026-09-24
 excerpt: "Capture high-intent prospects actively searching for your services. Learn how to build profitable Google Ads search campaigns specifically for your coaching business."
 ---
 
@@ -88,6 +89,6 @@ We are a performance-based funnel agency exclusively for high-ticket coaches. We
 
 **Our model is $0 upfront.** 
 
-We take on all the risk. We only get paid when your calendar starts filling up—specifically, when we increase your booked discovery calls by 30% within 30 days. If we don't deliver, you don't pay. It is that simple.
+We take on all the risk. We only get paid when your calendar starts filling up—specifically, when we increase your booked discovery calls by the agreed target during the performance window. If we don't deliver, you don't pay. It is that simple.
 
 Stop burning money on trial and error. Let us build your high-converting search pipeline. Learn more about our performance-based model on our [homepage](/).

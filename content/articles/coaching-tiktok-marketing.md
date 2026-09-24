@@ -1,6 +1,7 @@
 ---
 title: "TikTok for Coaches: Short-Form Video Strategy for Client Acquisition"
 date: "2026-04-27"
+updated: 2026-09-24
 excerpt: "Think TikTok is just for dancing teenagers? Think again. Discover the definitive coaching TikTok strategy to tap into the most powerful organic reach engine on the internet and acquire high-ticket clients."
 ---
 
@@ -131,4 +132,4 @@ Getting 100,000 views on a TikTok video is an incredible feeling—until you rea
 
 At Compel, we ensure that every ounce of attention you generate is captured and converted. We build high-converting landing pages, VSLs, and email sequences specifically for coaches. And the best part? We do it with **$0 upfront**. 
 
-We operate entirely on performance. If we don't increase your [discovery call](/learn/coaching-discovery-call-script) bookings by 30% within 30 days, you don't pay us. Focus on creating great TikToks, and let us handle the conversion architecture. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to start scaling risk-free.
+We operate entirely on performance. If we don't increase your [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window, you don't pay us. Focus on creating great TikToks, and let us handle the conversion architecture. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to start scaling risk-free.

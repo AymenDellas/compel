@@ -1,6 +1,7 @@
 ---
 title: "Why Your Coaching Funnel Is Leaking (And the 7-Point Fix That Recovers Lost Revenue)"
 date: 2026-06-25
+updated: 2026-09-24
 excerpt: "Most coaching funnels lose 60–80% of prospects before they ever book a call. Here are the 7 exact leak points — and the fixes that can double your conversion rate in 30 days."
 ---
 
@@ -254,6 +255,6 @@ This is why the smartest coaches — the ones scaling past $30K, $50K, $100K per
 
 Every day your funnel leaks, you're paying for it in lost revenue. The prospects are there. Your coaching is transformative. The gap is the conversion system between "interested" and "booked."
 
-That's exactly what [Compel](/) builds. We create done-for-you conversion funnels for coaches — landing pages, email nurture sequences, and booking flows — engineered to plug the leaks and turn traffic into discovery calls. And we do it on a **zero-upfront, performance-only model**: you pay nothing unless your discovery call bookings increase by at least 30% within 30 days.
+That's exactly what [Compel](/) builds. We create done-for-you conversion funnels for coaches — landing pages, email nurture sequences, and booking flows — engineered to plug the leaks and turn traffic into discovery calls. And we do it on a **zero-upfront, performance-only model**: you pay nothing unless your discovery call bookings increase by the agreed target during the performance window.
 
 No retainer. No risk. No paying for promises. Just a team of funnel specialists whose entire business model depends on making your funnel convert. If your coaching funnel is leaking revenue, [let's fix it together](/).

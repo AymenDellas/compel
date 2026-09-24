@@ -44,6 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'article',
       url: `https://getcompel.co/learn/${resolvedParams.slug}`,
       publishedTime: article.date,
+      modifiedTime: article.updated,
       authors: ['Compel'],
       images: [{ url: 'https://getcompel.co/og-image.png' }],
     },
@@ -71,8 +72,13 @@ export default async function ArticlePage({ params }: Props) {
 
   // Get related articles for internal linking
   const allArticles = getAllArticles();
+  const words = new Set(resolvedParams.slug.split('-').filter(word => word.length > 4));
   const relatedArticles = allArticles
     .filter((a: any) => a.slug !== resolvedParams.slug)
+    .sort((a, b) => {
+      const score = (slug: string) => slug.split('-').filter(word => words.has(word)).length;
+      return score(b.slug) - score(a.slug) || (b.date || '').localeCompare(a.date || '');
+    })
     .slice(0, 3);
 
   const articleJsonLd = {
@@ -80,11 +86,10 @@ export default async function ArticlePage({ params }: Props) {
     '@type': 'Article',
     headline: article.title,
     datePublished: article.date,
-    dateModified: article.date,
+    ...(article.updated ? { dateModified: article.updated } : {}),
     author: {
-      '@type': 'Person',
-      name: 'Aymen Dellas',
-      url: 'https://getcompel.co/about',
+      '@type': 'Organization',
+      '@id': 'https://getcompel.co/#organization',
     },
     publisher: {
       '@type': 'Organization',
@@ -160,6 +165,9 @@ export default async function ArticlePage({ params }: Props) {
                 })}
               </time>
             )}
+            <p className="mt-3 text-sm text-gray-500 dark:text-zinc-400">
+              By <a className="underline hover:text-accent" href="/about">Compel</a>
+            </p>
           </header>
 
           <div 

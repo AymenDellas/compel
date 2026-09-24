@@ -1,6 +1,7 @@
 ---
 title: "The Ultimate Coaching [Discovery Call](/learn/coaching-discovery-call-script) Script: Close High-Ticket Clients Without Feeling Salesy"
 date: "2026-06-06"
+updated: 2026-09-24
 excerpt: "Stop winging your sales calls. Discover the exact coaching discovery call script framework that converts prospects into high-ticket clients—without aggressive closing tactics."
 ---
 
@@ -114,6 +115,6 @@ Are you tired of paying traditional marketing agencies massive retainers with ze
 
 At **[Compel](/)**, we build high-converting, entirely bespoke funnels for coaches on a strict **zero-upfront, performance-only basis**. We handle the landing pages, the copy, the email sequences, and the automation. 
 
-**You pay absolutely nothing upfront.** We only get paid if we increase your qualified discovery call bookings by 30% within 30 days. You focus on mastering your discovery call script and closing the deals; we’ll make sure your calendar is packed. 
+**You pay absolutely nothing upfront.** We only get paid if we increase your qualified discovery call bookings by the agreed target during the performance window. You focus on mastering your discovery call script and closing the deals; we’ll make sure your calendar is packed.
 
 Ready to scale without the risk? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

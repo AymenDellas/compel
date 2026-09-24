@@ -16,12 +16,11 @@ const Hero = () => {
         </span>
       </div>
 
-      {/* SEO-Optimized H1 */}
       <h1 className="text-4xl sm:text-5xl md:text-[72px] lg:text-[84px] font-bold tracking-[-0.03em] leading-[1.05] text-center text-text max-w-5xl mb-6">
-        Get More Booked Discovery Calls Without Lifting a <br />
+        Funnels for Coaches That Book More <br />
         <span className="text-neutral-300">
           <span className="font-serif italic font-extralight text-accent">
-            Finger
+            Discovery Calls
           </span>
         </span>
       </h1>

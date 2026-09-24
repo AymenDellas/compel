@@ -1,6 +1,7 @@
 ---
 title: "[Life Coach](/coaches/life-coaching) Marketing Plan: A Step-by-Step Guide to Attracting Clients"
 date: "2026-05-07"
+updated: 2026-09-24
 excerpt: "Build a reliable life coach marketing plan to attract your ideal clients. Stop relying on referrals and start scaling your coaching business with predictable systems."
 ---
 
@@ -145,4 +146,4 @@ A successful life coach marketing plan isn't about doing everything; it's about 
 
 If you are tired of trying to figure this out on your own and want a guaranteed system to book more discovery calls, it's time to partner with experts. 
 
-**At Compel, we build performance-based conversion funnels for coaches. We handle the landing pages, the email sequences, and the booking flows. The best part? We operate on a $0 upfront model—you only pay if we increase your discovery call bookings by 30% within 30 days. Ready to scale your life coaching business without the risk? [Visit our homepage](/) to learn more.**
+**At Compel, we build performance-based conversion funnels for coaches. We handle the landing pages, the email sequences, and the booking flows. The best part? We operate on a $0 upfront model—you only pay if we increase your discovery call bookings by the agreed target during the performance window. Ready to scale your life coaching business without the risk? [Visit our homepage](/) to learn more.**

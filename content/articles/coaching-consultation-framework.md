@@ -1,6 +1,7 @@
 ---
 title: "The Coaching Consultation Framework: Structure a Call That Closes"
 date: "2026-06-24"
+updated: 2026-09-24
 excerpt: "Master your sales process. Discover the definitive coaching consultation framework and call structure that converts hesitant prospects into premium, high-ticket clients."
 ---
 
@@ -95,6 +96,6 @@ At **[Compel](/)**, we remove the hope and the risk.
 
 We are a performance-based funnel agency that builds bespoke, high-converting acquisition systems specifically for coaches. We build the landing pages, write the email sequences, and set up the qualification automations with **zero upfront cost**. 
 
-You only pay us a flat performance fee if we successfully increase your qualified discovery call bookings by 30% within 30 days. You focus on mastering your **coaching consultation framework** and closing the deals; we will make sure you have highly qualified prospects to talk to. 
+You only pay us a flat performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. You focus on mastering your **coaching consultation framework** and closing the deals; we will make sure you have highly qualified prospects to talk to.
 
 Ready to scale without the upfront financial risk? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).

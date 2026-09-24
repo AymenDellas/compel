@@ -1,6 +1,7 @@
 ---
 title: "5-Day Challenge Funnels for Coaches: Structure, Scripts, and Scaling"
 date: "2026-05-16"
+updated: 2026-09-24
 excerpt: "Master the 5-day coaching challenge funnel. Learn the exact structure, daily scripts, and conversion strategies to launch your high-ticket program successfully."
 ---
 
@@ -118,6 +119,6 @@ You should not be stressing over broken email automations, landing page load spe
 
 At [Compel](/), we handle the heavy lifting. We build the entire funnel architecture—the registration pages, the VIP upsells, the email automation sequences, and the retargeting ad structures. 
 
-We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We invest our own resources into building your launch assets, and you pay nothing out of pocket. We only get paid when we succeed in increasing your qualified discovery call bookings by 30% within 30 days.
+We operate entirely on a [zero-upfront model](/learn/zero-upfront-model). We invest our own resources into building your launch assets, and you pay nothing out of pocket. We only get paid when we succeed in increasing your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop letting technical headaches ruin your live launches. Let us build the engine while you drive the revenue. Let's scale your coaching business together.

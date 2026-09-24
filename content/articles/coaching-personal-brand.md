@@ -1,6 +1,7 @@
 ---
 title: "Personal Branding for Coaches: Build a Brand That Attracts Premium Clients"
 date: "2026-05-12"
+updated: 2026-09-24
 excerpt: "Your logo is not your brand. Discover the definitive coaching personal brand strategy to build magnetic trust, differentiate yourself in a saturated market, and attract high-ticket clients effortlessly."
 ---
 
@@ -128,4 +129,4 @@ At Compel, we build elite conversion architectures that match the power of your 
 
 And we do it with absolutely **$0 upfront**. 
 
-We operate entirely on performance. If we do not increase your booked discovery calls by 30% within 30 days, you pay us nothing. Stop carrying the risk of expensive agency retainers and start scaling with a true partner. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to transform your brand into a revenue engine today.
+We operate entirely on performance. If we do not increase your booked discovery calls by the agreed target during the performance window, you pay us nothing. Stop carrying the risk of expensive agency retainers and start scaling with a true partner. Learn more about our [zero-upfront model](/learn/zero-upfront-model) or visit our [homepage](/) to transform your brand into a revenue engine today.
