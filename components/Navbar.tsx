@@ -2,10 +2,12 @@
 
 import React from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { useLeadCapture } from './LeadCaptureProvider';
 
 export const Navbar = () => {
   const { openModal } = useLeadCapture();
+  const isHome = usePathname() === '/';
 
   return (
     <div className="fixed top-6 left-0 right-0 z-50 flex w-full justify-center px-4 pointer-events-none">
@@ -29,10 +31,12 @@ export const Navbar = () => {
           </svg>
         </Link>
 
-        <div className="flex items-center gap-3 sm:gap-6">
-          <Link href="/learn" className="text-xs sm:text-sm font-medium text-neutral-300 hover:text-accent">Guides</Link>
-          <Link href="/about" className="hidden sm:inline text-sm font-medium text-neutral-300 hover:text-accent">About</Link>
-        </div>
+        {!isHome && (
+          <div className="flex items-center gap-3 sm:gap-6">
+            <Link href="/learn" className="text-xs sm:text-sm font-medium text-neutral-300 hover:text-accent">Guides</Link>
+            <Link href="/about" className="hidden sm:inline text-sm font-medium text-neutral-300 hover:text-accent">About</Link>
+          </div>
+        )}
 
         {/* CTA Button */}
         <div className="flex items-center">

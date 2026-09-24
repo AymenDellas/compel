@@ -2,7 +2,7 @@
 
 ## What is ready in the site
 
-- `/learn` is a crawlable hub for the 100 existing guides, with links from the homepage, navigation, and footer.
+- `/learn` is a crawlable hub for the 100 existing guides. Resource links are shown on non-home pages; the homepage stays focused on discovery-call conversion.
 - `/tools/coaching-funnel-calculator` gives coaches a free way to calculate their own funnel rates and links back to the relevant guides.
 - The homepage, niche pages, and articles have distinct canonical URLs. The thank-you page is excluded from indexing.
 - XML sitemaps include the hub and canonical content URLs. Article `lastmod` is emitted only when an `updated` frontmatter date is supplied.

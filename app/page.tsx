@@ -7,7 +7,6 @@ import WhyCompel from '../components/WhyCompel'
 import FAQ from '../components/FAQ'
 import CTA from '../components/CTA'
 import Footer from '../components/Footer'
-import ExploreGuides from '../components/ExploreGuides'
 
 export default function Page() {
   return (
@@ -36,7 +35,6 @@ export default function Page() {
         <Suspense fallback={<div className="animate-pulse h-32 bg-neutral-900/50 rounded-xl my-8 w-full max-w-4xl mx-auto"></div>}>
           <FAQ />
         </Suspense>
-        <ExploreGuides />
 
       </main>
 

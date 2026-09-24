@@ -1,17 +1,19 @@
 "use client";
 
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { getAllNiches, getNicheConfig } from '../lib/niches';
 import { useLeadCapture } from './LeadCaptureProvider';
 
 const Footer = () => {
   const { openModal } = useLeadCapture();
   const niches = getAllNiches();
+  const isHome = usePathname() === '/';
 
   return (
     <section className="border-t border-neutral-800 bg-neutral-950/80">
       <div className="max-w-6xl mx-auto px-6 py-16 md:py-20">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
+        <div className={`grid grid-cols-1 sm:grid-cols-2 ${isHome ? 'lg:grid-cols-3' : 'lg:grid-cols-4'} gap-12 lg:gap-8`}>
           {/* Brand Column */}
           <div>
             <Link href="/" className="inline-block mb-4">
@@ -61,15 +63,17 @@ const Footer = () => {
               ))}
             </ul>
           </div>
-          <div>
-            <h3 className="text-xs font-mono text-neutral-500 uppercase tracking-[0.2em] mb-5">Resources</h3>
-            <ul className="space-y-3">
-              <li><Link href="/learn" className="text-sm text-neutral-300 hover:text-accent transition-colors">All Guides</Link></li>
-              <li><Link href="/tools/coaching-funnel-calculator" className="text-sm text-neutral-300 hover:text-accent transition-colors">Free Funnel Calculator</Link></li>
-              <li><Link href="/learn/coaching-funnel-template" className="text-sm text-neutral-300 hover:text-accent transition-colors">Coaching Funnel Template</Link></li>
-              <li><Link href="/learn/coaching-lead-generation-strategies" className="text-sm text-neutral-300 hover:text-accent transition-colors">Lead Generation Guide</Link></li>
-            </ul>
-          </div>
+          {!isHome && (
+            <div>
+              <h3 className="text-xs font-mono text-neutral-500 uppercase tracking-[0.2em] mb-5">Resources</h3>
+              <ul className="space-y-3">
+                <li><Link href="/learn" className="text-sm text-neutral-300 hover:text-accent transition-colors">All Guides</Link></li>
+                <li><Link href="/tools/coaching-funnel-calculator" className="text-sm text-neutral-300 hover:text-accent transition-colors">Free Funnel Calculator</Link></li>
+                <li><Link href="/learn/coaching-funnel-template" className="text-sm text-neutral-300 hover:text-accent transition-colors">Coaching Funnel Template</Link></li>
+                <li><Link href="/learn/coaching-lead-generation-strategies" className="text-sm text-neutral-300 hover:text-accent transition-colors">Lead Generation Guide</Link></li>
+              </ul>
+            </div>
+          )}
         </div>
 
         {/* Bottom Bar */}
