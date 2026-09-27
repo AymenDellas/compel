@@ -7,13 +7,14 @@ import WhyCompel from '../components/WhyCompel'
 import FAQ from '../components/FAQ'
 import CTA from '../components/CTA'
 import Footer from '../components/Footer'
+import './landing-polish.css'
 
 export default function Page() {
   return (
     <>
-      <div className="relative min-h-screen selection:bg-accent selection:text-black font-sans bg-background text-text overflow-x-hidden">
+      <div className="compel-home relative min-h-screen selection:bg-accent selection:text-black font-sans bg-background text-text overflow-x-hidden">
       <div className="absolute inset-0 z-0 pointer-events-none">
-        <div className="absolute inset-0 bg-[radial-gradient(rgba(255,255,255,0.07)_1px,transparent_1px)] bg-[size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_80%,transparent_100%)]"></div>
+        <div className="landing-texture absolute inset-0 bg-[radial-gradient(rgba(255,255,255,0.07)_1px,transparent_1px)] bg-[size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_80%,transparent_100%)]"></div>
       </div>
       
       <main>

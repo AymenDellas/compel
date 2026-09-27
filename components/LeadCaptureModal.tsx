@@ -104,7 +104,7 @@ export const LeadCaptureModal = () => {
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.15, duration: 0.3 }}
                   onClick={closeModal}
-                  className="text-neutral-500 hover:text-white transition-colors text-sm font-mono tracking-wider uppercase"
+                  className="ml-4 min-h-11 shrink-0 whitespace-nowrap rounded-sm px-1 text-neutral-400 hover:text-white transition-colors text-sm font-mono tracking-wider uppercase focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent"
                   aria-label="Close"
                 >
                   ✕ close

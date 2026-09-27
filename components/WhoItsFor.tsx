@@ -30,9 +30,9 @@ const WhoItsFor = () => {
               className="group transition-all duration-300"
             >
               {/* Left Border Light-Up */}
-              <div className="absolute left-[-1px] top-4 bottom-4 w-[2px] bg-accent opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-[0_0_12px_var(--color-accent)]" />
+              <div className="profile-edge absolute left-[-1px] top-4 bottom-4 w-[2px] bg-accent opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-[0_0_12px_var(--color-accent)]" />
 
-              <div className="font-mono text-sm text-accent mb-4 bg-accent/10 w-fit px-3 py-1 rounded">
+              <div className="profile-label font-mono text-sm text-accent mb-4 bg-accent/10 w-fit px-3 py-1 rounded">
                 [ Specificity: {profile.specificity} ]
               </div>
               <p className="text-lg md:text-xl text-neutral-300 leading-relaxed">
@@ -46,7 +46,7 @@ const WhoItsFor = () => {
       {/* --- SECTION: THE GATEKEEPER (Who It's NOT For) --- */}
       <div className="flex flex-col lg:flex-row gap-16 lg:gap-24 relative">
         {/* Ambient background glow */}
-        <div className="absolute -inset-40 bg-danger/10 blur-3xl rounded-full pointer-events-none opacity-30 z-0" />
+        <div className="disqualifier-glow absolute -inset-40 bg-danger/10 blur-3xl rounded-full pointer-events-none opacity-30 z-0" />
 
         {/* Left Column (Sticky) */}
         <div className="lg:w-[35%] lg:sticky top-32 h-fit relative z-10">
@@ -64,7 +64,7 @@ const WhoItsFor = () => {
               hoverEffect
               className="group transition-all duration-300"
             >
-              <div className="absolute left-[-1px] top-4 bottom-4 w-[2px] bg-danger opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-[0_0_12px_rgba(239,68,68,0.5)]" />
+              <div className="profile-edge absolute left-[-1px] top-4 bottom-4 w-[2px] bg-danger opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-[0_0_12px_rgba(239,68,68,0.5)]" />
               <X
                 aria-hidden="true"
                 className="absolute top-6 right-6 text-danger/30 w-6 h-6"

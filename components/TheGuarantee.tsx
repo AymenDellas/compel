@@ -25,7 +25,7 @@ const TheGuarantee = () => {
   };
 
   return (
-    <section className="w-full bg-[#F8F9FA] text-black py-32 px-6">
+    <section className="guarantee-section w-full bg-[#F8F9FA] text-black py-32 px-6">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
@@ -45,7 +45,7 @@ const TheGuarantee = () => {
 
         <div className="w-full grid md:grid-cols-2 gap-8 md:gap-12 border-t border-neutral-300 pt-16 text-left">
           {/* Standard Agencies */}
-          <div className="flex flex-col gap-6">
+          <div className="guarantee-standard flex flex-col gap-6">
             <h3 className="font-mono text-sm tracking-widest text-neutral-700 uppercase border-b border-neutral-300 pb-2">
               Standard Agencies
             </h3>
@@ -64,7 +64,7 @@ const TheGuarantee = () => {
           </div>
 
           {/* Compel */}
-          <div className="flex flex-col gap-6 relative bg-neutral-900 p-8 rounded-xl shadow-2xl">
+          <div className="guarantee-compel flex flex-col gap-6 relative bg-neutral-900 p-8 rounded-xl shadow-2xl">
             <h3 className="font-mono text-sm tracking-widest text-white uppercase border-b border-neutral-700 pb-2 font-bold">
               Compel
             </h3>

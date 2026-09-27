@@ -96,7 +96,7 @@ const HowItWorks = () => {
                     {index === 2 && (
                       <div className="w-full bg-neutral-950 rounded-xl border border-neutral-800 p-8 flex flex-col items-center justify-center min-h-[200px] relative overflow-hidden">
                         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(255,255,255,0.05)_0%,transparent_70%)]" />
-                        <div className="font-mono text-[64px] md:text-[80px] text-white tracking-tighter leading-none mb-4 relative z-10 font-light">
+                        <div className="invoice-amount font-mono text-[64px] md:text-[80px] text-white tracking-tighter leading-none mb-4 relative z-10 font-light">
                           $<Counter from={5000} to={0} /><span className="text-neutral-400">.00</span>
                         </div>
                         <div className="text-neutral-500 text-xs text-center max-w-[200px] relative z-10 mb-8">

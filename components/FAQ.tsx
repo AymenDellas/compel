@@ -18,7 +18,7 @@ const FAQ = () => {
   });
 
   return (
-    <section className="py-32 px-6 max-w-3xl mx-auto">
+    <section className="faq-section py-32 px-6 max-w-3xl mx-auto">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
