@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { ArrowRight, Check, Search, X } from 'lucide-react';
+import { ArrowRight, Search } from 'lucide-react';
 import { faqs, filterProfiles, targetProfiles, timelineSteps } from '../../data/content';
 import { useLeadCapture } from '../LeadCaptureProvider';
 import CompelLogo from '../CompelLogo';
@@ -20,10 +20,10 @@ function SignalLight() {
       <svg viewBox="0 0 1600 1000" fill="none" preserveAspectRatio="xMidYMin slice">
         <defs>
           <linearGradient id="compel-flute" x1="0" y1="0" x2="42" y2="0" gradientUnits="userSpaceOnUse">
-            <stop stopColor="#c8f135" stopOpacity="0" />
-            <stop offset=".5" stopColor="#d7ed9e" stopOpacity=".12" />
-            <stop offset=".8" stopColor="#d7ed9e" stopOpacity=".03" />
-            <stop offset="1" stopColor="#c8f135" stopOpacity="0" />
+            <stop stopColor="#dce2df" stopOpacity="0" />
+            <stop offset=".5" stopColor="#dce2df" stopOpacity=".09" />
+            <stop offset=".8" stopColor="#dce2df" stopOpacity=".02" />
+            <stop offset="1" stopColor="#dce2df" stopOpacity="0" />
           </linearGradient>
           <radialGradient id="compel-light-mask">
             <stop stopColor="white" />
@@ -38,7 +38,7 @@ function SignalLight() {
               <rect key={index} width="42" height="1600" fill="url(#compel-flute)" transform={`translate(${index * 42 - 640} 0)`} />
             ))}
           </g>
-          <path d="M70 0 1320 1000M780 0 1600 660" stroke="#d1e9a1" strokeOpacity=".08" />
+          <path d="M70 0 1320 1000M780 0 1600 660" stroke="#dce2df" strokeOpacity=".06" />
         </g>
       </svg>
     </div>
@@ -68,7 +68,7 @@ export default function CompelLanding() {
       <SignalLight />
       <header className="home-brandbar home-wide">
         <Link href="/" aria-label="Compel home"><CompelLogo width={154} /></Link>
-        <span className="home-brandline"><i aria-hidden="true" />Performance-Based Acquisition</span>
+        <span className="home-brandline">Landing pages / Booking / Follow-up</span>
       </header>
 
       <main id="compel-main">
@@ -76,7 +76,7 @@ export default function CompelLanding() {
           <div className="home-hero-copy">
           <p className="home-eyebrow">For Coaches <span aria-hidden="true">/</span> Done-For-You <span aria-hidden="true">/</span> Pay On Results</p>
           <h1 id="home-headline"><span>Funnels for Coaches</span>{' '}<span>That Book More</span>{' '}<span className="home-highlight">Discovery Calls</span></h1>
-          <p className="home-hero-description">You&apos;re a coach who wants to <strong>grow your business</strong> and <strong>help more clients</strong>, but you&apos;re struggling to <strong>fill your calendar</strong> with booked discovery calls. We&apos;ll build and install a complete funnel that <strong>increases your booked calls</strong>, and you pay <strong>zero upfront</strong>.</p>
+          <p className="home-hero-description">You have a coaching offer and people interested in it. We build your <strong>landing page, booking flow and follow-up emails</strong> to help more of those people book a discovery call. <strong>You pay when we reach the agreed increase.</strong></p>
           <CallButton onClick={openModal} />
           </div>
           <aside className="home-arrangement" aria-labelledby="arrangement-heading">
@@ -86,23 +86,23 @@ export default function CompelLanding() {
         </section>
 
         <section className="home-fit home-spine home-section" aria-labelledby="fit-heading">
-          <div className="home-section-heading"><p className="home-label">The fit</p><h2 id="fit-heading">This is for you <span className="home-highlight">IF...</span></h2></div>
+          <div className="home-section-heading"><p className="home-label">The fit</p><h2 id="fit-heading">When we can help</h2></div>
           <ul className="home-profile-list">
             {targetProfiles.map(profile => (
-              <li key={profile.specificity}><Check size={20} strokeWidth={1.5} aria-hidden="true" /><div><h3>{profile.specificity}</h3><p>{profile.quote}</p></div></li>
+              <li key={profile.specificity}><div><h3>{profile.specificity}</h3><p>{profile.quote}</p></div></li>
             ))}
           </ul>
           <div className="home-not-fit">
-            <h3>If any of these apply, <span>please close this tab.</span></h3>
+            <h3>When this work <span>isn&apos;t the right fit</span></h3>
             <ul>{filterProfiles.map(profile => (
-              <li key={profile.title}><X size={17} strokeWidth={1.5} aria-hidden="true" /><div><h4>{profile.title}</h4><p>{profile.description}</p></div></li>
+              <li key={profile.title}><div><h4>{profile.title}</h4><p>{profile.description}</p></div></li>
             ))}</ul>
           </div>
           <CallButton onClick={openModal} />
         </section>
 
         <section className="home-process home-spine home-section" aria-labelledby="process-heading">
-          <div className="home-section-heading"><p className="home-label">From audit to outcome</p><h2 id="process-heading">The Execution Timeline</h2><p>Systematic execution. No guessing.</p></div>
+          <div className="home-section-heading"><p className="home-label">The work</p><h2 id="process-heading">The Execution Timeline</h2><p>Agree on the target. Build the funnel. Measure the change in booked calls.</p></div>
           <ol className="home-timeline">{timelineSteps.map((step, index) => (
             <li key={step.id}><div className="home-step-copy"><span className="home-step-number" aria-hidden="true">{step.id}</span><h3>{step.title}</h3><p>{step.description}</p></div><TimelineVisual step={index} /></li>
           ))}</ol>
@@ -111,26 +111,26 @@ export default function CompelLanding() {
 
         <section className="home-guarantee home-spine home-section" aria-labelledby="guarantee-heading">
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-            '@context': 'https://schema.org', '@type': 'Service', name: 'The Unconditional Escrow',
+            '@context': 'https://schema.org', '@type': 'Service', name: 'Compel performance-based funnel build',
             provider: { '@type': 'Organization', name: 'Compel' },
-            description: "If your discovery calls don't increase, our invoice is shredded. We rebuild your funnel and take 100% of the financial downside.",
-            offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD', description: '$0 upfront, 30-day window, 100% financial downside covered.' },
+            description: 'We build your landing page, booking flow and follow-up emails. Payment depends on reaching the agreed increase in discovery calls.',
+            offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD', description: '$0 upfront. Payment follows the agreed increase in discovery calls during the 30-day measurement window.' },
           }) }} />
-          <div className="home-section-heading"><p className="home-label">Our skin in the game</p><h2 id="guarantee-heading">The Unconditional Escrow</h2></div>
-          <blockquote className="home-guarantee-copy">&ldquo;We can only offer this because we brutally filter out weak businesses. We do not ask for a 3-month commitment. If you pass our initial audit, we rebuild your funnel and take 100% of the financial downside. <strong>If your discovery calls don&apos;t increase, our invoice is shredded.</strong>&rdquo;</blockquote>
+          <div className="home-section-heading"><p className="home-label">The agreement</p><h2 id="guarantee-heading">How payment works</h2></div>
+          <p className="home-guarantee-copy">Before the build, we agree on your current bookings and the increase we&apos;re working toward. You pay nothing upfront. We measure the results over 30 days after launch. <strong>If we don&apos;t reach the agreed target, you don&apos;t pay our fee.</strong></p>
           <div className="home-comparison">
-            <div><h3>Standard Agencies</h3><ul><li><X size={17} aria-hidden="true" />$5,000 upfront</li><li><X size={17} aria-hidden="true" />3-month lock-in</li><li><X size={17} aria-hidden="true" />They blame the &ldquo;algorithm&rdquo; if it fails.</li></ul></div>
-            <div className="home-comparison-compel"><h3><CompelLogo width={118} /></h3><ul><li><Check size={18} aria-hidden="true" />$0 upfront</li><li><Check size={18} aria-hidden="true" />30-day window</li><li><Check size={18} aria-hidden="true" />We take 100% of the financial downside.</li></ul></div>
+            <div><h3>Agreed before we build</h3><ul><li>Your current discovery-call bookings</li><li>The increase that triggers payment</li><li>How bookings will be measured</li></ul></div>
+            <div className="home-comparison-compel"><h3><CompelLogo width={118} /></h3><ul><li>$0 upfront</li><li>A 30-day measurement window</li><li>No fee if the agreed target isn&apos;t reached</li></ul></div>
           </div>
           <CallButton onClick={openModal} />
         </section>
 
         <section className="home-difference home-spine home-section" aria-labelledby="difference-heading">
-          <div className="home-section-heading"><p className="home-label">Built around the outcome</p><h2 id="difference-heading">The Anti-Agency</h2></div>
-          <div className="home-agency-feature"><h3>If you want to debate color palettes on weekly Zoom calls, hire a traditional agency.<span>We are a math problem.</span></h3><AgencyContrast /></div>
+          <div className="home-section-heading"><p className="home-label">How we work</p><h2 id="difference-heading">The Anti-Agency</h2></div>
+          <div className="home-agency-feature"><h3>The page is only part of the job.<span>We build the steps around the booking.</span></h3><AgencyContrast /></div>
           <div className="home-principles">
-            <div><h3>Zero Account Managers.</h3><p>You don&apos;t get handed off to a 23-year-old &apos;Client Success Lead&apos; who reads off a script. You interface directly with the engineers building your pipeline.</p><DirectChannel /><span className="home-principle-note">Direct Comm Channel</span></div>
-            <div><h3>Obsessive Telemetry.</h3><div className="home-telemetry-panel"><div className="home-telemetry-label"><span>Conversion journey</span><span>Event</span></div><ol className="home-events" aria-label="Conversion journey"><li><i aria-hidden="true" />Page visit<span>01</span></li><li><i aria-hidden="true" />Call request<span>02</span></li><li><i aria-hidden="true" />Call booked<span>03</span></li></ol></div><span className="home-principle-note">Data-Driven Iteration</span></div>
+            <div><h3>Talk to the person building it.</h3><p>Your questions and feedback go directly to the person working on your funnel. You don&apos;t have to relay them through an account manager.</p><DirectChannel /></div>
+            <div><h3>See where bookings drop off.</h3><p>We track page visits, call requests and booked calls to see which step needs attention.</p><div className="home-telemetry-panel"><div className="home-telemetry-label"><span>What we measure</span><span>Step</span></div><ol className="home-events" aria-label="Booking steps measured"><li>Page visit<span>01</span></li><li>Call request<span>02</span></li><li>Call booked<span>03</span></li></ol></div></div>
           </div>
         </section>
 
@@ -147,11 +147,10 @@ export default function CompelLanding() {
         </section>
 
         <section className="home-closing home-wide" id="cta-section" aria-labelledby="closing-heading">
-          <div className="home-closing-light" aria-hidden="true" />
           <p className="home-label">Next step</p>
-          <h2 id="closing-heading">You&apos;ve read the page.<br />You know if this is <span>for you.</span></h2>
+          <h2 id="closing-heading">Let&apos;s look at what&apos;s stopping your next booking.</h2>
           <CallButton onClick={openModal} />
-          <p className="home-closing-note">$0 upfront <span aria-hidden="true">·</span> takes 30 seconds</p>
+          <p className="home-closing-note">Start with a free discovery call.</p>
         </section>
       </main>
     </div>

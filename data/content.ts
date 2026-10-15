@@ -1,32 +1,32 @@
 export const faqs = [
   {
     q: "Do I need to pay a setup fee?",
-    a: "No. We charge $0 upfront. We take 100% of the financial downside.",
+    a: "No. You pay nothing upfront. Before we build, we agree on the increase in discovery calls that triggers payment.",
     keywords: ["price", "cost", "setup", "fee"]
   },
   {
     q: "What if my discovery calls don't increase?",
-    a: "If your completed discovery calls do not increase, our invoice gets shredded. You risk zero capital.",
+    a: "If we do not reach the agreed increase during the 30-day measurement window, you do not pay our fee.",
     keywords: ["guarantee", "refund", "results", "risk"]
   },
   {
     q: "Do you handle my paid traffic or organic content?",
-    a: "No. You must already have an audience and offer. We build the conversion plumbing, not the top of funnel traffic.",
+    a: "No. You need an existing coaching offer and a way to bring people to your page. We build the landing page, booking flow and follow-up emails. Ads and organic content production are not included.",
     keywords: ["traffic", "ads", "organic", "social"]
   },
   {
     q: "How long does the setup take?",
-    a: "The baseline audit takes few minutes. The infrastructure is built within days 1-2. The 30-day performance window begins immediately after launch.",
+    a: "We start with an audit of your current funnel and agree on the booking target. The build is scheduled for days 1 and 2. The 30-day measurement window starts after launch.",
     keywords: ["time", "setup", "timeline", "long"]
   },
   {
     q: "Will I have a dedicated account manager?",
-    a: "No. You interface directly with the engineers building your pipeline. No middlemen, no weekly synergy meetings.",
+    a: "You work directly with the person building your funnel. Questions, feedback and changes go to them.",
     keywords: ["manager", "communication", "support", "meetings"]
   },
   {
     q: "Do I keep the landing page if I don't hit the target?",
-    a: "Yes. You keep the landing page, you keep the automated sequences. We don't hold your assets hostage.",
+    a: "Yes. You keep the landing page and follow-up email sequences even if the agreed booking target is not reached.",
     keywords: ["assets", "keep", "landing", "page", "ownership"]
   }
 ];
@@ -34,50 +34,50 @@ export const faqs = [
 export const timelineSteps = [
   {
     id: "01",
-    days: "Days 1",
+    days: "Day 1",
     title: "The Baseline Audit",
-    description: "We diagnose the exact friction points in your current funnel before writing a single line of code.",
+    description: "We review your page, booking form and follow-up. Then we agree on your current bookings, the target increase and how to measure it.",
   },
   {
     id: "02",
-    days: "Days 01-02",
-    title: "The Infrastructure",
-    description: "We architect a high-speed, frictionless conversion engine tailored to your audience.",
+    days: "Days 1-2",
+    title: "The Funnel Build",
+    description: "We write and build your landing page, connect the booking flow and set up the follow-up emails.",
   },
   {
     id: "03",
-    days: "Days 15–45",
+    days: "30 days after launch",
     title: "The 30-Day Window",
-    description: "We launch and measure. If we don't hit the baseline target, the invoice is shredded.",
+    description: "After launch, we track the change in discovery-call bookings against the agreed target. If we do not reach it, you do not pay our fee.",
   }
 ];
 
 export const targetProfiles = [
   {
-    specificity: "Executive / B2B",
-    quote: "\"You get great word-of-mouth, but your cold inbound relies on you manually trading 6 DMs on LinkedIn just to get someone to pick a time.\""
+    specificity: "Executive & business coaches",
+    quote: "People show interest in your coaching, but booking a call still takes a long exchange of LinkedIn messages or emails."
   },
   {
-    specificity: "High-Ticket Life/Career",
-    quote: "\"You are generating traffic, but your landing page looks like a 2018 WordPress blog and your bounce rate is eating your ad spend.\""
+    specificity: "Life & career coaches",
+    quote: "People reach your page but leave without understanding the offer or taking the next step."
   },
   {
-    specificity: "The Leaky Bucket",
-    quote: "\"People click 'Book', see a messy 14-question intake form, get overwhelmed, and close the tab forever.\""
+    specificity: "Unfinished bookings",
+    quote: "People click the booking button, then leave the form. There is no follow-up to bring them back."
   }
 ];
 
 export const filterProfiles = [
   {
-    title: "The Day-One Coach",
-    description: "\"You haven't proven your offer yet. We scale working funnels; we don't invent your business model.\""
+    title: "You are still testing your offer",
+    description: "You need a coaching offer people already buy. This work improves the route to booking it."
   },
   {
-    title: "The Retainer Addict",
-    description: "\"You want an agency 'partner' to sit on 90-minute weekly Zoom calls to talk about brand synergy. We are an execution engine.\""
+    title: "You want ongoing strategy meetings",
+    description: "The engagement covers the funnel build and measurement window. It is not an ongoing advisory retainer."
   },
   {
-    title: "The 'Traffic Problem' Illusion",
-    description: "\"You have zero audience and zero organic flow. A great funnel attached to zero eyeballs still equals zero.\""
+    title: "You need someone to bring the traffic",
+    description: "You already need visitors from outreach, content or ads. Traffic generation is not included."
   }
 ];
