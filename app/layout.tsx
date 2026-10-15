@@ -115,7 +115,7 @@ export default function RootLayout({
               "@id": "https://getcompel.co/#organization",
               "name": "Compel",
               "url": "https://getcompel.co",
-              "logo": "https://getcompel.co/brand/compel-logo-primary.svg",
+              "logo": "https://getcompel.co/brand/compel-logo.png",
               "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.",
               "image": "https://getcompel.co/og-image.png",
               "knowsAbout": [

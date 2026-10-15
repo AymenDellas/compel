@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { getAllNiches, getNicheConfig } from '../lib/niches';
 import { useLeadCapture } from './LeadCaptureProvider';
+import CompelLogo from './CompelLogo';
 
 const Footer = () => {
   const { openModal } = useLeadCapture();
@@ -17,13 +18,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div>
             <Link href="/" className="inline-block mb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" className="h-7 w-auto">
-                <text x="45%" y="50%" dominantBaseline="central" textAnchor="middle" style={{ letterSpacing: '-0.02em' }}>
-                  <tspan style={{ fontWeight: 300, fontSize: '72px' }} fill="#FFFFFF">com</tspan>
-                  <tspan style={{ fontWeight: 700, fontSize: '72px' }} fill="#FFFFFF">pel</tspan>
-                </text>
-                <circle cx="264" cy="72" r="8" fill="#C8F135" />
-              </svg>
+              <CompelLogo width={120} />
             </Link>
             <p className="text-neutral-400 text-sm leading-relaxed max-w-xs">
               Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.

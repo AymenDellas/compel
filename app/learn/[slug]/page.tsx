@@ -97,7 +97,7 @@ export default async function ArticlePage({ params }: Props) {
       url: 'https://getcompel.co',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://getcompel.co/brand/compel-logo-primary.svg',
+        url: 'https://getcompel.co/brand/compel-logo.png',
       },
     },
     description: article.excerpt || article.description || '',

@@ -4,10 +4,13 @@ import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useLeadCapture } from './LeadCaptureProvider';
+import CompelLogo from './CompelLogo';
 
 export const Navbar = () => {
   const { openModal } = useLeadCapture();
   const isHome = usePathname() === '/';
+
+  if (isHome) return null;
 
   return (
     <div className="fixed top-6 left-0 right-0 z-50 flex w-full justify-center px-4 pointer-events-none">
@@ -22,13 +25,7 @@ export const Navbar = () => {
           className="relative z-10 flex items-center cursor-pointer transition-opacity hover:opacity-70"
           aria-label="Home"
         >
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" className="h-7 sm:h-8 w-auto">
-            <text x="45%" y="50%" dominantBaseline="central" textAnchor="middle" style={{ letterSpacing: '-0.02em' }}>
-              <tspan className="font-outfit" style={{ fontWeight: 300, fontSize: '72px' }} fill="#FFFFFF">com</tspan>
-              <tspan className="font-outfit" style={{ fontWeight: 300, fontSize: '72px' }} fill="#FFFFFF">pel</tspan>
-            </text>
-            <circle cx="264" cy="72" r="8" fill="#C8F135" />
-          </svg>
+          <CompelLogo width={112} />
         </Link>
 
         {!isHome && (

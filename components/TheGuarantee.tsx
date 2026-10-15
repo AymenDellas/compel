@@ -2,6 +2,7 @@
 
 import { Button } from "./ui/Button";
 import { useLeadCapture } from "./LeadCaptureProvider";
+import CompelLogo from './CompelLogo';
 
 const TheGuarantee = () => {
   const { openModal } = useLeadCapture();
@@ -66,7 +67,7 @@ const TheGuarantee = () => {
           {/* Compel */}
           <div className="guarantee-compel flex flex-col gap-6 relative bg-neutral-900 p-8 rounded-xl shadow-2xl">
             <h3 className="font-mono text-sm tracking-widest text-white uppercase border-b border-neutral-700 pb-2 font-bold">
-              Compel
+              <CompelLogo width={118} />
             </h3>
             <ul className="space-y-4 font-semibold text-lg text-white">
               <li className="flex items-center gap-3">
