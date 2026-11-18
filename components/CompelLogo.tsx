@@ -5,7 +5,7 @@ export default function CompelLogo({ className = '', width = 146, dark = false }
   const artwork: CSSProperties = {
     position: 'absolute', width: '139.0525%', height: '176.5854%',
     left: '-19.7183%', top: '-43.1707%',
-    background: `linear-gradient(90deg, ${dark ? '#141617' : '#f2f4eb'} 81.5%, #a2ff00 81.5%)`,
+    background: `linear-gradient(90deg, ${dark ? '#141617' : '#f2f4eb'} 81.5%, var(--compel-logo-dot, #a2ff00) 81.5%)`,
     maskImage: 'url("/brand/compel-logo.png")', WebkitMaskImage: 'url("/brand/compel-logo.png")',
     maskSize: '100% 100%', WebkitMaskSize: '100% 100%',
     maskRepeat: 'no-repeat', WebkitMaskRepeat: 'no-repeat',

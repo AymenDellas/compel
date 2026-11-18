@@ -10,6 +10,12 @@ export async function GET() {
     <loc>https://getcompel.co/about</loc>
   </url>
   <url>
+    <loc>https://getcompel.co/privacy</loc>
+  </url>
+  <url>
+    <loc>https://getcompel.co/terms</loc>
+  </url>
+  <url>
     <loc>https://getcompel.co/learn</loc>
   </url>
   <url>

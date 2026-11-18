@@ -11,7 +11,6 @@ excerpt: "Master lead generation for career coaches. Stop waiting for referrals 
 *   **LinkedIn is your goldmine.** Professionals actively look for career advancement on LinkedIn; you must dominate this platform. See [/learn/scaling-linkedin](/learn/scaling-linkedin).
 *   **Lead magnets build trust.** Offer actionable assets (resume templates, interview guides) in exchange for email addresses.
 *   **Funnels convert traffic to calls.** Don't just send people to a homepage. Use a dedicated funnel to capture leads. Check out our [/learn/coaching-funnel-template](/learn/coaching-funnel-template).
-*   **Protect your ROI.** Avoid expensive retainer agencies; opt for a [/learn/zero-upfront-model](/learn/zero-upfront-model) to ensure marketing alignment.
 
 ---
 
@@ -23,7 +22,7 @@ To build a thriving practice in [/coaches/career-coaching](/coaches/career-coach
 
 ## The Flaw in Traditional Career Coaching Marketing
 
-Most career coaches approach marketing backwards. They build a beautiful, brochure-style website outlining their certifications and methodologies, and then they sit back and wait for the phone to ring. 
+Most career coaches approach marketing backwards. They build a beautiful, brochure-style website outlining their certifications and methodologies, and then they sit back and wait for the phone to ring.
 
 This approach fails for two reasons:
 1.  **Lack of Traffic:** A beautiful website does not magically attract visitors.
@@ -33,7 +32,7 @@ To succeed, you must shift from passive presence to active lead generation.
 
 ## Strategy 1: Dominating LinkedIn (The Ultimate B2B Engine)
 
-If you are a career coach, your target audience lives on LinkedIn. It is the only platform where users log in specifically to think about their professional trajectory, network with peers, and look for advancement opportunities. 
+If you are a career coach, your target audience lives on LinkedIn. It is the only platform where users log in specifically to think about their professional trajectory, network with peers, and look for advancement opportunities.
 
 Career coaching lead generation on LinkedIn requires more than just an updated resume. It requires a strategic inbound and outbound approach.
 
@@ -69,7 +68,7 @@ Once you capture a career coach lead, the real work begins. Professionals are bu
 
 ### Building Trust Through Automation
 
-Your automated [email sequence](/learn/coaching-email-nurture-sequence) must consistently deliver value while softly pitching a [discovery call](/learn/coaching-discovery-call-script). Share stories of past clients who were in the exact same frustrating position and explain how your coaching helped them break through. 
+Your automated [email sequence](/learn/coaching-email-nurture-sequence) must consistently deliver value while softly pitching a [discovery call](/learn/coaching-discovery-call-script). Share stories of past clients who were in the exact same frustrating position and explain how your coaching helped them break through.
 
 If you aren't sure how to structure these emails, review the principles of a highly effective [/learn/coaching-email-nurture-sequence](/learn/coaching-email-nurture-sequence).
 
@@ -87,16 +86,12 @@ Build relationships with executive search firms and HR consultants. When a recru
 
 ## Evaluating Your Marketing ROI
 
-As you scale your career coaching marketing, you will likely consider hiring external help. The marketing industry is flooded with agencies promising the world but requiring massive monthly retainers. 
+As you scale your career coaching marketing, you will likely consider hiring external help. The marketing industry is flooded with agencies promising the world but requiring massive monthly retainers.
 
-For career coaches, this is a dangerous game. You must protect your cash flow. We highly recommend reviewing our analysis of [/learn/retainer-vs-performance](/learn/retainer-vs-performance) before signing any agency contracts. 
-
-The most aligned marketing partnerships operate on a performance basis. The [/learn/zero-upfront-model](/learn/zero-upfront-model) ensures that you only pay when your marketing partner actually delivers qualified, booked discovery calls to your calendar.
+For career coaches, this is a dangerous game. You must protect your cash flow. We highly recommend reviewing our analysis of [/learn/retainer-vs-performance](/learn/retainer-vs-performance) before signing any agency contracts.
 
 ## Build Your Predictable Pipeline
 
-Career coaching lead generation does not have to be a mystery. Your clients are actively searching for solutions to their professional stagnation; you just need to position yourself in their path. 
+Career coaching lead generation does not have to be a mystery. Your clients are actively searching for solutions to their professional stagnation; you just need to position yourself in their path.
 
 By optimizing your LinkedIn presence, creating high-value lead magnets, nurturing leads relentlessly via email, and utilizing a robust sales funnel, you can build a predictable, scalable stream of high-ticket clients.
-
-**If you want to focus on coaching professionals rather than managing complex marketing funnels, Compel can help. We specialize in building performance-based funnels specifically for coaches. We handle the lead magnets, the landing pages (see our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)), and the automated email sequences. The best part? We operate strictly on a $0 upfront model. You only pay if we increase your discovery call bookings by the agreed target during the performance window. [Visit our homepage](/) to learn how we can fill your calendar with ambitious professionals.**

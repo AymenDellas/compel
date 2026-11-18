@@ -27,3 +27,6 @@ out
 *.njsproj
 *.sln
 *.sw?
+
+# Local development inquiry records
+data/leads.json

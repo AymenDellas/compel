@@ -13,23 +13,23 @@ excerpt: "Stop wasting time on unqualified leads. Use these 27 psychological coa
 
 ---
 
-A discovery call is not an interview. It is not a pitch. It is a diagnosis. 
+A discovery call is not an interview. It is not a pitch. It is a diagnosis.
 
-Imagine walking into a doctor’s office with a sharp pain in your stomach. If the doctor immediately says, *"I have this great $5,000 surgery package, want to buy it?"* you would run out the door. The doctor has to ask questions, probe the pain, understand the symptoms, and *then* prescribe the solution. 
+Imagine walking into a doctor’s office with a sharp pain in your stomach. If the doctor immediately says, *"I have this great $5,000 surgery package, want to buy it?"* you would run out the door. The doctor has to ask questions, probe the pain, understand the symptoms, and *then* prescribe the solution.
 
-As a coach, you must do exactly the same thing. The problem is that most coaches rely on surface-level **coaching discovery call questions** like *"What are your goals?"* or *"Tell me about your business."* These elicit surface-level, logical answers. 
+As a coach, you must do exactly the same thing. The problem is that most coaches rely on surface-level **coaching discovery call questions** like *"What are your goals?"* or *"Tell me about your business."* These elicit surface-level, logical answers.
 
-People do not buy coaching based on logic. They buy based on emotion. They buy to escape pain or move toward a profound desire. To uncover those emotions, you need a psychological arsenal of **coaching qualifying questions**. 
+People do not buy coaching based on logic. They buy based on emotion. They buy to escape pain or move toward a profound desire. To uncover those emotions, you need a psychological arsenal of **coaching qualifying questions**.
 
-In this guide, we will break down the framework for asking the right questions, give you 27 specific questions you can use today, and show you how to transition from asking questions to confidently stating your price. 
+In this guide, we will break down the framework for asking the right questions, give you 27 specific questions you can use today, and show you how to transition from asking questions to confidently stating your price.
 
 ## Why Asking the Right Coaching Discovery Call Questions Matters
 
-If you are selling a high-ticket program, your closing rate depends entirely on your ability to build a "Gap." The Gap is the distance between the prospect’s Current State (where they are struggling) and their Desired State (where they want to be). 
+If you are selling a high-ticket program, your closing rate depends entirely on your ability to build a "Gap." The Gap is the distance between the prospect’s Current State (where they are struggling) and their Desired State (where they want to be).
 
-If the Gap is small, they won't pay $10,000 to fix it. If the Gap is massive, the price becomes irrelevant. Your **coaching sales questions** are the shovels you use to dig that Gap. 
+If the Gap is small, they won't pay $10,000 to fix it. If the Gap is massive, the price becomes irrelevant. Your **coaching sales questions** are the shovels you use to dig that Gap.
 
-For [executive coaching professionals](/coaches/executive-coaching), asking the right questions is also a matter of frame control. High-level executives are used to being in charge. If you don't control the flow of the conversation with authoritative questioning, they will hijack the call and start interviewing *you*. 
+For [executive coaching professionals](/coaches/executive-coaching), asking the right questions is also a matter of frame control. High-level executives are used to being in charge. If you don't control the flow of the conversation with authoritative questioning, they will hijack the call and start interviewing *you*.
 
 ## The "Gap" Framework: 4 Categories of Coaching Qualifying Questions
 
@@ -76,32 +76,24 @@ Finally, use **coaching qualifying questions** to gauge if they are actually rea
 
 ## How to Ask Coaching Qualifying Questions Without Sounding Like an Interrogation
 
-Reading a list of 27 **coaching discovery call questions** out loud will make you sound like a robot. You must use active listening. 
+Reading a list of 27 **coaching discovery call questions** out loud will make you sound like a robot. You must use active listening.
 
-When a prospect answers a question, do not immediately read the next question on your list. Use a technique called "mirroring." Repeat the last three words of their sentence back to them with an upward inflection. 
+When a prospect answers a question, do not immediately read the next question on your list. Use a technique called "mirroring." Repeat the last three words of their sentence back to them with an upward inflection.
 
 *Prospect:* "I just feel like I'm constantly putting out fires and I have no time."
 *You:* "No time?"
 *Prospect:* "Yeah, because my team keeps making the same mistakes, so I have to fix them."
 
-You just uncovered a deeper pain point without asking a formal question. 
+You just uncovered a deeper pain point without asking a formal question.
 
 ## The Financial Importance of Asking the Right Questions
 
-If you are paying for ads, your lead cost is high. Understanding your [CPA for high-ticket offers](/learn/cpa-high-ticket) is vital. If you get on a call with an expensive lead and fail to ask the right **coaching sales questions**, you will lose a deal that you *should* have won. 
+If you are paying for ads, your lead cost is high. Understanding your [CPA for high-ticket offers](/learn/cpa-high-ticket) is vital. If you get on a call with an expensive lead and fail to ask the right **coaching sales questions**, you will lose a deal that you *should* have won.
 
-A weak discovery call wastes your marketing budget. 
+A weak discovery call wastes your marketing budget.
 
 ## Let Us Handle the Leads, You Handle the Questions
 
-You cannot master the art of the discovery call if you only take two calls a week. Sales is a repetition game. If your calendar is empty, you don't have enough at-bats to get good at asking these questions. 
+You cannot master the art of the discovery call if you only take two calls a week. Sales is a repetition game. If your calendar is empty, you don't have enough at-bats to get good at asking these questions.
 
-Many coaches try to fix an empty calendar by hiring expensive marketing agencies on a [retainer vs performance](/learn/retainer-vs-performance) basis, only to burn thousands of dollars with nothing to show for it. 
-
-At **[Compel](/)**, we solve the lead generation problem completely risk-free. 
-
-We are a performance-based funnel agency that builds bespoke acquisition funnels for high-ticket coaches. We handle the landing pages, the copy, and the email automations with **zero upfront cost**. 
-
-You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We pack your calendar with qualified leads, so you can focus on asking the right questions and closing deals.
-
-Ready to scale your coaching business predictably? [Learn more about our zero-upfront model today](/learn/zero-upfront-model).
+Many coaches try to fix an empty calendar by hiring expensive marketing agencies on a [retainer vs performance](/learn/retainer-vs-performance) basis, only to burn thousands of dollars with nothing to show for it.

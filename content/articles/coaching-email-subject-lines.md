@@ -10,7 +10,6 @@ excerpt: "Your email content doesn't matter if nobody opens it. Steal these 53 p
 - **The Core Metric:** If your open rate is below 35%, your subject lines are the bottleneck of your funnel. 
 - **The Psychology:** The best subject lines rely on two primary drivers: **Curiosity** (creating a knowledge gap) and **Benefit** (promising a specific result).
 - **The Solution:** Stop guessing. Use the 53 proven templates below across your welcome sequences, newsletters, and promotional emails to instantly boost engagement.
-- **Need a funnel that actually converts?** We build performance-based systems for coaches. No upfront fees. [Learn about our zero-upfront model](/learn/zero-upfront-model).
 
 ---
 
@@ -24,9 +23,9 @@ Think of your email funnel as a series of locked doors. The prospect must unlock
 4. Door 4: Clicking the calendar link.
 5. Door 5: Booking the call.
 
-If Door 2 (the open rate) is jammed, it does not matter how brilliant the rest of your funnel is. The greatest coaching insights in the world are utterly worthless if they remain unread in the "Promotions" tab. 
+If Door 2 (the open rate) is jammed, it does not matter how brilliant the rest of your funnel is. The greatest coaching insights in the world are utterly worthless if they remain unread in the "Promotions" tab.
 
-Many coaches complain about low conversion rates, assuming their offer or pricing is wrong. Often, when diagnosing [why a funnel is leaking](/learn/why-funnel-leaking), we find the offer is fine; the audience simply isn't seeing it because the subject lines are failing to capture attention. 
+Many coaches complain about low conversion rates, assuming their offer or pricing is wrong. Often, when diagnosing [why a funnel is leaking](/learn/why-funnel-leaking), we find the offer is fine; the audience simply isn't seeing it because the subject lines are failing to capture attention.
 
 In the crowded inbox of 2026, you are not just competing against other coaches. You are competing against their boss, their spouse, Amazon shipping updates, and Netflix notifications. You need a hook.
 
@@ -36,7 +35,7 @@ Here are 53 tested and proven coaching email subject lines divided by strategy, 
 
 ## Category 1: The "Curiosity Gap" Subject Lines
 
-Curiosity is the most powerful emotion you can leverage in an inbox. A curiosity gap is created when you give the reader just enough information to make them realize there is something they *don't* know. The only way to close the gap is to open the email. 
+Curiosity is the most powerful emotion you can leverage in an inbox. A curiosity gap is created when you give the reader just enough information to make them realize there is something they *don't* know. The only way to close the gap is to open the email.
 
 *Best used for: Weekly newsletters, story-driven emails, contrarian takes.*
 
@@ -54,13 +53,13 @@ Curiosity is the most powerful emotion you can leverage in an inbox. A curiosity
 12. The exact moment I knew I had to change
 13. What [Famous Person] knows about [Your Topic]
 
-*Note:* Do not use clickbait. If your subject line promises a wild story or a shocking secret, the body of the email MUST deliver. If you trick them into opening, they will unsubscribe. 
+*Note:* Do not use clickbait. If your subject line promises a wild story or a shocking secret, the body of the email MUST deliver. If you trick them into opening, they will unsubscribe.
 
 ---
 
 ## Category 2: The "Pain Agitation" Subject Lines
 
-People are more motivated to avoid pain than to seek pleasure. If you can accurately describe the exact pain or frustration your prospect is feeling, they will assume you have the solution. 
+People are more motivated to avoid pain than to seek pleasure. If you can accurately describe the exact pain or frustration your prospect is feeling, they will assume you have the solution.
 
 *Best used for: Nurture sequences, objection-handling emails.*
 
@@ -83,7 +82,7 @@ If you are selling [CPA and high-ticket](/learn/cpa-high-ticket) coaching, agita
 
 ## Category 3: The "Benefit & Blueprint" Subject Lines
 
-Sometimes, you don't need to be clever. You just need to be clear. If you are delivering a highly valuable framework, template, or step-by-step guide, tell them exactly what they are getting. 
+Sometimes, you don't need to be clever. You just need to be clear. If you are delivering a highly valuable framework, template, or step-by-step guide, tell them exactly what they are getting.
 
 *Best used for: Asset delivery, lead magnet follow-ups, high-value training.*
 
@@ -103,7 +102,7 @@ Sometimes, you don't need to be clever. You just need to be clear. If you are de
 
 ## Category 4: The "Direct Offer" Subject Lines
 
-When you are at the end of a launch sequence or looking to fill your calendar, you must pivot from nurturing to selling. These subject lines are direct, clear, and often utilize urgency or scarcity. 
+When you are at the end of a launch sequence or looking to fill your calendar, you must pivot from nurturing to selling. These subject lines are direct, clear, and often utilize urgency or scarcity.
 
 *Best used for: Cart close emails, final calendar pushes, limited offers.*
 
@@ -138,28 +137,21 @@ Your welcome sequence has the highest open rates of any campaign. Don't waste it
 
 ---
 
-## 3 Subject Line Mistakes That Ruin Deliverability 
+## 3 Subject Line Mistakes That Ruin Deliverability
 
-Writing a great subject line is only half the battle. You also have to ensure it passes the spam filters. 
+Writing a great subject line is only half the battle. You also have to ensure it passes the spam filters.
 
 ### 1. The ALL CAPS YELLING
-Writing your subject line in ALL CAPS triggers spam filters and annoys readers. Use sentence case (capitalizing only the first word) or title case. Sentence case often looks more personal and less like a corporate blast. 
+Writing your subject line in ALL CAPS triggers spam filters and annoys readers. Use sentence case (capitalizing only the first word) or title case. Sentence case often looks more personal and less like a corporate blast.
 
 ### 2. Overusing Spam Trigger Words
-Email providers are ruthless. If your subject line includes words like *Free, Guarantee, $$$*, *Urgent*, or *Act Now*, there is a high probability you will be banished to the spam folder. Be conversational. 
+Email providers are ruthless. If your subject line includes words like *Free, Guarantee, $$$*, *Urgent*, or *Act Now*, there is a high probability you will be banished to the spam folder. Be conversational.
 
 ### 3. The "Bait and Switch"
-If your subject line says "Your receipt for $5,000" and the email inside is actually a pitch for your coaching program, you will destroy trust instantly. Your unsubscribe rate will skyrocket, and your domain reputation will plummet. 
+If your subject line says "Your receipt for $5,000" and the email inside is actually a pitch for your coaching program, you will destroy trust instantly. Your unsubscribe rate will skyrocket, and your domain reputation will plummet.
 
 ## Conclusion: Test, Iterate, Optimize
 
-The 53 subject lines above are proven templates, but the only way to know what works for *your* specific audience is to test them. 
+The 53 subject lines above are proven templates, but the only way to know what works for *your* specific audience is to test them.
 
 Every time you send a broadcast email, utilize A/B testing. Send Subject Line A to 10% of your list, Subject Line B to another 10%, and let the software send the winner to the remaining 80%. Over time, you will learn exactly what psychological triggers your prospects respond to.
-
-**Tired of writing emails that don't convert?**
-At Compel, we write, build, and optimize every word of your coaching funnel—including the subject lines. And because we operate on a performance basis, if our emails don't get you discovery calls, you don't pay us. 
-
-[Discover our zero-upfront model and let us scale your coaching business.](/learn/zero-upfront-model)
-
-*Return to the [Compel Homepage](/) to explore more strategies.*

@@ -11,13 +11,12 @@ excerpt: "Scale your impact and revenue with group career coaching. Learn how to
 *   **Community is a feature, not a bug.** Professionals value networking and shared experiences just as much as your curriculum.
 *   **High-ticket requires high-touch marketing.** You cannot sell a $3,000 group program with a single email. You need a robust funnel. See the [/learn/coaching-funnel-template](/learn/coaching-funnel-template).
 *   **LinkedIn is your primary channel.** Fill your cohorts by targeting professionals where they already network. Read [/learn/scaling-linkedin](/learn/scaling-linkedin).
-*   **Align your marketing costs.** Don't risk capital on retainer agencies to fill your groups. Leverage the [/learn/zero-upfront-model](/learn/zero-upfront-model) for risk-free scaling.
 
 ---
 
-Every successful practitioner in [/coaches/career-coaching](/coaches/career-coaching) eventually faces the exact same bottleneck: their own calendar. When you are fully booked with 1-on-1 clients, your revenue hits a hard ceiling. You can raise your prices incrementally, but you cannot create more hours in the day. 
+Every successful practitioner in [/coaches/career-coaching](/coaches/career-coaching) eventually faces the exact same bottleneck: their own calendar. When you are fully booked with 1-on-1 clients, your revenue hits a hard ceiling. You can raise your prices incrementally, but you cannot create more hours in the day.
 
-The most effective way to shatter this ceiling, increase your profitability, and serve more people is to transition to **group career coaching**. 
+The most effective way to shatter this ceiling, increase your profitability, and serve more people is to transition to **group career coaching**.
 
 However, many coaches attempt this transition and fail miserably. They launch a group program, hear crickets, and retreat back to 1-on-1 coaching, assuming their audience simply "doesn't want" group coaching. The reality is rarely a product problem; it is almost always a marketing and funnel problem.
 
@@ -50,7 +49,7 @@ This structure ensures everyone receives the foundational knowledge efficiently 
 
 ## Step 2: Validating and Pricing Your Program
 
-Do not spend months building out the video modules before you have sold the program. 
+Do not spend months building out the video modules before you have sold the program.
 
 ### The "Founding Cohort" Launch
 
@@ -69,7 +68,7 @@ Filling a group cohort requires a predictable influx of high-quality leads. A si
 For a group program priced over $1,500, an event-based funnel is highly effective. 
 1.  **Traffic:** Drive traffic from LinkedIn ads, organic content, and email lists to a registration page.
 2.  **The Event:** Host a live webinar or an automated Video Sales Letter (VSL) that teaches a core concept (e.g., "The 3 Secrets to Landing Director-Level Roles in Tech").
-3.  **The CTA:** Pitch the group program and drive them to an application page. 
+3.  **The CTA:** Pitch the group program and drive them to an application page.
 
 To see how these pages should be structured for maximum conversion, review our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples). If you build this funnel and no one applies, you must diagnose the drop-off immediately. Read [/learn/why-funnel-leaking](/learn/why-funnel-leaking) to troubleshoot.
 
@@ -95,10 +94,6 @@ Once your group career coaching program is validated, filling it becomes an exer
 
 Many coaches turn to marketing agencies to drive this traffic, often getting locked into expensive monthly retainers. When you are trying to launch cohorts on a specific schedule, paying a retainer with no guarantee of performance is incredibly risky. Review the economics of this in [/learn/retainer-vs-performance](/learn/retainer-vs-performance).
 
-The smartest way to scale your cohorts is by utilizing a [/learn/zero-upfront-model](/learn/zero-upfront-model). This ensures you only pay for marketing when qualified candidates actually book enrollment calls, protecting your profit margins.
-
 ## Break the Time Barrier
 
 Group career coaching is the gateway to a seven-figure coaching business. By packaging your expertise into a structured hybrid curriculum, leveraging the power of community, and building a robust event-based funnel, you can serve dozens of clients simultaneously and drastically increase your revenue.
-
-**At Compel, we specialize in building the high-converting funnels required to fill group coaching programs. We handle the webinar registration pages, the VSLs, and the complex email launch sequences so you can focus on delivering an incredible experience to your cohort. Best of all, we operate on a $0 upfront performance model. You only pay if we deliver a an agreed increase in qualified bookings during the performance window. Ready to fill your next cohort? [Visit our homepage](/) and let’s talk strategy.**

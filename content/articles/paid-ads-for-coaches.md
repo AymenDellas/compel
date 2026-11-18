@@ -5,11 +5,11 @@ updated: 2026-09-24
 excerpt: "Stop wasting budget on the wrong platforms. Discover the ultimate guide to paid ads for coaches, including which platforms drive the highest quality discovery calls."
 ---
 
-Every successful coach eventually hits an income ceiling with organic marketing. You can only post so many LinkedIn articles, record so many TikToks, and send so many DMs before you run out of hours in the day. To break through the 6-figure and 7-figure barriers, you need to detach your lead generation from your personal time. 
+Every successful coach eventually hits an income ceiling with organic marketing. You can only post so many LinkedIn articles, record so many TikToks, and send so many DMs before you run out of hours in the day. To break through the 6-figure and 7-figure barriers, you need to detach your lead generation from your personal time.
 
 You need to master **paid advertising for coaches**.
 
-However, the world of paid ads is fraught with danger. The internet is littered with stories of coaches who spent $5,000 on Facebook ads only to get three unqualified leads who didn't show up for the [discovery call](/learn/coaching-discovery-call-script). 
+However, the world of paid ads is fraught with danger. The internet is littered with stories of coaches who spent $5,000 on Facebook ads only to get three unqualified leads who didn't show up for the [discovery call](/learn/coaching-discovery-call-script).
 
 In this comprehensive guide, we are going to dissect the coaching advertising landscape. We will look at the best ad platforms for coaches, how to structure your campaigns, and the exact funnels you need to ensure your ad spend results in highly profitable clients.
 
@@ -19,7 +19,6 @@ In this comprehensive guide, we are going to dissect the coaching advertising la
 *   **Intent vs. Interruption:** Google Ads target high intent (people searching for a coach), while Facebook/LinkedIn target interruption (putting an offer in front of passive scrollers). Both require vastly different strategies.
 *   **The Funnel is More Important Than the Ad:** A great ad sending traffic to a bad landing page will fail. Your backend funnel must be optimized.
 *   **Beware of the Retainer:** When hiring an agency, understand the risks of the [retainer vs performance](/learn/retainer-vs-performance) models.
-*   **You Can Scale Risk-Free:** With a [zero-upfront model](/learn/zero-upfront-model), you can build profitable ad campaigns without the massive upfront financial risk.
 
 ## The Prerequisite for Coaching Ads
 
@@ -88,7 +87,7 @@ YouTube is the ultimate platform for building parasocial relationships at scale.
 *   Coaches with a strong on-camera presence
 
 ### The Strategy:
-YouTube ads (in-stream ads that play before a video) are fantastic for demonstrating your expertise quickly. 
+YouTube ads (in-stream ads that play before a video) are fantastic for demonstrating your expertise quickly.
 
 1.  **The First 5 Seconds:** You must hook the viewer immediately before they can click the "Skip Ad" button. Call out your audience directly: "If you are a 6-figure agency owner struggling with churn..."
 2.  **The Educational Pitch:** Provide genuine value in the ad itself. Teach them something they didn't know for 2-3 minutes.
@@ -106,10 +105,4 @@ Navigating the complexities of Facebook Business Manager, Google Keyword Planner
 
 Traditionally, the solution was to hire a marketing agency. But most agencies charge a $3,000 - $5,000 monthly retainer just to manage your ads, *plus* you have to pay for the ad spend itself. If they don't deliver, you are out thousands of dollars.
 
-At Compel, we believe that is fundamentally unfair to the coach.
-
-We operate on a purely performance-based model. We build your landing pages, write your copy, craft your email sequences, and run your paid ads. **You pay $0 upfront.** We take on the financial risk, and we only get paid when your calendar is packed—specifically, when we increase your booked discovery calls by the agreed target during the performance window.
-
-If you are ready to scale with paid ads but refuse to gamble your hard-earned money on broken agency models, let's talk. 
-
-Discover how our performance-based growth engine can transform your coaching business. Visit our [homepage](/).
+If you are ready to scale with paid ads but refuse to gamble your hard-earned money on broken agency models, let's talk.

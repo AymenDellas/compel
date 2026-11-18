@@ -5,11 +5,9 @@ updated: 2026-09-24
 excerpt: "You have 3 seconds to capture their attention. Use these 11 proven coaching headline formulas to stop the scroll, instantly hook your ideal clients, and drastically increase your funnel conversion rates."
 ---
 
-David Ogilvy, the father of modern advertising, famously said: "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar." 
+David Ogilvy, the father of modern advertising, famously said: "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar."
 
-In the digital age, this is even more extreme. Whether it's an ad on Facebook, a post on LinkedIn, or the hero section of your landing page, your headline is the most critical piece of real estate you own. If your coaching headlines fail to immediately hook the reader, they will scroll past, and your brilliantly designed funnel will never see a single visitor. 
-
-At [Compel](https://getcompel.co), we constantly split test headlines across dozens of niches. We know exactly what causes a high-ticket prospect to stop scrolling and start reading. 
+In the digital age, this is even more extreme. Whether it's an ad on Facebook, a post on LinkedIn, or the hero section of your landing page, your headline is the most critical piece of real estate you own. If your coaching headlines fail to immediately hook the reader, they will scroll past, and your brilliantly designed funnel will never see a single visitor.
 
 In this tactical guide, we are giving you the exact 11 coaching headline formulas that we use to generate massive click-through rates. Whether you are offering [executive coaching](/coaches/executive-coaching) or [performance coaching](/coaches/performance-coaching), these templates are mathematically proven to perform.
 
@@ -23,7 +21,7 @@ In this tactical guide, we are giving you the exact 11 coaching headline formula
 
 ## The Psychology of a Scroll-Stopping Headline
 
-Before we get to the formulas, you must understand the psychology of the "scroll." When a prospect is browsing LinkedIn or Instagram, they are in a state of passive dopamine consumption. They are not looking to be sold to. 
+Before we get to the formulas, you must understand the psychology of the "scroll." When a prospect is browsing LinkedIn or Instagram, they are in a state of passive dopamine consumption. They are not looking to be sold to.
 
 To break them out of this passive state, your headline must trigger one of three primary psychological responses:
 1.  **Massive Self-Interest:** "This is exactly what I want."
@@ -93,16 +91,10 @@ This headline relies on raw, aggressive honesty. It acts as a pattern interrupt 
 
 ## Testing Your Headlines
 
-Do not guess which formula will work best for your audience. You must test them. Write out 10 different headlines using these formulas for your current offer. 
+Do not guess which formula will work best for your audience. You must test them. Write out 10 different headlines using these formulas for your current offer.
 
-If you are running Facebook ads, run all 10 headlines against the exact same creative (image/video) and the exact same body copy. Within 48 hours, the data will clearly show you which headline formula yields the cheapest cost-per-click. Take that winning headline and put it at the very top of your landing page. 
+If you are running Facebook ads, run all 10 headlines against the exact same creative (image/video) and the exact same body copy. Within 48 hours, the data will clearly show you which headline formula yields the cheapest cost-per-click. Take that winning headline and put it at the very top of your landing page.
 
 ## We Write the Headlines For You
 
 Crafting the perfect headline requires an intimate understanding of copywriting, market dynamics, and split testing. If you are a coach, your time should be spent coaching, not agonizing over word counts and click-through rates.
-
-At [Compel](https://getcompel.co), we handle all of the heavy lifting. We are a performance-based funnel agency that builds, writes, and optimizes the entire client acquisition ecosystem for high-ticket coaches.
-
-We operate entirely on a **[zero upfront model](/learn/zero-upfront-model)**. We write the scroll-stopping headlines, build the landing pages, and optimize the funnels. You pay absolutely nothing upfront. We assume the risk, and you only pay us when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window.
-
-If our headlines don't drive traffic and our copy doesn't convert, you don't pay. Partner with Compel today and let us build the system that fills your calendar on autopilot.

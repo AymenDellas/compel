@@ -17,8 +17,7 @@ excerpt: "Stop letting leads go cold. Discover the exact 7-email coaching nurtur
   5. The Case Study & Social Proof
   6. The Objection Destroyer
   7. The Direct Call-To-Action (CTA)
-- **The Result:** Higher open rates, lower unsubscribes, and a consistent pipeline of pre-sold discovery calls. 
-- **Need help?** If your funnel isn't converting, consider a [performance-based funnel model](/learn/zero-upfront-model) where you only pay for results.
+- **The Result:** Higher open rates, lower unsubscribes, and a consistent pipeline of pre-sold discovery calls.
 
 ---
 
@@ -29,7 +28,7 @@ If you are a coach who relies on discovery calls to close high-ticket clients, y
 1. **The "Too Much Value" Trap:** You send long, rambling emails packed with tips, tricks, and free advice. Your subscribers love it, but they never buy. Why? Because you've trained them to consume your free content rather than investing in your paid help. You are giving away the "how" instead of selling the "what" and "why."
 2. **The "Used Car Salesman" Approach:** You deliver a lead magnet and immediately bombard the prospect with aggressive pitches to "Book a Call Now!" This destroys trust instantly. High-ticket coaching requires a relationship, and relationships take time to build.
 
-When [diagnosing why a funnel is leaking](/learn/why-funnel-leaking), the email sequence is often the biggest culprit. The gap between a prospect downloading a lead magnet and booking a call is wide. Your email nurture sequence is the bridge. 
+When [diagnosing why a funnel is leaking](/learn/why-funnel-leaking), the email sequence is often the biggest culprit. The gap between a prospect downloading a lead magnet and booking a call is wide. Your email nurture sequence is the bridge.
 
 Whether you offer [business coaching](/coaches/business-coaching) or [executive coaching](/coaches/executive-coaching), the principles of human psychology remain the same. Prospects need to believe three things before they book a call:
 1. They have a problem that urgently needs solving.
@@ -42,7 +41,7 @@ Let's break down the exact 7-email coaching nurture sequence that installs these
 
 ## The 7-Email Coaching Nurture Sequence Framework
 
-This sequence is designed to be sent over 7 to 10 days immediately after a prospect joins your list (usually by downloading a lead magnet). 
+This sequence is designed to be sent over 7 to 10 days immediately after a prospect joins your list (usually by downloading a lead magnet).
 
 ### Email 1: The Asset Delivery & Welcome (Day 1)
 
@@ -85,7 +84,7 @@ For example, if you are a [career coach](/coaches/career-coaching), your prospec
 
 **Goal:** Build deep rapport and trust by showing you understand their struggle because you've been there (or helped others who were).
 
-People buy from people they relate to. This email is about vulnerability and shared experience. You need to show the prospect that you aren't just an expert on a pedestal—you understand their pain on a visceral level.
+People buy from people they relate to. This email is about vulnerability and shared experience. You need to show the prospect that you aren't just an expert on a pedestal, you understand their pain on a visceral level.
 
 **The Structure:**
 - **The Hook:** Start in the middle of a compelling story (your "rock bottom" or a client's lowest point).
@@ -100,9 +99,9 @@ This email is particularly crucial for coaches selling [CPA and high-ticket offe
 
 **Goal:** Introduce your proprietary framework and logically explain why it works.
 
-Now that you have built emotional rapport, it's time to appeal to their logic. Why is your coaching program different from the courses, books, and other coaches they've tried? 
+Now that you have built emotional rapport, it's time to appeal to their logic. Why is your coaching program different from the courses, books, and other coaches they've tried?
 
-The answer is your "Unique Mechanism"—the specific framework, system, or methodology you use to get results. 
+The answer is your "Unique Mechanism", the specific framework, system, or methodology you use to get results.
 
 **The Structure:**
 - **The Hook:** Remind them of the problem they are trying to solve.
@@ -115,7 +114,7 @@ The answer is your "Unique Mechanism"—the specific framework, system, or metho
 
 **Goal:** Prove that your methodology works in the real world through a compelling client story.
 
-Claims are cheap; proof is invaluable. This email should highlight a specific client who achieved a specific result using your coaching. 
+Claims are cheap; proof is invaluable. This email should highlight a specific client who achieved a specific result using your coaching.
 
 *Pro Tip:* Don't just share a testimonial. Tell a story. Share the "Before" (where the client was struggling), the "During" (how your coaching helped them overcome obstacles), and the "After" (the tangible results they achieved).
 
@@ -126,7 +125,7 @@ Claims are cheap; proof is invaluable. This email should highlight a specific cl
 - **The After:** The dramatic results they achieved.
 - **The CTA:** "If you want results like [Client Name], book a call to see if we are a fit."
 
-Whether you are in [life coaching](/coaches/life-coaching) or B2B consulting, case studies are the ultimate conversion driver. 
+Whether you are in [life coaching](/coaches/life-coaching) or B2B consulting, case studies are the ultimate conversion driver.
 
 ### Email 6: The Objection Destroyer (Day 8)
 
@@ -145,8 +144,6 @@ This email tackles these objections head-on.
 - **The FAQ:** List 3-4 common objections and provide logical, reassuring answers.
 - **The Risk Reversal:** Introduce any guarantees or risk-reversal elements you offer. 
 - **The CTA:** A stronger push to book a call.
-
-*Note on Risk:* If you are struggling to get clients to trust you, you might want to explore the differences between a standard retainer and a performance-based approach. We break this down in our guide on [retainer vs performance models](/learn/retainer-vs-performance).
 
 ### Email 7: The Direct Call-To-Action (Day 10)
 
@@ -182,11 +179,6 @@ Your email list shouldn't exist in a vacuum. If a prospect downloads your lead m
 
 ## Conclusion: Turn Emails into High-Ticket Clients
 
-Your email nurture sequence is the engine room of your coaching funnel. It works 24/7, building trust, shattering objections, and pre-selling your expertise. 
+Your email nurture sequence is the engine room of your coaching funnel. It works 24/7, building trust, shattering objections, and pre-selling your expertise.
 
 Stop sending generic newsletters and start sending a strategic, 7-step sequence designed to convert. Build the asset once, and it will serve your business for years.
-
-**Ready to stop guessing and start converting?**
-At Compel, we build high-converting funnels for coaches—including battle-tested email nurture sequences—with **$0 upfront**. You only pay when we increase your discovery call bookings by the agreed target during the performance window. [Learn more about our zero-upfront model and apply today.](/learn/zero-upfront-model)
-
-*Return to the [Compel Homepage](/) to explore more coaching funnel strategies.*

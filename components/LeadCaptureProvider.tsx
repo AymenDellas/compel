@@ -1,6 +1,6 @@
 "use client";
 
-import React, { createContext, useContext, useState, ReactNode } from "react";
+import React, { createContext, useContext, useState, useCallback, ReactNode } from "react";
 
 interface LeadCaptureContextType {
   isOpen: boolean;
@@ -15,8 +15,8 @@ const LeadCaptureContext = createContext<LeadCaptureContextType | undefined>(
 export const LeadCaptureProvider = ({ children }: { children: ReactNode }) => {
   const [isOpen, setIsOpen] = useState(false);
 
-  const openModal = () => setIsOpen(true);
-  const closeModal = () => setIsOpen(false);
+  const openModal = useCallback(() => setIsOpen(true), []);
+  const closeModal = useCallback(() => setIsOpen(false), []);
 
   return (
     <LeadCaptureContext.Provider value={{ isOpen, openModal, closeModal }}>

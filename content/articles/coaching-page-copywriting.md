@@ -5,13 +5,11 @@ updated: 2026-09-24
 excerpt: "Learn practical copywriting frameworks for explaining a coaching offer, answering objections, and inviting qualified visitors to book a call."
 ---
 
-You can have the most beautiful website design in the world. You can have professional branding, a custom logo, and cinematic video production. But if your coaching page copywriting is weak, generic, or confusing, your calendar will remain empty. 
+You can have the most beautiful website design in the world. You can have professional branding, a custom logo, and cinematic video production. But if your coaching page copywriting is weak, generic, or confusing, your calendar will remain empty.
 
-Copywriting is salesmanship in print. When a prospect lands on your page, your copy is having a silent, high-stakes conversation with them. It must immediately identify their pain, agitate that pain, present you as the undeniable authority, and seamlessly transition them into a booked call. 
+Copywriting is salesmanship in print. When a prospect lands on your page, your copy is having a silent, high-stakes conversation with them. It must immediately identify their pain, agitate that pain, present you as the undeniable authority, and seamlessly transition them into a booked call.
 
-Most coaches fail at this. They write copy that sounds like an academic journal, or worse, they write copy that is entirely focused on themselves ("I have 10 years of experience, I am certified, my approach is holistic"). Prospects do not care about your certifications; they care about their own problems. 
-
-At [Compel](https://getcompel.co), we focus on the language that helps visitors decide whether a coaching offer is right for them. Copy is one possible source of [funnel friction](/learn/why-funnel-leaking). This guide gives you frameworks to clarify the offer, answer objections, and invite a qualified conversation.
+Most coaches fail at this. They write copy that sounds like an academic journal, or worse, they write copy that is entirely focused on themselves ("I have 10 years of experience, I am certified, my approach is holistic"). Prospects do not care about your certifications; they care about their own problems.
 
 ## Key Takeaways
 
@@ -29,13 +27,13 @@ Before you type a single word on your landing page, whether you are in [business
 You must prove to the prospect that you understand their problem better than they do. When you describe their pain with surgical precision, they subconsciously assume you hold the solution. Do not start your copy by listing your accolades. Start by articulating their nightmare scenario.
 
 ### Rule #2: Speak in Their Vocabulary
-If you are a relationship coach, you might call your process "attachment style re-alignment." But your prospect isn't searching for that. They are searching for "how to stop arguing with my wife." Use the exact language your market uses. 
+If you are a relationship coach, you might call your process "attachment style re-alignment." But your prospect isn't searching for that. They are searching for "how to stop arguing with my wife." Use the exact language your market uses.
 
 ### Rule #3: One Page, One Promise
-Your landing page cannot promise to fix their business, improve their marriage, and help them lose weight. It must focus entirely on one singular, highly desirable outcome. 
+Your landing page cannot promise to fix their business, improve their marriage, and help them lose weight. It must focus entirely on one singular, highly desirable outcome.
 
 ### Rule #4: Anticipate and Destroy Objections
-Your prospect is reading your page looking for a reason to leave. They are thinking, "I don't have time," "I don't have the money," or "This won't work in my specific industry." Your copy must preemptively raise these objections and logically destroy them. 
+Your prospect is reading your page looking for a reason to leave. They are thinking, "I don't have time," "I don't have the money," or "This won't work in my specific industry." Your copy must preemptively raise these objections and logically destroy them.
 
 ## The High-Converting Coaching Copy Framework (The PAS Method)
 
@@ -70,20 +68,12 @@ Do not be passive. Do not say, "If you'd like to chat, feel free to reach out." 
 
 ## The Impact of Copy on Your Ad Spend
 
-If you are running paid traffic, your coaching page copywriting is the ultimate lever for profitability. 
+If you are running paid traffic, your coaching page copywriting is the ultimate lever for profitability.
 
-If your copy is generic, your conversion rate will sit at 1%. If you are spending $10 per click, it will cost you $1,000 to get a single booked call. Your [CPA for high-ticket offers](/learn/cpa-high-ticket) will be entirely unsustainable. 
+If your copy is generic, your conversion rate will sit at 1%. If you are spending $10 per click, it will cost you $1,000 to get a single booked call. Your [CPA for high-ticket offers](/learn/cpa-high-ticket) will be entirely unsustainable.
 
 If you rewrite your copy using the PAS framework, agitate the pain effectively, and raise your conversion rate to just 5%, your cost per booked call drops to $200. Exceptional copy literally prints money by making your marketing spend vastly more efficient.
 
 ## Outsource the Copywriting to the Experts
 
 Writing world-class sales copy is incredibly difficult. It requires a deep understanding of behavioral psychology, persuasion triggers, and market dynamics. It is highly unlikely that you have the time to master this skill while simultaneously running a successful coaching business.
-
-You shouldn't have to. At [Compel](https://getcompel.co), we specialize in writing high-converting copy for coaching funnels. 
-
-We operate entirely on a **[zero upfront model](/learn/zero-upfront-model)**. We will audit your current page, completely rewrite your copy using proven psychological frameworks, and build the funnel for you. You pay absolutely nothing upfront. We assume all the risk. 
-
-We only get paid when our copy actually performs—specifically, when your [discovery call](/learn/coaching-discovery-call-script) bookings increase by the agreed target during the performance window. If our words don't convince your traffic to book a call, you don't pay us a dime.
-
-Stop losing high-value clients to weak copy. Partner with Compel, and let us write the words that scale your business.

@@ -5,18 +5,11 @@ updated: 2026-09-24
 excerpt: "Stop presenting to empty rooms. Learn the exact coaching webinar funnel framework to consistently pack your live events with highly qualified, high-ticket prospects."
 ---
 
-**Key Takeaways / TL;DR**
-- A high-converting **coaching webinar funnel** doesn't start when you hit "Go Live"—it begins the moment a prospect lands on your registration page.
-- Achieving a 30%+ show-up rate requires an aggressive, value-driven indoctrination sequence over email and SMS.
-- Your webinar content must shift beliefs, not just give away "how-to" information. If you only teach tactics, prospects will leave thinking they can do it alone.
-- Post-webinar follow-up is where 80% of the revenue is generated. A segmented replay strategy is non-negotiable.
-- At [Compel](/), we build high-ticket funnels for coaches with a [zero-upfront model](/learn/zero-upfront-model), meaning you only pay for results.
-
 ## The Power of the Coaching Webinar Funnel
 
 The coaching industry is highly competitive, and standing out requires more than just a slick website or a clever lead magnet. You need a mechanism that simultaneously builds massive trust, establishes your absolute authority, and drives urgency. Enter the **coaching webinar funnel**.
 
-When executed correctly, a webinar acts as a scalable sales mechanism. Instead of spending 40 hours a week on individual discovery calls with unqualified prospects, you can speak to hundreds or thousands of people at once. You weed out the tire-kickers and invite only those who are ready to invest in your high-ticket program to book a call. 
+When executed correctly, a webinar acts as a scalable sales mechanism. Instead of spending 40 hours a week on individual discovery calls with unqualified prospects, you can speak to hundreds or thousands of people at once. You weed out the tire-kickers and invite only those who are ready to invest in your high-ticket program to book a call.
 
 Whether you focus on [executive coaching](/coaches/executive-coaching) or general life coaching, the dynamics of human psychology remain the same. People buy from coaches they trust, and there is no better way to build trust at scale than by spending 60 to 90 minutes demonstrating your expertise live.
 
@@ -28,7 +21,7 @@ A robust coaching webinar funnel consists of four distinct phases. If any of the
 
 ### 1. The Pre-Webinar Registration Phase
 
-Your registration page has one job: sell the event. It is not a place for your full biography or a detailed breakdown of your coaching methodology. 
+Your registration page has one job: sell the event. It is not a place for your full biography or a detailed breakdown of your coaching methodology.
 
 **The Headline: Hooking the Prospect**
 Your headline must speak directly to a burning pain point and promise a specific, tangible outcome. Avoid vague promises like "How to Build a Better Business." Instead, use specific, quantifiable claims: "How to Add $50k in Monthly Recurring Revenue Without Spending More on Ads."
@@ -52,7 +45,7 @@ This is a series of emails (and SMS texts, if you collected phone numbers) sent 
 Acknowledge their registration, provide the date and time, and give them a small piece of "homework." This could be a short worksheet or a quick video. This builds micro-commitments.
 
 **Pre-Webinar Days: Belief Shifting**
-Don't just send generic "Don't forget!" emails. Send emails that tell stories, break down false beliefs, and build anticipation. Highlight case studies from your [business coaching](/coaches/business-coaching) clients who achieved the exact result the webinar promises. 
+Don't just send generic "Don't forget!" emails. Send emails that tell stories, break down false beliefs, and build anticipation. Highlight case studies from your [business coaching](/coaches/business-coaching) clients who achieved the exact result the webinar promises.
 
 **24 Hours Before: The Urgency Driver**
 Remind them of the core promise. Emphasize that there will be a live Q&A and a special bonus only available for live attendees.
@@ -68,7 +61,7 @@ The structure of the webinar itself is the engine of the funnel. A successful co
 Command attention immediately. Restate the promise of the webinar so they know they are in the right place. Introduce yourself quickly, focusing on your credibility and why you are qualified to teach this topic. Establish the rules of engagement (e.g., "turn off your phone, close other tabs").
 
 **The Core Content (30-40 Minutes)**
-This is where most coaches fail. They teach *tactics*. If you teach a prospect exactly how to do something step-by-step, they will leave the webinar feeling satisfied, thinking they have everything they need to do it themselves. 
+This is where most coaches fail. They teach *tactics*. If you teach a prospect exactly how to do something step-by-step, they will leave the webinar feeling satisfied, thinking they have everything they need to do it themselves.
 
 Instead, teach *frameworks* and shift *beliefs*. Your goal is to show them the "What" and the "Why," but leave the "How" for your coaching program.
 
@@ -103,7 +96,7 @@ You can have the best presentation in the world, but if your ads are targeting t
 Reading bullet points off a slide for an hour is a surefire way to put your prospects to sleep. Use engaging visuals, tell compelling stories, and interact with the audience. Ask them to type "Yes" in the chat if they agree with a statement. Keep the energy high.
 
 ### Weak Call to Action
-A wishy-washy CTA ruins the entire presentation. Do not say, "If you'd like to chat, my calendar link is below." 
+A wishy-washy CTA ruins the entire presentation. Do not say, "If you'd like to chat, my calendar link is below."
 
 Instead, command authority: "If you are serious about [Outcome], and you are tired of struggling with [Pain Point], then click the button below to schedule your strategy session. My calendar fills up fast, and I only have 5 spots open this week. Book your call now."
 
@@ -129,7 +122,5 @@ Webinars are particularly effective for selling high-ticket masterminds, group c
 ## Ready to Scale Your Coaching Business?
 
 Building, testing, and optimizing a webinar funnel takes hundreds of hours and tens of thousands of dollars in ad spend to get right. From the landing page copy to the indoctrination sequence, the slide deck structure, and the post-webinar follow-up, there are countless variables to manage.
-
-At [Compel](/), we remove the risk and the guesswork. We build and manage high-converting, performance-based funnels for established coaches. We handle the copy, the design, the automation, and the strategy. The best part? We operate on a strict [zero-upfront model](/learn/zero-upfront-model). We build your entire funnel for free, and you only pay us when we increase your qualified discovery call bookings by the agreed target during the performance window.
 
 Stop presenting to empty rooms and start speaking to highly qualified prospects who are ready to buy. Let's scale your impact and your income.

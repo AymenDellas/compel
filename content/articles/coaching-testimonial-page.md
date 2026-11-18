@@ -5,11 +5,9 @@ updated: 2026-09-24
 excerpt: "Learn how to present real coaching testimonials with context, specific outcomes, and a clear path to a discovery call."
 ---
 
-When a high-ticket prospect is on the fence about booking a call with you, they will inevitably look for proof. They will navigate to your "Client Results" or "Success Stories" page. If they find a generic list of text quotes saying, "John is a great coach and he really helped me," they will leave. 
+When a high-ticket prospect is on the fence about booking a call with you, they will inevitably look for proof. They will navigate to your "Client Results" or "Success Stories" page. If they find a generic list of text quotes saying, "John is a great coach and he really helped me," they will leave.
 
-In the coaching industry, trust is your most valuable currency. A well-structured coaching testimonial page is not just a digital trophy case; it is a highly engineered sales asset. It should systematically dismantle objections, validate your methodology, and push the prospect toward a [discovery call](/learn/coaching-discovery-call-script) with overwhelming force. 
-
-At [Compel](https://getcompel.co), we look at what a prospect needs to understand before booking. Relevant, specific testimonials can answer some of those questions. This guide shows how to present real client feedback clearly and where to place it in the [funnel](/learn/why-funnel-leaking).
+In the coaching industry, trust is your most valuable currency. A well-structured coaching testimonial page is not just a digital trophy case; it is a highly engineered sales asset. It should systematically dismantle objections, validate your methodology, and push the prospect toward a [discovery call](/learn/coaching-discovery-call-script) with overwhelming force.
 
 ## Key Takeaways
 
@@ -21,7 +19,7 @@ At [Compel](https://getcompel.co), we look at what a prospect needs to understan
 
 ## The Anatomy of a High-Converting Coaching Testimonial Page
 
-Whether you are in [business coaching](/coaches/business-coaching) helping agencies scale, or [life coaching](/coaches/life-coaching) helping individuals find purpose, the structure of your social proof page remains the same. 
+Whether you are in [business coaching](/coaches/business-coaching) helping agencies scale, or [life coaching](/coaches/life-coaching) helping individuals find purpose, the structure of your social proof page remains the same.
 
 ### 1. The "Hero" Proof Section (Above the Fold)
 When the page loads, do not start with a small text quote. The very first thing the prospect should see is your single most impressive, undeniable client win. 
@@ -42,7 +40,7 @@ This is the secret weapon of top-tier coaching testimonial pages. You know the t
 Select specific testimonials that address these objections natively. 
 *   *To handle the 'Money' objection:* Use a quote like, "I was terrified of the investment, but I made my money back in the first 14 days."
 *   *To handle the 'Time' objection:* Use a quote like, "I was already working 60 hours a week, but John's framework only took 2 hours to implement."
-You are using your clients' words to sell for you. 
+You are using your clients' words to sell for you.
 
 ### 4. Data-Backed Visual Proof (The Screenshot Wall)
 Video testimonials are great for emotion, but raw screenshots are the ultimate truth-tellers. Create a section on your page dedicated to raw, unfiltered proof.
@@ -62,11 +60,11 @@ You must interview your clients to extract the right narrative. Use this 4-quest
 3.  **The Experience:** "What specific part of the program/framework was the most impactful for you?" (This validates your methodology).
 4.  **The After (The ROI):** "What is the tangible result you have achieved, and how has it impacted your life/business?" (This delivers the hard metrics).
 
-If you capture these four elements on video, you have an asset that will lower your [CPA for high-ticket offers](/learn/cpa-high-ticket) for years to come. 
+If you capture these four elements on video, you have an asset that will lower your [CPA for high-ticket offers](/learn/cpa-high-ticket) for years to come.
 
 ## The Missing Element: The Call to Action
 
-The biggest mistake coaches make with their testimonial pages is treating them like a museum. A prospect scrolls to the bottom, reads all the amazing stories, feels inspired... and then has nowhere to go. 
+The biggest mistake coaches make with their testimonial pages is treating them like a museum. A prospect scrolls to the bottom, reads all the amazing stories, feels inspired... and then has nowhere to go.
 
 Your testimonial page must be woven with conversion mechanisms. 
 *   Place a "Book Your Free Strategy Call" button between every major category.
@@ -74,10 +72,4 @@ Your testimonial page must be woven with conversion mechanisms.
 
 ## Let Us Build Your Proof Ecosystem
 
-Gathering testimonials, editing videos, structuring the page, and optimizing the conversion flow is a massive undertaking. But if you are selling high-ticket coaching, a world-class proof page is not optional. 
-
-At [Compel](https://getcompel.co), we build the infrastructure that turns your client wins into a relentless client acquisition machine. 
-
-We operate on a **[zero upfront model](/learn/zero-upfront-model)**. We will design your landing pages, structure your testimonial frameworks, and optimize your entire funnel. You pay $0 upfront. We take on the risk, and you only pay when your discovery call bookings increase by the agreed target during the performance window.
-
-Stop letting your best client results go to waste on a poorly designed page. Partner with Compel, and let us build a funnel that sells for you.
+Gathering testimonials, editing videos, structuring the page, and optimizing the conversion flow is a massive undertaking. But if you are selling high-ticket coaching, a world-class proof page is not optional.

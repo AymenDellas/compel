@@ -5,11 +5,9 @@ updated: 2026-09-24
 excerpt: "Stop guessing what works. Learn the exact A/B testing coaching funnel frameworks that data-driven coaches use to systematically increase their conversion rates and book more high-ticket clients."
 ---
 
-In the world of high-ticket coaching, a "hunch" is a terrible business strategy. You might think your new landing page design is brilliant. You might love the aesthetic of your new logo. But if the data shows that your conversion rate just dropped by 40%, your opinion is irrelevant. 
+In the world of high-ticket coaching, a "hunch" is a terrible business strategy. You might think your new landing page design is brilliant. You might love the aesthetic of your new logo. But if the data shows that your conversion rate just dropped by 40%, your opinion is irrelevant.
 
 To consistently scale a coaching business, you must rely on mathematics, not intuition. This is where A/B testing your coaching funnel becomes non-negotiable. Split testing allows you to isolate variables, pit two versions of a page against each other, and definitively prove what makes your specific audience pull out their credit card or book a calendar slot.
-
-At [Compel](https://getcompel.co), we are obsessed with data. When we build performance-based funnels for coaches, we don't just launch them and hope for the best; we aggressively test them. We know exactly [why funnel leaking](/learn/why-funnel-leaking) occurs because we have the data to prove it. In this guide, we will break down exactly what you need to test first to get the highest ROI on your coaching funnel optimization efforts.
 
 ## Key Takeaways
 
@@ -21,7 +19,7 @@ At [Compel](https://getcompel.co), we are obsessed with data. When we build perf
 
 ## The Hierarchy of Coaching Split Testing
 
-A common mistake in A/B testing coaching funnels is focusing on micro-optimizations (like the shade of blue on a button) before optimizing the macro-elements. If you are a [performance coach](/coaches/performance-coaching) or offering [executive coaching](/coaches/executive-coaching), your audience is sophisticated. A green button won't convince them to spend $10,000—a better argument will.
+A common mistake in A/B testing coaching funnels is focusing on micro-optimizations (like the shade of blue on a button) before optimizing the macro-elements. If you are a [performance coach](/coaches/performance-coaching) or offering [executive coaching](/coaches/executive-coaching), your audience is sophisticated. A green button won't convince them to spend $10,000, a better argument will.
 
 You must test in order of impact. Here is the hierarchy of what you should A/B test first.
 
@@ -52,7 +50,7 @@ Trust is the currency of high-ticket sales. The way you present your social proo
 
 ### Level 5: Micro-Optimizations (Low Impact - Test Last)
 Only once you have dialed in the offer, the headline, and the format should you worry about the minutiae. 
-*   **What to test:** Button colors, minor formatting changes, the exact wording of the CTA button (e.g., "Book Now" vs. "Claim Your Spot"), and the number of fields on your intake form. 
+*   **What to test:** Button colors, minor formatting changes, the exact wording of the CTA button (e.g., "Book Now" vs. "Claim Your Spot"), and the number of fields on your intake form.
 
 ## The Mechanics of A/B Testing Your Coaching Funnel
 
@@ -64,14 +62,8 @@ To execute proper coaching funnel optimization, you need the right tools and the
 
 ## The Agency Approach to Testing
 
-Split testing requires patience, analytical thinking, and a significant amount of traffic. If you are only getting 50 visitors a month to your website, A/B testing will take a year to yield actionable data. 
+Split testing requires patience, analytical thinking, and a significant amount of traffic. If you are only getting 50 visitors a month to your website, A/B testing will take a year to yield actionable data.
 
-Furthermore, split testing requires you to constantly design new variations, write new copy, and monitor software dashboards. As a coach, this takes you away from your zone of genius. 
+Furthermore, split testing requires you to constantly design new variations, write new copy, and monitor software dashboards. As a coach, this takes you away from your zone of genius.
 
-This is the fundamental difference between the traditional [retainer vs performance](/learn/retainer-vs-performance) agency model. A retainer agency will charge you thousands of dollars a month to run these tests, regardless of whether they actually improve your conversions. 
-
-At [Compel](https://getcompel.co), we run rigorous A/B testing on your funnels, but we carry the risk. We operate on a **$0 upfront model**. We build the variations, write the new headlines, and relentlessly test your funnel to maximize conversions. 
-
-You pay us nothing to run the tests. You only pay us when our testing actually works—when your discovery call bookings increase by the agreed target during the performance window.
-
-Stop guessing what your market wants. Stop relying on intuition. Partner with Compel and let our data-driven systems build a funnel that is mathematically proven to convert.
+This is the fundamental difference between the traditional [retainer vs performance](/learn/retainer-vs-performance) agency model. A retainer agency will charge you thousands of dollars a month to run these tests, regardless of whether they actually improve your conversions.

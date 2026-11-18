@@ -4,21 +4,21 @@ import Footer from '@/components/Footer';
 import { getAllArticles } from '@/lib/markdown';
 
 export const metadata: Metadata = {
-  title: 'Coaching Funnel & Lead Generation Guides | Compel',
-  description: 'Practical guides to coaching funnels, lead generation, landing pages, email follow-up, and booking more discovery calls.',
+  title: 'The Journal | Coaching Conversion Guides | Compel',
+  description: 'Practical thinking about coaching offers, landing pages, booking journeys and relevant follow-up.',
   alternates: { canonical: 'https://getcompel.co/learn' },
   openGraph: {
-    title: 'Coaching Funnel & Lead Generation Guides | Compel',
-    description: 'Explore practical guides for building a stronger coaching client acquisition system.',
+    title: 'The Journal | Compel',
+    description: 'Practical thinking about the experience between interest and a coaching conversation.',
     url: 'https://getcompel.co/learn',
     type: 'website',
-    images: [{ url: 'https://getcompel.co/og-image.png' }],
+    images: [{ url: 'https://getcompel.co/opengraph-image' }],
   },
 };
 
 const startingPoints = [
   'coaching-funnel-template',
-  'coaching-lead-generation-strategies',
+  'coaching-booking-page-best-practices',
   'coaching-landing-page-best-practices',
   'coaching-discovery-call-script',
 ];
@@ -41,16 +41,16 @@ export default function LearnPage() {
   const general = articles.filter(article => !collections.some(group => article.slug.startsWith(group.prefix)));
 
   return (
-    <div className="min-h-screen bg-background text-text">
-      <main className="mx-auto max-w-6xl px-6 pb-24 pt-36">
+    <div className="public-page">
+      <main id="main-content" className="studio-wrap public-content">
         <nav aria-label="Breadcrumb" className="mb-8 text-sm text-neutral-400">
           <Link href="/" className="hover:text-accent">Home</Link> <span aria-hidden="true">/</span> Learn
         </nav>
-        <header className="max-w-3xl mb-16">
-          <p className="mb-4 font-mono text-xs uppercase tracking-[0.2em] text-accent">Compel resources</p>
-          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">Coaching funnel and lead generation guides</h1>
-          <p className="mt-6 text-lg leading-relaxed text-neutral-300">
-            Learn how to attract the right prospects, turn interest into booked calls, and measure where your funnel loses people.
+        <header className="public-intro">
+          <p className="small-label">The journal</p>
+          <h1>Thoughtful work starts<br /><em>with better questions.</em></h1>
+          <p>
+            Ideas on clearer coaching offers, considered booking experiences and the details that help interest become a conversation.
           </p>
         </header>
 

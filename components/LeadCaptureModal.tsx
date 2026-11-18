@@ -1,193 +1,58 @@
-"use client";
+'use client';
 
-import React, { useState, useEffect, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { useRouter } from "next/navigation";
-import { useLeadCapture } from "./LeadCaptureProvider";
+import { useState, useEffect, useRef, type FormEvent } from 'react';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
+import { ArrowUpRight, X } from 'lucide-react';
+import { useLeadCapture } from './LeadCaptureProvider';
 
 export const LeadCaptureModal = () => {
   const { isOpen, closeModal } = useLeadCapture();
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [error, setError] = useState('');
+  const panel = useRef<HTMLDivElement>(null);
   const nameRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
 
-  // Lock scroll & autofocus
   useEffect(() => {
-    if (isOpen) {
-      document.body.style.overflow = "hidden";
-      // Small delay so the animation has started before we focus
-      const t = setTimeout(() => nameRef.current?.focus(), 350);
-      return () => clearTimeout(t);
-    } else {
-      document.body.style.overflow = "unset";
-    }
-    return () => {
-      document.body.style.overflow = "unset";
-    };
-  }, [isOpen]);
-
-  // Close on Escape
-  useEffect(() => {
-    const handler = (e: KeyboardEvent) => {
-      if (e.key === "Escape") closeModal();
-    };
-    window.addEventListener("keydown", handler);
-    return () => window.removeEventListener("keydown", handler);
-  }, [closeModal]);
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!name || !email) return;
-
-    setIsSubmitting(true);
-    try {
-      const response = await fetch("/api/leads", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name, email, source: "cta" }),
-      });
-
-      if (response.ok) {
-        window.gtag?.('event', 'generate_lead', { lead_source: 'site_form' });
-        closeModal();
-        setName("");
-        setEmail("");
-        router.push("/thank-you");
-      } else {
-        const errorData = await response.json().catch(() => null);
-        alert(`Error: ${errorData?.error || "Something went wrong. Please try again."}`);
+    if (!isOpen) return;
+    setError('');
+    const previousFocus = document.activeElement as HTMLElement | null;
+    const overflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    nameRef.current?.focus();
+    const keydown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') closeModal();
+      if (event.key === 'Tab') {
+        const items = panel.current?.querySelectorAll<HTMLElement>('button:not(:disabled), input:not(:disabled), textarea:not(:disabled), a[href]');
+        if (!items?.length) return;
+        const first = items[0], last = items[items.length - 1];
+        if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+        else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
       }
-    } catch (error: any) {
-      alert(`Error: ${error.message || "Something went wrong. Please try again."}`);
-    } finally {
-      setIsSubmitting(false);
-    }
-  };
+    };
+    document.addEventListener('keydown', keydown);
+    return () => { document.body.style.overflow = overflow; document.removeEventListener('keydown', keydown); previousFocus?.focus(); };
+  }, [isOpen, closeModal]);
 
-  return (
-    <AnimatePresence>
-      {isOpen && (
-        <>
-          {/* Scrim — no blur, just a subtle dark overlay */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.25, ease: [0.25, 0.1, 0.25, 1] }}
-            className="fixed inset-0 z-[998] bg-black/50"
-          />
+  async function handleSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    if (isSubmitting) return;
+    const values = new FormData(event.currentTarget);
+    setError(''); setIsSubmitting(true);
+    try {
+      const response = await fetch('/api/leads', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name: String(values.get('name') || '').trim(), email: String(values.get('email') || '').trim(), url: String(values.get('url') || '').trim(), offer: String(values.get('offer') || '').trim(), context: String(values.get('context') || '').trim(), source: 'funnel-review' }) });
+      if (!response.ok) {
+        const result = await response.json().catch(() => null);
+        throw new Error(response.status === 400 && typeof result?.error === 'string' ? result.error : 'We couldn’t save your request. Please try again, or email us directly.');
+      }
+      window.gtag?.('event', 'generate_lead', { lead_source: 'funnel_review' });
+      closeModal();
+      router.push('/thank-you');
+    } catch (cause) { setError(cause instanceof Error ? cause.message : 'We couldn’t send your request. Please try again.'); }
+    finally { setIsSubmitting(false); }
+  }
 
-          {/* Top bar panel */}
-          <motion.div
-            initial={{ y: "-100%" }}
-            animate={{ y: 0 }}
-            exit={{ y: "-100%" }}
-            transition={{ duration: 0.4, ease: [0.22, 1, 0.36, 1] }}
-            className="fixed top-0 left-0 right-0 z-[999] bg-[#111111] border-b border-neutral-800"
-          >
-            <div className="max-w-5xl mx-auto px-6 py-6 md:py-8">
-              {/* Close */}
-              <div className="flex items-center justify-between mb-6">
-                <motion.p
-                  initial={{ opacity: 0, x: -10 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ delay: 0.2, duration: 0.35, ease: "easeOut" }}
-                  className="text-neutral-400 text-sm"
-                >
-                  Enter your details to book a free discovery call.
-                </motion.p>
-
-                <motion.button
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  transition={{ delay: 0.15, duration: 0.3 }}
-                  onClick={closeModal}
-                  className="ml-4 min-h-11 shrink-0 whitespace-nowrap rounded-sm px-1 text-neutral-400 hover:text-white transition-colors text-sm font-mono tracking-wider uppercase focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent"
-                  aria-label="Close"
-                >
-                  ✕ close
-                </motion.button>
-              </div>
-
-              {/* Form */}
-              <form onSubmit={handleSubmit}>
-                <div className="flex flex-col md:flex-row gap-4 items-stretch md:items-end">
-                  {/* Name */}
-                  <motion.div
-                    initial={{ opacity: 0, y: 12 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.25, duration: 0.35, ease: "easeOut" }}
-                    className="flex-1"
-                  >
-                    <label htmlFor="leadBarName" className="block text-[11px] font-mono text-neutral-500 uppercase tracking-widest mb-2">
-                      Name
-                    </label>
-                    <input
-                      ref={nameRef}
-                      id="leadBarName"
-                      type="text"
-                      required
-                      value={name}
-                      onChange={(e) => setName(e.target.value)}
-                      placeholder="John Doe"
-                      disabled={isSubmitting}
-                      className="w-full bg-[#0B0B0B] border border-neutral-800 text-white rounded-lg px-4 py-3 text-sm focus:outline-none focus:border-[#C8F135] focus:ring-1 focus:ring-[#C8F135] transition-colors placeholder:text-neutral-600"
-                    />
-                  </motion.div>
-
-                  {/* Email */}
-                  <motion.div
-                    initial={{ opacity: 0, y: 12 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.32, duration: 0.35, ease: "easeOut" }}
-                    className="flex-1"
-                  >
-                    <label htmlFor="leadBarEmail" className="block text-[11px] font-mono text-neutral-500 uppercase tracking-widest mb-2">
-                      Email
-                    </label>
-                    <input
-                      id="leadBarEmail"
-                      type="email"
-                      required
-                      value={email}
-                      onChange={(e) => setEmail(e.target.value)}
-                      placeholder="john@example.com"
-                      disabled={isSubmitting}
-                      className="w-full bg-[#0B0B0B] border border-neutral-800 text-white rounded-lg px-4 py-3 text-sm focus:outline-none focus:border-[#C8F135] focus:ring-1 focus:ring-[#C8F135] transition-colors placeholder:text-neutral-600"
-                    />
-                  </motion.div>
-
-                  {/* Submit */}
-                  <motion.div
-                    initial={{ opacity: 0, y: 12 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.39, duration: 0.35, ease: "easeOut" }}
-                    className="md:flex-shrink-0"
-                  >
-                    <button
-                      type="submit"
-                      disabled={isSubmitting}
-                      className="w-full md:w-auto bg-[#C8F135] text-black font-semibold rounded-lg px-8 py-3 text-sm hover:bg-[#b5da30] transition-colors disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer whitespace-nowrap"
-                    >
-                      {isSubmitting ? "Sending..." : "Continue →"}
-                    </button>
-                  </motion.div>
-                </div>
-              </form>
-
-              {/* Bottom accent line */}
-              <motion.div
-                initial={{ scaleX: 0 }}
-                animate={{ scaleX: 1 }}
-                transition={{ delay: 0.45, duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
-                className="h-[1px] bg-gradient-to-r from-transparent via-[#C8F135]/40 to-transparent mt-6 origin-left"
-              />
-            </div>
-          </motion.div>
-        </>
-      )}
-    </AnimatePresence>
-  );
+  if (!isOpen) return null;
+  return <div className="review-overlay" onClick={event => { if (event.target === event.currentTarget) closeModal(); }}><div className="review-dialog" ref={panel} role="dialog" aria-modal="true" aria-labelledby="review-title" aria-describedby="review-description"><div className="review-dialog-top"><button type="button" className="review-close" onClick={closeModal} aria-label="Close review request"><X size={17} /></button></div><h2 id="review-title">Tell us about<br /><em>your coaching.</em></h2><p id="review-description" className="review-intro">Send us your website and tell us who you coach. We&apos;ll take a look and reply by email.</p><form onSubmit={handleSubmit} aria-busy={isSubmitting}><div className="review-fields"><div><label htmlFor="review-name">Your name</label><input ref={nameRef} id="review-name" name="name" autoComplete="name" placeholder="Your name" required maxLength={150} disabled={isSubmitting} /></div><div><label htmlFor="review-email">Email address</label><input id="review-email" name="email" type="email" autoComplete="email" placeholder="you@yourpractice.com" required maxLength={254} disabled={isSubmitting} /></div><div className="review-field-wide"><label htmlFor="review-url">Your website</label><input id="review-url" name="url" type="url" autoComplete="url" placeholder="https://yourpractice.com" required maxLength={2000} disabled={isSubmitting} /></div><div className="review-field-wide"><label htmlFor="review-offer">Who do you coach, and what do you offer?</label><textarea id="review-offer" name="offer" placeholder="The clients you work with and the coaching offer you’d like us to review." required maxLength={2000} disabled={isSubmitting} /></div><div className="review-field-wide"><label htmlFor="review-context">Where does interest come from today? <span>(optional)</span></label><input id="review-context" name="context" placeholder="e.g. LinkedIn, referrals, speaking. Any visitor or enquiry numbers help." maxLength={2000} disabled={isSubmitting} /></div></div>{error && <p className="review-error" role="alert">{error} <a href="mailto:aymen@getcompel.co">aymen@getcompel.co</a></p>}<button className="studio-button" type="submit" disabled={isSubmitting}>{isSubmitting ? 'Sending your request…' : 'Send my review request'}<ArrowUpRight size={18} aria-hidden="true" /></button><p className="review-privacy">We&apos;ll use these details to respond to your request. <Link href="/privacy">Privacy policy</Link></p></form></div></div>;
 };

@@ -15,19 +15,18 @@ excerpt: "Your welcome sequence sets the tone for your entire coaching relations
   4. The Methodology Breakdown
   5. The Next Logical Step (The Pitch)
 - **The Mistake:** Most coaches blend their welcome sequence with generic newsletters. A welcome sequence must be a standalone, automated flow designed with a specific conversion goal in mind.
-- **Want a done-for-you funnel?** We build performance-based funnels for coaches. You only pay for results. [Learn about our zero-upfront model](/learn/zero-upfront-model).
 
 ---
 
 ## Why Your Welcome Sequence is Your Most Profitable Asset
 
-When a prospect first subscribes to your email list—whether they downloaded a cheat sheet, attended a webinar, or signed up for a newsletter—they are in a state of high intent. They have recognized a problem in their life or business, and they are actively seeking a solution.
+When a prospect first subscribes to your email list, whether they downloaded a cheat sheet, attended a webinar, or signed up for a newsletter, they are in a state of high intent. They have recognized a problem in their life or business, and they are actively seeking a solution.
 
-This window of high intent is incredibly short. Within 48 to 72 hours, their motivation will wane, and they will return to their baseline level of complacency. 
+This window of high intent is incredibly short. Within 48 to 72 hours, their motivation will wane, and they will return to their baseline level of complacency.
 
 This is why your coaching welcome email sequence is arguably the most important automation in your entire marketing ecosystem. It capitalizes on that spike in interest. A well-crafted welcome sequence for [performance coaching](/coaches/performance-coaching) or consulting can generate a massive ROI because it strikes while the iron is hot.
 
-Unfortunately, most coaches squander this opportunity. They send a single, plain-text email with a download link and a polite "thanks for subscribing," and then they immediately dump the new lead into their weekly newsletter broadcast. 
+Unfortunately, most coaches squander this opportunity. They send a single, plain-text email with a download link and a polite "thanks for subscribing," and then they immediately dump the new lead into their weekly newsletter broadcast.
 
 If this is happening in your business, it is a primary reason [why your funnel is leaking](/learn/why-funnel-leaking).
 
@@ -38,7 +37,7 @@ Before we dive into the framework, it's crucial to understand the distinction be
 - **The Welcome Sequence:** A short, high-impact automated series (usually 3-5 emails over a few days) triggered immediately after someone joins your list. The goal is rapid indoctrination and capitalizing on high initial intent.
 - **The Nurture Sequence:** A longer, ongoing automated series (or regular broadcasts) designed to stay top-of-mind over weeks, months, or even years. The goal is long-term relationship building for prospects who weren't ready to buy during the welcome phase.
 
-For high-ticket coaches, the welcome sequence is designed to extract the "fast action" buyers—those who are ready to book a [discovery call](/learn/coaching-discovery-call-script) *today*.
+For high-ticket coaches, the welcome sequence is designed to extract the "fast action" buyers, those who are ready to book a [discovery call](/learn/coaching-discovery-call-script) *today*.
 
 ---
 
@@ -63,7 +62,7 @@ When someone gives you their email address, they expect a transaction: their con
 
 **Goal:** Answer the question: "Why should I listen to you?"
 
-By Day 1, the prospect has consumed (or at least saved) your lead magnet. Now, they are wondering who you are. This is where you establish your credibility. 
+By Day 1, the prospect has consumed (or at least saved) your lead magnet. Now, they are wondering who you are. This is where you establish your credibility.
 
 However, authority in coaching isn't just about listing your degrees and certifications. It's about demonstrating that you understand their pain.
 
@@ -74,7 +73,7 @@ However, authority in coaching isn't just about listing your degrees and certifi
 - **The Empathy Bridge:** Connect your story to their current reality. Let them know you understand how hard it is.
 - **The Call to Action (Soft):** Ask them to reply to the email and tell you where they are currently struggling.
 
-This email is highly effective for [career coaching](/coaches/career-coaching) and life coaching, where personal connection is paramount. 
+This email is highly effective for [career coaching](/coaches/career-coaching) and life coaching, where personal connection is paramount.
 
 ### Email 3: The Paradigm Shift (Day 2)
 
@@ -132,15 +131,8 @@ Your emails could be written by Shakespeare, but if the subject lines are boring
 - *Fix:* "Why I stopped giving advice (and what I do instead)"
 
 ### 3. Hiding the Call to Action
-Don't make your prospects hunt for your calendar link. By Email 4 and 5, your CTA should be bold, clear, and easy to find. Use a dedicated button or a standalone text link. 
+Don't make your prospects hunt for your calendar link. By Email 4 and 5, your CTA should be bold, clear, and easy to find. Use a dedicated button or a standalone text link.
 
 ## Conclusion: Setting the Stage for Success
 
 Your coaching welcome email sequence is the digital equivalent of a firm handshake, confident eye contact, and a warm smile. It sets the tone for the entire relationship. By structuring your sequence to build authority, shift beliefs, and clearly present your framework, you turn passive subscribers into active, eager prospects.
-
-**Is your funnel failing to capture these high-intent leads?**
-At Compel, we specialize in building end-to-end funnels for coaches—from the landing page to the welcome sequence. The best part? We operate on a **performance-based model**. You don't pay a dime upfront; you only pay when we increase your booked calls. 
-
-[Discover our zero-upfront model and see if you qualify.](/learn/zero-upfront-model)
-
-*Visit the [Compel Homepage](/) to explore more strategies for scaling your coaching business.*

@@ -54,10 +54,10 @@ Your outreach and marketing should target acute organizational pain points. Exam
 *   **Founder-to-CEO Transition:** Coaching a technical founder on how to manage an executive team as the company scales from Series A to Series C.
 *   **High-Potential (HiPo) Development:** Preparing the next generation of leaders to replace an aging C-suite (succession planning).
 
-When you position your coaching as the solution to *these* specific problems, you transition from a "nice-to-have" vendor to a strategic imperative. 
+When you position your coaching as the solution to *these* specific problems, you transition from a "nice-to-have" vendor to a strategic imperative.
 
 ### Structuring the Corporate Proposal
-Your proposals must move away from hourly rates and embrace value-based packages. This aligns perfectly with the [high-ticket CPA model](/learn/cpa-high-ticket). 
+Your proposals must move away from hourly rates and embrace value-based packages. This aligns perfectly with the [high-ticket CPA model](/learn/cpa-high-ticket).
 
 A strong corporate proposal includes:
 1.  **Executive Summary:** Reiterate their exact business problem and the desired outcome.
@@ -71,7 +71,7 @@ A strong corporate proposal includes:
 The B2B sales cycle is longer and more complex than B2C. You must architect a sales pipeline designed to build trust over time.
 
 ### The Trojan Horse: The Pilot Program
-Do not try to sell a $250,000 enterprise-wide coaching contract on the first meeting. Organizations are risk-averse. Instead, pitch a Pilot Program. 
+Do not try to sell a $250,000 enterprise-wide coaching contract on the first meeting. Organizations are risk-averse. Instead, pitch a Pilot Program.
 
 A pilot is a heavily discounted or strictly scoped engagement designed to prove your methodology. 
 *   *Pitch:* "Let's start with a 90-day engagement for just your VP of Sales and VP of Marketing, focusing strictly on resolving the alignment issues slowing down the enterprise product launch. Once we prove the ROI there, we can discuss expanding to the rest of the leadership team."
@@ -79,7 +79,7 @@ A pilot is a heavily discounted or strictly scoped engagement designed to prove 
 This dramatically lowers the perceived risk for the Sponsor and gives you a foothold inside the organization.
 
 ### Arming Your Champion
-Once you have an internal champion (like an L&D Director), you must do the selling *for* them. Do not assume they know how to pitch your value to the CFO. 
+Once you have an internal champion (like an L&D Director), you must do the selling *for* them. Do not assume they know how to pitch your value to the CFO.
 
 Provide them with an "Internal Business Case" document. This should be a 2-page PDF that outlines:
 *   The cost of the current problem (e.g., "Replacing an executive costs 213% of their salary").
@@ -93,7 +93,7 @@ A highly effective strategy for generating corporate leads is to offer a complim
 
 Many coaches mistakenly believe that because B2B sales are relationship-driven, they don't need a digital marketing funnel. This is a fatal error.
 
-When an HR Director receives a referral to your practice, the very first thing they will do is investigate your digital footprint. If they visit your website and it is slow, generic, or lacks clear B2B positioning, they will quietly disqualify you before ever booking a call. 
+When an HR Director receives a referral to your practice, the very first thing they will do is investigate your digital footprint. If they visit your website and it is slow, generic, or lacks clear B2B positioning, they will quietly disqualify you before ever booking a call.
 
 Your digital funnel must do the heavy lifting of pre-selling the organization. 
 *   **The Website:** Must look like a premium corporate consultancy. It should feature case studies, client logos, and data-backed insights.
@@ -101,17 +101,3 @@ Your digital funnel must do the heavy lifting of pre-selling the organization.
 *   **The Nurture Sequence:** An automated [email sequence](/learn/coaching-email-nurture-sequence) that sends them case studies, ROI data, and thought leadership over a 60-day period, keeping you top-of-mind.
 
 If your website isn't generating qualified corporate conversations, you need to assess your digital infrastructure and understand [why your funnel is leaking](/learn/why-funnel-leaking).
-
-## The Compel Difference: Zero-Risk B2B Infrastructure
-
-Building the sophisticated marketing and funnel infrastructure required to land corporate contracts is a massive undertaking. It requires high-end copywriting, complex email automation, and conversion rate optimization.
-
-Most coaches attempt to hire traditional marketing agencies to build this infrastructure. These agencies typically charge $5,000 to $10,000 upfront, plus monthly retainers, to build websites and run ads. However, they rarely understand the nuances of the corporate coaching buyer, and they bear zero accountability if their marketing fails to generate a single B2B lead. This is the inherent flaw of the standard [retainer vs performance](/learn/retainer-vs-performance) model.
-
-Compel operates on a fundamentally different paradigm. We are an exclusive growth partner for the coaching industry, specializing in building high-ticket, performance-based funnels for executive, [business coaching](/coaches/business-coaching), and [career coaching](/coaches/career-coaching) practices.
-
-We build the entire B2B acquisition engine—the corporate-facing landing pages, the high-friction lead magnets, the authoritative email sequences, and the streamlined booking flows. We ensure your digital presence passes the scrutiny of the most rigorous corporate procurement teams.
-
-Our commitment is guaranteed through our [zero-upfront model](/learn/zero-upfront-model). We design, build, and launch your enterprise funnel at absolutely no upfront cost. You only pay us if we successfully increase your qualified [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. We take on the entire financial risk because we build systems designed specifically to convert C-suite decision-makers and corporate sponsors.
-
-If you are an [executive coach](/coaches/executive-coaching) ready to move upmarket, secure lucrative corporate contracts, and scale your impact without the risk of expensive agency retainers, visit the [Compel homepage](/) to learn how we can engineer your pipeline today.

@@ -15,40 +15,40 @@ excerpt: "Stop getting on sales calls with cold prospects. Use this proven coach
 
 Imagine this scenario: You jump onto a Zoom discovery call. You exchange pleasantries. Then, the prospect leans into the camera and says, *"So, tell me what you do and why I should hire you."*
 
-If this happens to you, you have already lost the frame. You are now dancing for your dinner. You are the vendor, and they are the skeptical buyer. 
+If this happens to you, you have already lost the frame. You are now dancing for your dinner. You are the vendor, and they are the skeptical buyer.
 
-This happens because you rely entirely on the 45-minute discovery call to do 100% of the heavy lifting. You expect to build trust, diagnose deep emotional pain, present a framework, handle complex objections, and close a $10,000 deal—all in under an hour. 
+This happens because you rely entirely on the 45-minute discovery call to do 100% of the heavy lifting. You expect to build trust, diagnose deep emotional pain, present a framework, handle complex objections, and close a $10,000 deal, all in under an hour.
 
-It is an almost impossible task. 
+It is an almost impossible task.
 
-Top-tier coaches do not sell on the discovery call. They sell in the 48 hours leading up to the call using a highly optimized **coaching pre-call sequence**. In this guide, we are going to break down the exact psychology behind pre-call indoctrination and give you the plug-and-play **coaching call prep emails** you need to start closing easier deals. 
+Top-tier coaches do not sell on the discovery call. They sell in the 48 hours leading up to the call using a highly optimized **coaching pre-call sequence**. In this guide, we are going to break down the exact psychology behind pre-call indoctrination and give you the plug-and-play **coaching call prep emails** you need to start closing easier deals.
 
 ## Why a Coaching Pre-Call Sequence is Non-Negotiable
 
-When a prospect books a call with you, particularly from cold traffic or ads, their trust in you is incredibly fragile. They are experiencing "buyer's anxiety" before they have even bought anything. They are worried you are going to use high-pressure tactics, or that your program is a scam, or that it simply won't work for them. 
+When a prospect books a call with you, particularly from cold traffic or ads, their trust in you is incredibly fragile. They are experiencing "buyer's anxiety" before they have even bought anything. They are worried you are going to use high-pressure tactics, or that your program is a scam, or that it simply won't work for them.
 
 A **coaching pre-call sequence** serves three distinct purposes:
 1. **It builds parasocial rapport.** By sending videos and personal stories, they feel like they know you before you ever speak.
 2. **It handles objections preemptively.** If price is a common objection, you tackle the concept of ROI in an email, framing it as an investment rather than an expense. 
-3. **It ensures high show rates.** It keeps their emotional momentum high, ensuring they don't ghost you. 
+3. **It ensures high show rates.** It keeps their emotional momentum high, ensuring they don't ghost you.
 
-For [business coaching professionals](/coaches/business-coaching) selling high-ticket B2B offers, **pre-call emails coaching** sequences are critical for proving industry expertise and demonstrating undeniable ROI before price is ever discussed. 
+For [business coaching professionals](/coaches/business-coaching) selling high-ticket B2B offers, **pre-call emails coaching** sequences are critical for proving industry expertise and demonstrating undeniable ROI before price is ever discussed.
 
 ## The Psychology of Pre-Call Emails Coaching Candidates Must See
 
-Effective **coaching call prep emails** do not just say *"Here is a reminder for our call."* They take the prospect on a psychological journey. 
+Effective **coaching call prep emails** do not just say *"Here is a reminder for our call."* They take the prospect on a psychological journey.
 
-You must transition them from **Problem Aware** (they know they are struggling) to **Solution Aware** (they understand your specific framework is the answer to their struggle). By the time they get on the phone, the call should simply be a confirmation that they are a good fit, not a hard-selling pitch fest. 
+You must transition them from **Problem Aware** (they know they are struggling) to **Solution Aware** (they understand your specific framework is the answer to their struggle). By the time they get on the phone, the call should simply be a confirmation that they are a good fit, not a hard-selling pitch fest.
 
 Understanding this journey is essential for managing your [CPA for high-ticket coaching](/learn/cpa-high-ticket). The better your pre-call sequence, the more of your expensive leads will actually convert into paying clients.
 
 ## The 4-Part Coaching Call Prep Emails Template
 
-Here is a proven 4-part email framework. You should automate this sequence in your CRM (ActiveCampaign, Hubspot, GoHighLevel) to trigger the moment someone books a call on your calendar. 
+Here is a proven 4-part email framework. You should automate this sequence in your CRM (ActiveCampaign, Hubspot, GoHighLevel) to trigger the moment someone books a call on your calendar.
 
 ### Email 1: The Welcome and Expectation Setter (Send Immediately upon booking)
 
-**Goal:** Secure the micro-commitment, set the frame, and provide immediate value. 
+**Goal:** Secure the micro-commitment, set the frame, and provide immediate value.
 
 **Subject:** Action Required: Your coaching call with [Your Name]
 
@@ -132,20 +132,12 @@ Here is a proven 4-part email framework. You should automate this sequence in yo
 
 ## How to Automate Your Pre-Call Email Sequence
 
-Do not try to send these **coaching call prep emails** manually. If you get busy and forget to send Email #3, you severely damage your conversion rate. 
+Do not try to send these **coaching call prep emails** manually. If you get busy and forget to send Email #3, you severely damage your conversion rate.
 
-You need to connect your booking software (Calendly, Acuity) to your email marketing platform via Zapier or native integrations. Set up an automation that triggers when the "Event is Scheduled" tag is applied. Ensure you use delay timers so the emails trickle out naturally over the days leading up to the call. 
+You need to connect your booking software (Calendly, Acuity) to your email marketing platform via Zapier or native integrations. Set up an automation that triggers when the "Event is Scheduled" tag is applied. Ensure you use delay timers so the emails trickle out naturally over the days leading up to the call.
 
 ## Stop Guessing and Start Converting with a Performance Model
 
-Writing high-converting email copy is an art form. If your **coaching pre-call sequence** is filled with corporate jargon, boring newsletters, or weak calls to action, prospects will unsubscribe before they ever get on the call. 
+Writing high-converting email copy is an art form. If your **coaching pre-call sequence** is filled with corporate jargon, boring newsletters, or weak calls to action, prospects will unsubscribe before they ever get on the call.
 
-Most coaches struggle to write copy that converts, which is why they turn to expensive marketing agencies that charge huge monthly retainers just to write a few emails. 
-
-At **[Compel](/)**, we do things differently. We are a performance-based agency that builds end-to-end client acquisition funnels specifically for coaches. We will write your landing pages, build your automations, and craft high-converting, psychologically-driven pre-call email sequences. 
-
-The best part? **We charge $0 upfront.** 
-
-You only pay us a performance fee if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We take all the risk, you get all the pre-sold, highly qualified leads.
-
-If you are ready to stop winging your sales process and want a predictable, guaranteed system, [learn more about our zero-upfront model today](/learn/zero-upfront-model).
+Most coaches struggle to write copy that converts, which is why they turn to expensive marketing agencies that charge huge monthly retainers just to write a few emails.

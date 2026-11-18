@@ -1,88 +1,17 @@
-"use client";
-
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import { getAllNiches, getNicheConfig } from '../lib/niches';
-import { useLeadCapture } from './LeadCaptureProvider';
-import CompelLogo from './CompelLogo';
 
-const Footer = () => {
-  const { openModal } = useLeadCapture();
-  const niches = getAllNiches();
-  const isHome = usePathname() === '/';
-
+/** Essential business and legal links, without a separate marketing section. */
+export default function Footer() {
   return (
-    <section className="border-t border-neutral-800 bg-neutral-950/80">
-      <div className="max-w-6xl mx-auto px-6 py-16 md:py-20">
-        <div className={`grid grid-cols-1 sm:grid-cols-2 ${isHome ? 'lg:grid-cols-3' : 'lg:grid-cols-4'} gap-12 lg:gap-8`}>
-          {/* Brand Column */}
-          <div>
-            <Link href="/" className="inline-block mb-4">
-              <CompelLogo width={120} />
-            </Link>
-            <p className="text-neutral-400 text-sm leading-relaxed max-w-xs">
-              Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.
-            </p>
-          </div>
-
-          {/* Company Column */}
-          <div>
-            <h3 className="text-xs font-mono text-neutral-500 uppercase tracking-[0.2em] mb-5">
-              Company
-            </h3>
-            <ul className="space-y-3">
-              <li><Link href="/about" className="text-sm text-neutral-300 hover:text-accent transition-colors">About Compel</Link></li>
-              <li>
-                <button
-                  onClick={openModal}
-                  className="text-sm text-neutral-300 hover:text-accent transition-colors text-left"
-                >
-                  Book a Discovery Call
-                </button>
-              </li>
-              <li>
-                <a
-                  href="mailto:aymen@getcompel.co"
-                  className="text-sm text-neutral-300 hover:text-accent transition-colors"
-                >
-                  Contact Us
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <h3 className="text-xs font-mono text-neutral-500 uppercase tracking-[0.2em] mb-5">For Coaches</h3>
-            <ul className="space-y-3">
-              {niches.map(niche => (
-                <li key={niche}><Link href={`/coaches/${niche}`} className="text-sm text-neutral-300 hover:text-accent transition-colors">{getNicheConfig(niche)?.displayName}</Link></li>
-              ))}
-            </ul>
-          </div>
-          {!isHome && (
-            <div>
-              <h3 className="text-xs font-mono text-neutral-500 uppercase tracking-[0.2em] mb-5">Resources</h3>
-              <ul className="space-y-3">
-                <li><Link href="/learn" className="text-sm text-neutral-300 hover:text-accent transition-colors">All Guides</Link></li>
-                <li><Link href="/tools/coaching-funnel-calculator" className="text-sm text-neutral-300 hover:text-accent transition-colors">Free Funnel Calculator</Link></li>
-                <li><Link href="/learn/coaching-funnel-template" className="text-sm text-neutral-300 hover:text-accent transition-colors">Coaching Funnel Template</Link></li>
-                <li><Link href="/learn/coaching-lead-generation-strategies" className="text-sm text-neutral-300 hover:text-accent transition-colors">Lead Generation Guide</Link></li>
-              </ul>
-            </div>
-          )}
-        </div>
-
-        {/* Bottom Bar */}
-        <div className="mt-16 pt-8 border-t border-neutral-800 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-xs text-neutral-500 font-mono">
-            &copy; {new Date().getFullYear()} Compel. All rights reserved.
-          </p>
-          <p className="text-xs text-neutral-600 font-mono">
-            Performance-Based Acquisition for Coaches
-          </p>
-        </div>
-      </div>
-    </section>
+    <footer className="site-colophon studio-wrap">
+      <p>© {new Date().getFullYear()} Compel</p>
+      <nav aria-label="Business and legal information">
+        <Link href="/about">About</Link>
+        <Link href="/learn">Journal</Link>
+        <a href="mailto:aymen@getcompel.co">Contact</a>
+        <Link href="/privacy">Privacy</Link>
+        <Link href="/terms">Terms</Link>
+      </nav>
+    </footer>
   );
-};
-
-export default Footer;
+}

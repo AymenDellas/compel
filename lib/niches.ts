@@ -15,9 +15,9 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
   'business-coaching': {
     slug: 'business-coaching',
     displayName: 'Business Coaches',
-    title: 'Funnel Agency for Business Coaches | $0 Upfront — Compel',
+    title: 'Conversion Design for Business Coaches | Compel',
     description:
-      'We build high-converting funnels for business coaches. Pay nothing upfront. More discovery calls or the invoice is shredded.',
+      'Make your coaching offer easier to understand and give interested founders and business owners a clearer path to a qualified conversation.',
     h1Keyword: 'Business Coaches',
     keywords: [
       'business coaching funnel',
@@ -32,9 +32,9 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
   'career-coaching': {
     slug: 'career-coaching',
     displayName: 'Career Coaches',
-    title: 'Funnel Agency for Career Coaches | $0 Upfront — Compel',
+    title: 'Landing Pages and Booking Journeys for Career Coaches | Compel',
     description:
-      'Performance-based funnels for career coaches. We engineer conversion systems that fill your calendar — you only pay when it works.',
+      'Help interested professionals understand your career coaching offer, find the right service and take a considered next step.',
     h1Keyword: 'Career Coaches',
     keywords: [
       'career coaching funnel',
@@ -49,9 +49,9 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
   'performance-coaching': {
     slug: 'performance-coaching',
     displayName: 'Performance Coaches',
-    title: 'Funnel Agency for Performance Coaches | $0 Upfront — Compel',
+    title: 'Conversion Design for Performance Coaches | Compel',
     description:
-      'High-converting funnels built for performance coaches. Zero upfront cost. We only get paid when your discovery calls increase.',
+      'A clearer page, appropriate qualification and relevant follow-up for established performance coaching businesses.',
     h1Keyword: 'Performance Coaches',
     keywords: [
       'performance coaching funnel',
@@ -66,9 +66,9 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
   'life-coaching': {
     slug: 'life-coaching',
     displayName: 'Life Coaches',
-    title: 'Funnel Agency for Life Coaches | $0 Upfront — Compel',
+    title: 'Landing Pages and Booking Journeys for Life Coaches | Compel',
     description:
-      'Done-for-you conversion funnels for life coaches. $0 upfront — we take 100% of the financial risk. More discovery calls or you don\'t pay.',
+      'Help the people considering your coaching understand the offer, what to expect and how to begin a useful conversation.',
     h1Keyword: 'Life Coaches',
     keywords: [
       'life coaching funnel',
@@ -83,9 +83,9 @@ export const NICHE_CONFIG: Record<string, NicheConfig> = {
   'executive-coaching': {
     slug: 'executive-coaching',
     displayName: 'Executive Coaches',
-    title: 'Funnel Agency for Executive Coaches | $0 Upfront — Compel',
+    title: 'Conversion Design for Executive Coaches | Compel',
     description:
-      'We build high-ticket conversion funnels for executive coaches. Performance-based pricing — pay nothing until your calendar fills up.',
+      'Your expertise deserves a considered introduction. We connect your landing page, consultation journey and follow-up for leaders and organisations.',
     h1Keyword: 'Executive Coaches',
     keywords: [
       'executive coaching funnel',

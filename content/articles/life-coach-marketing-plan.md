@@ -10,7 +10,6 @@ excerpt: "Build a reliable life coach marketing plan to attract your ideal clien
 *   **Relying on referrals is a trap.** A sustainable coaching business requires a predictable life coach marketing plan.
 *   **Niche down to scale up.** Broad life coaching is too competitive; specific problems command higher prices. Check out our guide on [/learn/cpa-high-ticket](/learn/cpa-high-ticket) to understand acquisition costs.
 *   **Funnels over websites.** Your website is a brochure; a funnel is a sales machine. If your funnel isn't converting, read [/learn/why-funnel-leaking](/learn/why-funnel-leaking).
-*   **The Zero-Upfront Model** is the ultimate risk-reversal strategy for client acquisition.
 *   **Nurture is everything.** An effective [email sequence](/learn/coaching-email-nurture-sequence) builds trust before the [discovery call](/learn/coaching-discovery-call-script).
 
 ---
@@ -23,7 +22,7 @@ To build a high-six or seven-figure coaching practice, you need a marketing plan
 
 ## Why You Need a Dedicated Life Coach Marketing Plan
 
-Many coaches shy away from marketing because it feels "salesy." But marketing is simply the process of making your solutions visible to the people who desperately need them. 
+Many coaches shy away from marketing because it feels "salesy." But marketing is simply the process of making your solutions visible to the people who desperately need them.
 
 ### The Problem with Word-of-Mouth
 
@@ -40,7 +39,7 @@ A robust life coach marketing plan shifts you from a passive participant in your
 
 ## Step 1: Define Your Profitable Life Coaching Niche
 
-The most common mistake life coaches make is being too broad. "I help people find their purpose" is a nice sentiment, but it is incredibly difficult to market. 
+The most common mistake life coaches make is being too broad. "I help people find their purpose" is a nice sentiment, but it is incredibly difficult to market.
 
 ### Finding the Gap in the Market
 
@@ -53,9 +52,9 @@ For example, instead of "life coaching for everyone," consider "life coaching fo
 
 ### Crafting Your Core Offer
 
-Once you have your niche, you need an irresistible offer. Your offer is not "12 weeks of coaching." Your offer is the *transformation* you provide. 
+Once you have your niche, you need an irresistible offer. Your offer is not "12 weeks of coaching." Your offer is the *transformation* you provide.
 
-Format your offer like this: "I help [Niche] achieve [Desired Outcome] in [Timeframe] without [Major Objection]." 
+Format your offer like this: "I help [Niche] achieve [Desired Outcome] in [Timeframe] without [Major Objection]."
 
 ## Step 2: Build a High-Converting Life Coaching Funnel
 
@@ -74,7 +73,7 @@ For detailed templates, you might want to look at a [/learn/coaching-funnel-temp
 
 ### Optimizing Your Landing Page
 
-Your landing page must focus entirely on conversion. If you are driving traffic but not getting leads, you have a conversion problem. Read our guide on [/learn/why-funnel-leaking](/learn/why-funnel-leaking) to troubleshoot. 
+Your landing page must focus entirely on conversion. If you are driving traffic but not getting leads, you have a conversion problem. Read our guide on [/learn/why-funnel-leaking](/learn/why-funnel-leaking) to troubleshoot.
 
 Key elements of a high-converting landing page include a strong headline, clear benefits, social proof (testimonials), and a single, unavoidable Call to Action (CTA). See some [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples) for inspiration.
 
@@ -103,7 +102,7 @@ Not everyone who enters your funnel will book a call immediately. In fact, most 
 
 ### The Importance of the Follow-Up
 
-Your email sequence should automate the relationship-building process. Share case studies, personal stories, and valuable insights that prove your competence. Every email should include a soft pitch to book a discovery call. 
+Your email sequence should automate the relationship-building process. Share case studies, personal stories, and valuable insights that prove your competence. Every email should include a soft pitch to book a discovery call.
 
 If you're unsure what to say, review our guide on the perfect [/learn/coaching-email-nurture-sequence](/learn/coaching-email-nurture-sequence).
 
@@ -114,8 +113,6 @@ When a lead finally books, your job isn't done. The discovery call is where the 
 ## Step 5: Leveraging the Right Business Model
 
 Many coaches struggle with cash flow because they use outdated pricing models. The debate between retainers and performance models is ongoing. Read our breakdown of [/learn/retainer-vs-performance](/learn/retainer-vs-performance) to understand the pros and cons.
-
-For marketing agencies serving coaches, the traditional retainer model is increasingly being replaced by performance-based systems. At Compel, we pioneered the [/learn/zero-upfront-model](/learn/zero-upfront-model), which aligns our success entirely with yours.
 
 ## Key Metrics to Track in Your Marketing Plan
 
@@ -144,6 +141,4 @@ Scaling a 1-on-1 coaching business eventually hits a time ceiling. Transitioning
 
 A successful life coach marketing plan isn't about doing everything; it's about doing the right things consistently. By defining your niche, building a high-converting funnel, driving targeted traffic, and relentlessly nurturing your leads, you can build a highly profitable coaching practice.
 
-If you are tired of trying to figure this out on your own and want a guaranteed system to book more discovery calls, it's time to partner with experts. 
-
-**At Compel, we build performance-based conversion funnels for coaches. We handle the landing pages, the email sequences, and the booking flows. The best part? We operate on a $0 upfront model—you only pay if we increase your discovery call bookings by the agreed target during the performance window. Ready to scale your life coaching business without the risk? [Visit our homepage](/) to learn more.**
+If you are tired of trying to figure this out on your own and want a guaranteed system to book more discovery calls, it's time to partner with experts.

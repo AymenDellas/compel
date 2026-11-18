@@ -1,50 +1,42 @@
 import type { Metadata } from 'next';
-import { Outfit, Fira_Code } from 'next/font/google';
+import localFont from 'next/font/local';
 import './globals.css';
+import './studio.css';
 
-const outfit = Outfit({
-  subsets: ['latin'],
-  variable: '--font-outfit',
-  display: 'swap',
-});
-
-const firaCode = Fira_Code({
-  subsets: ['latin'],
-  variable: '--font-fira-code',
-  display: 'swap',
-});
+const manrope = localFont({ src: './fonts/Manrope-Variable.ttf', variable: '--font-manrope', weight: '200 800', display: 'swap' });
+const editorial = localFont({ src: './fonts/InstrumentSerif-Italic.ttf', variable: '--font-editorial', weight: '400', style: 'italic', display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://getcompel.co'),
-  title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
+  title: 'Compel | A Conversion Studio for Established Coaches',
   description:
-    'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase.',
+    'What helps an interested prospect take the next step? Clarity about your coaching, the conversation and what happens after they book. Explore the experience with Compel.',
   alternates: {
     canonical: 'https://getcompel.co/',
   },
   openGraph: {
-    title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
+    title: 'Compel | A Conversion Studio for Established Coaches',
     description:
-      'We build high-converting funnels for executive, business, life, and career coaches. $0 upfront — pay only when your discovery calls increase.',
+      'Your reputation brings them here. Give them a clear way to book. A practical look at the steps between interest and a coaching conversation.',
     type: 'website',
     url: 'https://getcompel.co/',
     siteName: 'Compel',
     locale: 'en_US',
     images: [
       {
-        url: 'https://getcompel.co/og-image.png',
+        url: 'https://getcompel.co/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Compel — Performance-Based Funnels for Coaches',
+        alt: 'Compel. From interest to conversation.',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Compel | Performance-Based Funnels for Coaches — $0 Upfront',
+    title: 'Compel | A Conversion Studio for Established Coaches',
     description:
-      'We build high-converting funnels for coaches. $0 upfront — pay only when your discovery calls increase.',
-    images: ['https://getcompel.co/twitter-image.png'],
+      'A clear coaching page, a straightforward booking process and useful follow-up emails, written and built around your business.',
+    images: ['https://getcompel.co/opengraph-image'],
   },
   icons: {
     icon: '/favicon.svg',
@@ -66,7 +58,7 @@ import { MotionProvider } from '../components/MotionProvider';
 import { Navbar } from '../components/Navbar';
 import { LeadCaptureProvider } from '../components/LeadCaptureProvider';
 import { LeadCaptureModal } from '../components/LeadCaptureModal';
-import Script from 'next/script';
+import { PublicSiteScripts } from '../components/PublicSiteScripts';
 
 export default function RootLayout({
   children,
@@ -75,19 +67,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth">
-      <head>
-        <Script id="microsoft-clarity" strategy="beforeInteractive" type="text/javascript">
-          {`
-            (function(c,l,a,r,i,t,y){
-                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-            })(window, document, "clarity", "script", "ymtpyq0lb1");
-          `}
-        </Script>
-      </head>
       <body
-        className={`bg-background text-text ${outfit.variable} ${firaCode.variable} ${outfit.className}`}
+        className={`bg-background text-text ${manrope.variable} ${editorial.variable} ${manrope.className}`}
       >
         <LeadCaptureProvider>
           <MotionProvider>
@@ -97,44 +78,7 @@ export default function RootLayout({
           <LeadCaptureModal />
         </LeadCaptureProvider>
 
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-T46JFTGK75" strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-T46JFTGK75');
-          `}
-        </Script>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              "@id": "https://getcompel.co/#organization",
-              "name": "Compel",
-              "url": "https://getcompel.co",
-              "logo": "https://getcompel.co/brand/compel-logo.png",
-              "description": "Performance-based funnel agency for coaches. We build high-converting funnels — you only pay when your discovery calls increase.",
-              "image": "https://getcompel.co/og-image.png",
-              "knowsAbout": [
-                "coaching funnels",
-                "lead generation for coaches",
-                "conversion optimization",
-                "landing page design",
-                "email nurture sequences",
-                "discovery call booking systems"
-              ],
-              "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "sales",
-                "email": "aymen@getcompel.co"
-              },
-              "founder": { "@type": "Person", "name": "Aymen Dellas", "url": "https://getcompel.co/about" }
-            })
-          }}
-        />
+        <PublicSiteScripts />
       </body>
     </html>
   );

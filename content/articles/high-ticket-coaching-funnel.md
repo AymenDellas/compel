@@ -7,11 +7,10 @@ excerpt: "The complete playbook for building a coaching funnel that attracts and
 
 ## Key Takeaways
 
-- High-ticket coaching funnels require a fundamentally different architecture than low-ticket funnels — longer nurture cycles, deeper trust-building, and multi-touch conversion paths
+- High-ticket coaching funnels require a fundamentally different architecture than low-ticket funnels, longer nurture cycles, deeper trust-building, and multi-touch conversion paths
 - The ideal high-ticket funnel follows the **Authority → Application → Enrollment** model instead of the standard sales page approach
 - Prospects spending $5K+ need 7-12 touchpoints before they are ready to book a call, compared to 3-5 for low-ticket offers
-- Your funnel's job is not to sell — it is to **pre-qualify and pre-convince** so the [discovery call](/learn/coaching-discovery-call-script) becomes a formality
-- The single biggest lever for high-ticket conversion is eliminating financial risk from the buyer's decision (performance guarantees, payment plans, or money-back policies)
+- Your funnel's job is not to sell, it is to **pre-qualify and pre-convince** so the [discovery call](/learn/coaching-discovery-call-script) becomes a formality
 
 ## Why Standard Funnels Do Not Work for High-Ticket Coaching
 
@@ -19,9 +18,9 @@ If you have ever tried to sell a $5,000+ coaching program using a simple landing
 
 The reason is simple: **the buying psychology for a $5,000 decision is categorically different from a $97 decision.** At $97, impulse and curiosity drive purchases. At $5,000+, the prospect needs certainty, trust, and a clear picture of the return on their investment before they will even consider getting on a call.
 
-This means your funnel needs to do significantly more work before the prospect reaches your calendar. It needs to establish your authority, demonstrate your methodology, address objections proactively, and make the prospect feel like they already know you — all before you have spoken a single word to them.
+This means your funnel needs to do significantly more work before the prospect reaches your calendar. It needs to establish your authority, demonstrate your methodology, address objections proactively, and make the prospect feel like they already know you, all before you have spoken a single word to them.
 
-The coaches who consistently close high-ticket clients — whether they are [executive coaches](/coaches/executive-coaching) charging $15K for leadership programs or [business coaches](/coaches/business-coaching) selling $8K masterminds — all use variations of the same funnel architecture.
+The coaches who consistently close high-ticket clients, whether they are [executive coaches](/coaches/executive-coaching) charging $15K for leadership programs or [business coaches](/coaches/business-coaching) selling $8K masterminds, all use variations of the same funnel architecture.
 
 ## The High-Ticket Funnel Architecture
 
@@ -35,7 +34,7 @@ Before a prospect ever enters your funnel, they need to perceive you as an autho
 - **Consistent presence**: Regular LinkedIn posts, newsletter editions, or social content that keeps you visible in your prospect's world
 - **Third-party validation**: Guest appearances on podcasts, guest articles on industry publications, or endorsements from recognized figures
 
-The goal is not fame — it is **familiarity**. When your prospect eventually sees your ad or landing page, the reaction should be "Oh, I've seen this person before" rather than "Who is this?"
+The goal is not fame, it is **familiarity**. When your prospect eventually sees your ad or landing page, the reaction should be "Oh, I've seen this person before" rather than "Who is this?"
 
 For a deeper dive into building authority as a coach, see our guide on [thought leadership for coaches](/learn/coaching-thought-leadership).
 
@@ -66,19 +65,19 @@ This is where high-ticket funnels diverge most dramatically from standard funnel
 | Touch | Channel | Purpose |
 |---|---|---|
 | 1 | Email | Deliver value asset + personal welcome |
-| 2 | Email | Your origin story — why you serve this niche |
+| 2 | Email | Your origin story, why you serve this niche |
 | 3 | Retargeting ad | Testimonial video from a past client |
 | 4 | Email | Deep-dive framework (your methodology explained) |
-| 5 | Email | Case study #1 — before/after transformation |
+| 5 | Email | Case study #1, before/after transformation |
 | 6 | Retargeting ad | Short clip of you coaching or teaching |
 | 7 | Email | Address the money objection head-on |
-| 8 | Email | Case study #2 — different client archetype |
-| 9 | Email | "Is this you?" — describe their current situation |
+| 8 | Email | Case study #2, different client archetype |
+| 9 | Email | "Is this you?", describe their current situation |
 | 10 | Retargeting ad | Social proof compilation |
-| 11 | Email | The cost of inaction — what happens if nothing changes |
+| 11 | Email | The cost of inaction, what happens if nothing changes |
 | 12 | Email | Direct invitation to book a call + calendar link |
 
-Notice the multi-channel approach: email plus retargeting ads. The prospect sees you in their inbox AND in their social feeds. This creates the perception of ubiquity — "this person is everywhere" — which accelerates trust.
+Notice the multi-channel approach: email plus retargeting ads. The prospect sees you in their inbox AND in their social feeds. This creates the perception of ubiquity, "this person is everywhere", which accelerates trust.
 
 ### Phase 4: The Application Process
 
@@ -86,7 +85,7 @@ For high-ticket coaching, **do not send prospects directly to a booking page.** 
 
 1. **Pre-qualification**: Application questions filter out prospects who cannot afford your services or are not a good fit
 2. **Psychological investment**: The act of filling out an application creates commitment and increases show-up rates
-3. **Positioning**: An application implies selectivity. You are not desperate for clients — you are choosing who to work with
+3. **Positioning**: An application implies selectivity. You are not desperate for clients, you are choosing who to work with
 
 **Essential application questions:**
 - What is your current situation? (open-ended, reveals awareness level)
@@ -95,11 +94,11 @@ For high-ticket coaching, **do not send prospects directly to a booking page.** 
 - What is your investment budget for achieving this? (pre-qualifies financially)
 - On a scale of 1-10, how committed are you to making this change right now? (filters tire-kickers)
 
-Only approve applications from genuinely qualified prospects. This is not gatekeeping for the sake of exclusivity — it is protecting your close rate. Every unqualified call you take is 30-60 minutes you cannot spend on a prospect who would actually convert.
+Only approve applications from genuinely qualified prospects. This is not gatekeeping for the sake of exclusivity, it is protecting your close rate. Every unqualified call you take is 30-60 minutes you cannot spend on a prospect who would actually convert.
 
 ### Phase 5: The Enrollment Call
 
-The discovery call for high-ticket coaching is not a sales call — it is an enrollment conversation. If your funnel has done its job correctly, the prospect arrives already believing three things:
+The discovery call for high-ticket coaching is not a sales call, it is an enrollment conversation. If your funnel has done its job correctly, the prospect arrives already believing three things:
 
 1. You are an expert who can solve their problem
 2. Your methodology works (proven by case studies)
@@ -127,11 +126,11 @@ Before revealing your price, quantify what the prospect is losing by NOT solving
 
 ### Investment Framing
 
-Never call it a "cost" or "price." It is an "investment" — because that is what it is. An investment implies a return. A cost implies a loss.
+Never call it a "cost" or "price." It is an "investment", because that is what it is. An investment implies a return. A cost implies a loss.
 
 ### Payment Plan Architecture
 
-For programs above $5,000, always offer a payment plan option. Not because you need to make it affordable — but because a payment plan removes the psychological barrier of a single large transaction. Many high-ticket coaches report that **60-70% of clients choose the payment plan** even when they can afford to pay in full.
+For programs above $5,000, always offer a payment plan option. Not because you need to make it affordable, but because a payment plan removes the psychological barrier of a single large transaction. Many high-ticket coaches report that **60-70% of clients choose the payment plan** even when they can afford to pay in full.
 
 ### Risk Reversal
 
@@ -139,11 +138,8 @@ The most powerful conversion tool in high-ticket coaching: **a guarantee**. This
 
 - "If you do the work and don't see results in 90 days, I'll coach you for free until you do"
 - "100% money-back guarantee within the first 30 days"
-- Performance-based pricing — the model that [Compel](/) uses for funnel building, where the client pays $0 upfront and only pays when results are delivered
 
 Risk reversal shifts the perceived risk from the buyer to the seller. For a prospect considering a $10K investment, this shift can be the difference between "let me think about it" and "let's do this."
-
-Learn more about risk reversal pricing in our guide on the [$0 upfront model](/learn/zero-upfront-model).
 
 ## Conversion Benchmarks for High-Ticket Funnels
 
@@ -196,7 +192,3 @@ The technology should serve the strategy, not drive it. Coaches who spend months
 ## The Compounding Effect of a High-Ticket Funnel
 
 Here is what most coaches do not realize: a well-built high-ticket funnel gets better over time. Every client you close becomes a testimonial. Every testimonial strengthens your social proof. Stronger social proof increases conversion rates. Higher conversion rates lower your [cost per acquisition](/learn/cpa-high-ticket). Lower CPA means more profit per client, which you can reinvest into traffic.
-
-This is the flywheel effect, and it is why coaches who invest in proper funnel infrastructure early — whether they build it themselves or work with a [performance-based agency](/learn/retainer-vs-performance) — end up dominating their niche within 12-18 months.
-
-If you are a coach with a proven offer and you want a team to build your high-ticket funnel with zero upfront cost, [Compel](/) specializes in exactly this. We build the landing pages, email sequences, and booking flows — and you only pay if your discovery calls increase by the agreed target during the performance window.

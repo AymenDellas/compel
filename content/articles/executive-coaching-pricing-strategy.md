@@ -34,8 +34,6 @@ When you charge hourly, your subconscious incentive is to prolong the engagement
 ### 3. It Caps Your Earning Potential
 There are only so many billable hours in a week. Even if you charge $500 an hour, you will eventually hit a hard ceiling on your revenue, leading to burnout.
 
-To escape this trap, you must fundamentally change what you are selling. You are no longer selling access to your time; you are selling a transformation. For more on shifting your business model, read our breakdown of the [zero-upfront model](/learn/zero-upfront-model).
-
 ## Understanding Value-Based Executive Coaching Rates
 
 Value-based pricing aligns your fees with the financial or strategic impact of the outcome you deliver. To do this, you must deeply understand the corporate environment and the stakes involved for your client.
@@ -53,7 +51,7 @@ If you abandon the hourly rate, how do you actually structure your proposals? He
 
 ### 1. The High-Ticket Container (Program-Based Pricing)
 
-Instead of selling open-ended sessions, you sell a specific "container" of time and resources designed to achieve a specific result. 
+Instead of selling open-ended sessions, you sell a specific "container" of time and resources designed to achieve a specific result.
 
 **Example:** "The 6-Month Executive Alignment Protocol."
 *   **Includes:** Bi-weekly 1:1 strategy calls, unlimited asynchronous access via Voxer/WhatsApp, one half-day intensive, and a 360-degree leadership assessment.
@@ -69,26 +67,19 @@ This is often used when working with an organization rather than just an individ
 *   **Includes:** Coaching for up to 3 C-level executives, attendance at one monthly board or executive meeting, and on-call crisis management.
 *   **Price:** $10,000 - $15,000 per month, minimum 6-month commitment.
 
-This provides incredible recurring revenue (MRR) and integrates you deeply into the company, making your services indispensable. 
-
-### 3. Performance-Based or Equity Pricing
-
-Reserved for highly confident coaches working with founders or scaling startups. In this model, you take a lower base fee but tie a portion of your compensation to specific business milestones or equity.
-
-**Example:** $5,000/month base + 0.5% advisory shares vesting over two years. 
-While risky, this aligns your incentives perfectly with the CEO and can result in massive payouts during liquidity events.
+This provides incredible recurring revenue (MRR) and integrates you deeply into the company, making your services indispensable.
 
 ## Psychological Pricing: Price as a Filter
 
-In the luxury goods market, price is a feature, not a bug. The same applies to premium B2B services. 
+In the luxury goods market, price is a feature, not a bug. The same applies to premium B2B services.
 
-If a CEO is facing a multi-million dollar crisis, and they interview two coaches—one charges $150/hour and the other charges a flat $35,000 for a 6-month engagement—the CEO will often choose the $35,000 coach. Why? Because the low price signals a lack of experience with high-stakes environments. 
+If a CEO is facing a multi-million dollar crisis, and they interview two coaches, one charges $150/hour and the other charges a flat $35,000 for a 6-month engagement, the CEO will often choose the $35,000 coach. Why? Because the low price signals a lack of experience with high-stakes environments.
 
-Premium pricing acts as a filter. It repels clients who are not serious about transformation and attracts clients who have the budget, intent, and commitment to do the work. If your pricing isn't making you slightly uncomfortable, it is probably too low. 
+Premium pricing acts as a filter. It repels clients who are not serious about transformation and attracts clients who have the budget, intent, and commitment to do the work. If your pricing isn't making you slightly uncomfortable, it is probably too low.
 
 ## Packaging Your Offer for the Corporate Buyer
 
-When selling to a corporation, you must package your offer to seamlessly pass through their procurement and HR departments. 
+When selling to a corporation, you must package your offer to seamlessly pass through their procurement and HR departments.
 
 *   **Provide Clear Deliverables:** Corporations buy tangible things. Even though coaching is intangible, you must wrap it in tangible deliverables: "Comprehensive 360 Assessment," "Quarterly Strategic Roadmaps," "Monthly Progress Debriefs with HR."
 *   **Tiered Pricing:** Always offer three options in your proposal. 
@@ -101,20 +92,8 @@ For nuances on how other coaching sectors handle this, you can compare against m
 
 ## The Missing Link: A Funnel That Justifies the Price
 
-You cannot charge $30,000 for a coaching package if your marketing looks cheap. High-ticket pricing requires a high-ticket brand experience from the very first touchpoint. 
+You cannot charge $30,000 for a coaching package if your marketing looks cheap. High-ticket pricing requires a high-ticket brand experience from the very first touchpoint.
 
 If your website is clunky, if your lead magnet is a poorly formatted PDF, and if your email follow-up is manual and erratic, the prospect will experience cognitive dissonance when you drop your price on the [discovery call](/learn/coaching-discovery-call-script).
 
 To command premium fees, you must have a premium sales funnel. Your prospect must feel like they are entering a highly professional, exclusive ecosystem. This is where most coaches fail; they have the expertise to deliver the $30k result, but their marketing infrastructure looks like a $50/hour amateur operation. If you are losing deals based on price, you likely need to investigate [why your funnel is leaking](/learn/why-funnel-leaking).
-
-## The Compel Difference: Scale Without the Retainer Trap
-
-Upgrading your pricing model is only half the battle. The other half is consistently putting high-level decision-makers onto your calendar who are pre-framed and ready to accept those premium fees. 
-
-Many coaches turn to marketing agencies to build these premium funnels, only to get burned by the traditional agency model. Agencies demand $5,000+ per month in retainers, plus ad spend, without guaranteeing a single qualified discovery call. You take on all the financial risk while they learn on your dime. We break down exactly why this model is broken in our [retainer vs performance](/learn/retainer-vs-performance) analysis.
-
-Compel operates differently. We are a performance-based growth partner for executive, business, and specialized coaches. We build the high-end, conversion-optimized funnels necessary to justify premium pricing—from the landing pages and lead magnets to the sophisticated email nurture sequences that build your authority before you ever get on a call.
-
-Our model is simple and risk-free: [Zero upfront costs](/learn/zero-upfront-model). We build your custom pipeline, and you only pay us if we successfully increase your qualified discovery call bookings by the agreed target during the performance window. We align our success entirely with yours.
-
-If you are ready to command higher fees and need the marketing infrastructure to support it, visit [Compel](/) to see how we can build your performance-driven client acquisition engine.

@@ -10,6 +10,23 @@ const databaseId = process.env.NOTION_DATABASE_ID;
 export async function POST(request: Request) {
   try {
     const data = await request.json();
+
+    // New review requests use the same storage integration as existing lead forms.
+    // Keep older sources and payloads compatible; validate the new fields here too.
+    if (data.source === 'funnel-review') {
+      if (typeof data.name !== 'string' || !data.name.trim() || data.name.length > 150 || typeof data.email !== 'string' || data.email.length > 254) {
+        return NextResponse.json({ error: 'Please provide your name and email.' }, { status: 400 });
+      }
+      try {
+        const website = new URL(data.url);
+        if (!['https:', 'http:'].includes(website.protocol) || data.url.length > 2000) throw new Error('Invalid website');
+      } catch {
+        return NextResponse.json({ error: 'Please provide a valid website URL.' }, { status: 400 });
+      }
+      if (typeof data.offer !== 'string' || !data.offer.trim() || data.offer.length > 2000 || (data.context !== undefined && (typeof data.context !== 'string' || data.context.length > 2000))) {
+        return NextResponse.json({ error: 'Please describe your coaching offer in up to 2,000 characters.' }, { status: 400 });
+      }
+    }
     
     if (!data.name) {
       return NextResponse.json({ error: "Name is required" }, { status: 400 });
@@ -38,6 +55,13 @@ export async function POST(request: Request) {
       await notion.pages.create({
         parent: { database_id: databaseId },
         properties,
+        // Page content avoids requiring new columns in the existing Notion database.
+        ...(data.source === 'funnel-review' ? {
+          children: [
+            { object: 'block' as const, paragraph: { rich_text: [{ type: 'text' as const, text: { content: 'Coaching offer and clients: ' } }, { type: 'text' as const, text: { content: data.offer } }] } },
+            ...(data.context ? [{ object: 'block' as const, paragraph: { rich_text: [{ type: 'text' as const, text: { content: 'Existing interest and baseline: ' } }, { type: 'text' as const, text: { content: data.context } }] } }] : []),
+          ],
+        } : {}),
       });
 
       return NextResponse.json({ success: true }, { status: 201 });

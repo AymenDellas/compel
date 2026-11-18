@@ -15,9 +15,9 @@ excerpt: "Master life coach niche selection. Learn how to pick a profitable spec
 
 ---
 
-One of the most paralyzing decisions a new coach faces is life coach niche selection. The fear is always the same: *“If I narrow my focus, won't I lose out on potential clients?”* 
+One of the most paralyzing decisions a new coach faces is life coach niche selection. The fear is always the same: *“If I narrow my focus, won't I lose out on potential clients?”*
 
-The counterintuitive truth of the coaching industry is that the exact opposite is true. By attempting to serve everyone, your marketing becomes diluted, your messaging becomes generic, and you become invisible in an increasingly saturated market. People don't wake up in the middle of the night in a cold sweat wishing for a "general life coach." They wake up stressing about their failing marriage, their stagnant career, or their overwhelming anxiety. 
+The counterintuitive truth of the coaching industry is that the exact opposite is true. By attempting to serve everyone, your marketing becomes diluted, your messaging becomes generic, and you become invisible in an increasingly saturated market. People don't wake up in the middle of the night in a cold sweat wishing for a "general life coach." They wake up stressing about their failing marriage, their stagnant career, or their overwhelming anxiety.
 
 To build a high-six or seven-figure coaching practice, you must transition from a general practitioner to a specialized surgeon. In this definitive guide, we will explore the mechanics of life coach niche selection and show you exactly how to pick a profitable specialty that attracts high-ticket clients.
 
@@ -38,13 +38,13 @@ Specialists, on the other hand, are highly sought after. Think about the medical
 
 ## The Framework for Profitable Life Coach Niche Selection
 
-Not all niches are created equal. "Coaching college students to find their passion" is a noble pursuit, but college students notoriously lack disposable income, making it a very difficult market to monetize with high-ticket offers. 
+Not all niches are created equal. "Coaching college students to find their passion" is a noble pursuit, but college students notoriously lack disposable income, making it a very difficult market to monetize with high-ticket offers.
 
 To pick a profitable niche, it must pass the following three-part test:
 
 ### 1. High Pain (The Urgency Factor)
 
-Is the problem you are solving keeping your ideal client awake at night? If it is a "nice to have" rather than a "must-have," selling your services will be an uphill battle. 
+Is the problem you are solving keeping your ideal client awake at night? If it is a "nice to have" rather than a "must-have," selling your services will be an uphill battle.
 
 Examples of high-pain problems:
 *   A newly promoted executive feeling crushing imposter syndrome. (See [/coaches/executive-coaching](/coaches/executive-coaching))
@@ -57,7 +57,7 @@ Does this demographic have the financial resources to pay $3,000 to $10,000+ for
 
 ### 3. High Reachability (The Marketing Factor)
 
-Can you easily find and target this group online? If your niche is "introverted stay-at-home moms who secretly want to write poetry," how do you target them with Facebook ads? How do you find them on LinkedIn? 
+Can you easily find and target this group online? If your niche is "introverted stay-at-home moms who secretly want to write poetry," how do you target them with Facebook ads? How do you find them on LinkedIn?
 
 Your niche must congregate in identifiable spaces. For instance, B2B professionals are easily found on LinkedIn. If you choose a B2B niche, read our guide on [/learn/scaling-linkedin](/learn/scaling-linkedin).
 
@@ -97,14 +97,8 @@ Once they opt-in, your nurture sequence must speak exclusively to the nuances of
 
 When you nail your niche, your marketing becomes dramatically more efficient. Let's look at the business models that support specialized coaching.
 
-Many marketing agencies will charge you a hefty monthly retainer to test different niches and run your ads. This puts all the financial risk on the coach. Read our comparison on [/learn/retainer-vs-performance](/learn/retainer-vs-performance) to see why this model is broken.
-
-A much safer and more aligned approach is the [/learn/zero-upfront-model](/learn/zero-upfront-model). This ensures that you only pay for marketing when it actually delivers tangible results (booked calls).
-
 ## Make the Decision and Move Forward
 
 Life coach niche selection is not a lifelong marriage; it is a strategic decision for the current stage of your business. You can always pivot later. The most important action you can take right now is to pick *one* specific group of people, solve *one* major problem for them, and build a funnel dedicated entirely to that solution.
 
 Stop hiding behind the title of "General Life Coach." Claim your specialty, command premium prices, and start building a predictable acquisition system.
-
-**At Compel, we specialize in building high-converting funnels for specialized coaches. We handle the technical heavy lifting—from landing page design (check out our [/learn/coaching-landing-page-examples](/learn/coaching-landing-page-examples)) to email automation. We operate on a $0 upfront performance model, meaning you only pay if we boost your discovery call bookings by the agreed target during the performance window. Ready to dominate your niche? [Visit our homepage](/) and let's scale your impact.**

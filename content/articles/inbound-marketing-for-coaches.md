@@ -7,9 +7,9 @@ excerpt: "Stop chasing cold leads. Discover how to build an inbound marketing en
 
 The traditional model of coaching client acquisition is exhausting. You send hundreds of cold DMs on LinkedIn, you attend awkward networking events, and you try to convince skeptical strangers that they need your help. This is outbound marketing, and while it can work, it positions you as a salesperson rather than a highly sought-after authority.
 
-There is a better way. 
+There is a better way.
 
-**Inbound marketing for coaches** flips the dynamic entirely. Instead of you hunting for clients, you build an ecosystem of valuable content and automated funnels that draw ideal clients directly to you. When an inbound prospect gets on a [discovery call](/learn/coaching-discovery-call-script), they already know who you are, they trust your methodology, and they are usually ready to buy. 
+**Inbound marketing for coaches** flips the dynamic entirely. Instead of you hunting for clients, you build an ecosystem of valuable content and automated funnels that draw ideal clients directly to you. When an inbound prospect gets on a [discovery call](/learn/coaching-discovery-call-script), they already know who you are, they trust your methodology, and they are usually ready to buy.
 
 In this definitive guide, we will break down exactly how to build an inbound marketing machine. Whether you offer [performance coaching](/coaches/performance-coaching) for athletes or executive coaching for CEOs, this strategy will transform your calendar from empty to overbooked.
 
@@ -19,13 +19,12 @@ In this definitive guide, we will break down exactly how to build an inbound mar
 *   **Content is the Fuel:** Your inbound engine requires high-quality, SEO-optimized content that answers the exact questions your prospects are typing into Google and YouTube.
 *   **Capture and Nurture:** Traffic means nothing if you don't capture the lead. A robust email nurture sequence is the invisible bridge to the discovery call.
 *   **Omnipresence is Key:** Combine long-form search content with aggressive [scaling on LinkedIn](/learn/scaling-linkedin) to dominate your niche.
-*   **Scale Without Upfront Costs:** Building an inbound funnel takes expertise. Partnering with an agency on a [zero-upfront model](/learn/zero-upfront-model) removes the financial risk of scaling.
 
 ## What is Inbound Marketing for Coaches?
 
-At its core, inbound marketing is the process of attracting, engaging, and delighting people to grow a business that provides value and builds trust. As a coach, your product *is* trust. 
+At its core, inbound marketing is the process of attracting, engaging, and delighting people to grow a business that provides value and builds trust. As a coach, your product *is* trust.
 
-Outbound marketing interrupts someone's day to ask for their time. Inbound marketing answers a question they were already asking. 
+Outbound marketing interrupts someone's day to ask for their time. Inbound marketing answers a question they were already asking.
 
 For example, a business owner is struggling with employee turnover. 
 *   **Outbound:** You cold email them pitching a "Leadership Masterclass." (Likely ignored).
@@ -62,30 +61,18 @@ Inbound marketing doesn't stop when the invoice is paid. The best source of inbo
 
 ## The Patience Required for Organic Inbound
 
-The biggest drawback to organic inbound marketing is the timeline. If you publish an SEO-optimized blog post today, it might take 3 to 6 months for Google to rank it on the first page. Building a YouTube audience requires consistent uploading for a year or more. 
+The biggest drawback to organic inbound marketing is the timeline. If you publish an SEO-optimized blog post today, it might take 3 to 6 months for Google to rank it on the first page. Building a YouTube audience requires consistent uploading for a year or more.
 
-If you need clients *next week*, organic inbound marketing will not save you. 
+If you need clients *next week*, organic inbound marketing will not save you.
 
-However, you can accelerate the "Attract" phase of your inbound funnel using paid traffic (Google Search Ads). By bidding on the exact keywords your prospects are searching for, you can instantly place your content at the top of Google, bypassing the 6-month SEO waiting period. 
+However, you can accelerate the "Attract" phase of your inbound funnel using paid traffic (Google Search Ads). By bidding on the exact keywords your prospects are searching for, you can instantly place your content at the top of Google, bypassing the 6-month SEO waiting period.
 
 ## Automating the Inbound Machine
 
-A true inbound marketing engine runs while you sleep. A CEO in London can find your YouTube video at 2 AM, click the link in the description, download your PDF, watch your VSL, and book a discovery call on your calendar for the following Tuesday—all without you lifting a finger. 
+A true inbound marketing engine runs while you sleep. A CEO in London can find your YouTube video at 2 AM, click the link in the description, download your PDF, watch your VSL, and book a discovery call on your calendar for the following Tuesday, all without you lifting a finger.
 
-This level of automation is what separates a six-figure coaching hustle from a seven-figure coaching enterprise. 
+This level of automation is what separates a six-figure coaching hustle from a seven-figure coaching enterprise.
 
-But building this machine requires heavy lifting. You need technical SEO expertise, high-converting copywriting skills, video editing, and complex CRM automation knowledge. 
+But building this machine requires heavy lifting. You need technical SEO expertise, high-converting copywriting skills, video editing, and complex CRM automation knowledge.
 
-If you try to build this yourself, you will spend your days wrestling with Zapier integrations instead of actually coaching. 
-
-## Scale Your Inbound Strategy with Zero Financial Risk
-
-At Compel, we specialize in building these exact automated inbound machines for high-ticket coaches. We handle the technical heavy lifting, the copywriting, and the funnel architecture, allowing you to stay in your zone of genius: transforming your clients' lives. 
-
-We know the agency world is full of broken promises and expensive monthly retainers. That is why we operate on a fundamentally different model. 
-
-We use a **[zero-upfront model](/learn/zero-upfront-model)**. We build your entire inbound ecosystem for free. We write the copy, design the pages, and set up the automations. You pay absolutely nothing out of pocket. 
-
-We only get paid when the system actually works. Our compensation is tied directly to results: we only get paid when we increase your booked discovery calls by the agreed target during the performance window.
-
-Stop chasing cold leads. Start attracting clients who are already looking for you. Learn more about our risk-free, performance-based partnership on our [homepage](/).
+If you try to build this yourself, you will spend your days wrestling with Zapier integrations instead of actually coaching.

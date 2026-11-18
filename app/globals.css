@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 @theme {
-  --color-background: #0B0B0B;
-  --color-text: #F0EFE9;
-  --color-accent: #C8F135;
+  --color-background: #101715;
+  --color-text: #EEEEF0;
+  --color-accent: #B1FF00;
   --color-danger: #E56B6B;
-  --font-sans: var(--font-outfit), 'Outfit', sans-serif;
-  --font-mono: var(--font-fira-code), 'Fira Code', monospace;
-  --font-serif: 'DM Serif Display', serif;
+  --font-sans: var(--font-manrope), 'Manrope', sans-serif;
+  --font-mono: 'Consolas', monospace;
+  --font-serif: var(--font-editorial), Georgia, serif;
 }
 
 body {

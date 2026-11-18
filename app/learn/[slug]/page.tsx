@@ -134,7 +134,7 @@ export default async function ArticlePage({ params }: Props) {
   };
 
   return (
-    <div className="min-h-screen bg-white dark:bg-zinc-950">
+    <div className="public-page journal-article">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
@@ -144,7 +144,7 @@ export default async function ArticlePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      <main className="max-w-4xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+      <main id="main-content" className="studio-wrap public-content">
         <Breadcrumbs items={[
           { label: 'Home', href: '/' },
           { label: 'Learn', href: '/learn' },
@@ -170,9 +170,9 @@ export default async function ArticlePage({ params }: Props) {
             </p>
           </header>
 
-          <div 
+          <div
             className="prose prose-lg prose-blue dark:prose-invert mx-auto text-gray-800 dark:text-zinc-200 leading-relaxed mb-16"
-            dangerouslySetInnerHTML={{ __html: article.contentHtml || '' }} 
+            dangerouslySetInnerHTML={{ __html: article.contentHtml || '' }}
           />
         </article>
 

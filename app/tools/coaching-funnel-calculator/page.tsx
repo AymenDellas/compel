@@ -12,14 +12,14 @@ export const metadata: Metadata = {
     description: 'See where prospects move forward or drop out of your coaching funnel using your own numbers.',
     url: 'https://getcompel.co/tools/coaching-funnel-calculator',
     type: 'website',
-    images: [{ url: 'https://getcompel.co/og-image.png' }],
+    images: [{ url: 'https://getcompel.co/opengraph-image' }],
   },
 };
 
 export default function CoachingFunnelCalculatorPage() {
   return (
-    <div className="min-h-screen bg-background text-text">
-      <main className="mx-auto max-w-6xl px-6 pb-24 pt-36">
+    <div className="public-page">
+      <main id="main-content" className="studio-wrap public-content">
         <nav aria-label="Breadcrumb" className="mb-8 text-sm text-neutral-400">
           <Link href="/" className="hover:text-accent">Home</Link> <span aria-hidden="true">/</span> <Link href="/learn" className="hover:text-accent">Learn</Link> <span aria-hidden="true">/</span> Funnel calculator
         </nav>

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Schedule Your Call | Compel',
+  title: 'Review Request Received | Compel',
   alternates: { canonical: 'https://getcompel.co/thank-you' },
   robots: { index: false, follow: false },
 };

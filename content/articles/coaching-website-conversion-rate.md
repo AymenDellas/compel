@@ -5,11 +5,9 @@ updated: 2026-09-24
 excerpt: "Learn how to calculate your coaching website conversion rate, compare funnel steps, and use your own baseline to prioritize improvements."
 ---
 
-"Is my website actually working?" It is the most common question coaches ask when they finally start tracking their data. You might be getting 1,000 visitors a month, but if only 3 people are booking a call, you don't have a traffic problem—you have a conversion problem. To fix it, you need to understand exactly what a good coaching website conversion rate looks like.
+"Is my website actually working?" It is the most common question coaches ask when they finally start tracking their data. You might be getting 1,000 visitors a month, but if only 3 people are booking a call, you don't have a traffic problem, you have a conversion problem. To fix it, you need to understand exactly what a good coaching website conversion rate looks like.
 
-Without hard data, coaches often rely on "gut feelings" or vanity metrics like page views and social media followers. But in the business of high-ticket coaching, the only metric that matters is the percentage of visitors who turn into qualified booked appointments. If you are running paid ads, understanding your [CPA for high-ticket offers](/learn/cpa-high-ticket) relies entirely on knowing your conversion benchmarks. 
-
-At [Compel](https://getcompel.co), we use a funnel's own analytics to identify [where visitors drop off](/learn/why-funnel-leaking). The most useful baseline is your current performance by traffic source and funnel step; generic averages can be misleading.
+Without hard data, coaches often rely on "gut feelings" or vanity metrics like page views and social media followers. But in the business of high-ticket coaching, the only metric that matters is the percentage of visitors who turn into qualified booked appointments. If you are running paid ads, understanding your [CPA for high-ticket offers](/learn/cpa-high-ticket) relies entirely on knowing your conversion benchmarks.
 
 In this guide, we will break down the exact coaching conversion benchmarks by niche, explain what factors influence these numbers, and show you how to push your metrics into the top 1%.
 
@@ -23,7 +21,7 @@ In this guide, we will break down the exact coaching conversion benchmarks by ni
 
 ## The Difference Between a Website and a Funnel
 
-Before discussing specific benchmarks, we must clarify a critical distinction: standard websites convert terribly. If you send traffic to a homepage with a blog, an "About Me" section, a podcast link, and a subtle "Contact" button, your coaching website conversion rate will likely hover around **0.5% to 1.5%**. 
+Before discussing specific benchmarks, we must clarify a critical distinction: standard websites convert terribly. If you send traffic to a homepage with a blog, an "About Me" section, a podcast link, and a subtle "Contact" button, your coaching website conversion rate will likely hover around **0.5% to 1.5%**.
 
 Why? Because there is too much friction and too many choices. This phenomenon is known as the "Paradox of Choice." When you give a prospect 10 things to click, they usually click nothing and leave.
 
@@ -43,7 +41,7 @@ Conversion rates vary wildly depending on the urgency of the problem you are sol
 ### 2. Executive & Leadership Coaching
 **Benchmark Goal: 10% - 20% (Direct to calendar)**
 
-Executives, founders, and VP-level leaders have zero tolerance for fluff. They do not want to watch a 45-minute webinar or read a 10,000-word sales letter. The best funnels for this niche are short, punchy, and lead directly to a calendar booking. 
+Executives, founders, and VP-level leaders have zero tolerance for fluff. They do not want to watch a 45-minute webinar or read a 10,000-word sales letter. The best funnels for this niche are short, punchy, and lead directly to a calendar booking.
 
 *   **The Driving Factor:** Time and authority. Your conversion rate in this niche depends heavily on your perceived status. If your page features logos of Fortune 500 companies you've worked with and gets straight to the point, executives will book. Friction must be absolutely eliminated.
 
@@ -70,7 +68,7 @@ This is the broadest and most saturated coaching market. Because the barrier to 
 
 ## Factors That Dramatically Shift Your Metrics
 
-If your coaching website conversion rate is falling below these benchmarks, it is usually due to one of four critical factors. 
+If your coaching website conversion rate is falling below these benchmarks, it is usually due to one of four critical factors.
 
 ### Traffic Temperature
 Not all traffic is created equal. 
@@ -83,7 +81,7 @@ When evaluating your metrics, you must segment by traffic source. A 3% conversio
 What exactly are you asking the visitor to do? If you are asking for an email address in exchange for a free PDF, your conversion rate should be **30-50%**. If you are asking them to fill out a 20-question application and pay a $500 deposit just to get on a call, your conversion rate will drop to **1-3%** (though the quality of those leads will be incredibly high). You must balance friction with lead quality.
 
 ### Page Load Speed
-This is the silent killer of coaching page metrics. According to Google, as page load time goes from 1 second to 3 seconds, the probability of a bounce increases by 32%. If your page takes 5 seconds to load, your conversion rate is effectively cut in half before the prospect even reads a word. 
+This is the silent killer of coaching page metrics. According to Google, as page load time goes from 1 second to 3 seconds, the probability of a bounce increases by 32%. If your page takes 5 seconds to load, your conversion rate is effectively cut in half before the prospect even reads a word.
 
 ### Mobile Responsiveness
 If your page looks beautiful on a desktop but the buttons overlap on an iPhone, you are actively burning money. Upwards of 70% of social media traffic is mobile. Your mobile conversion rate should be equal to, or higher than, your desktop conversion rate.
@@ -98,10 +96,4 @@ If your numbers are low, do not panic. Conversion Rate Optimization (CRO) is a s
 
 ## Stop Settling for a 1% Conversion Rate
 
-If you are a highly skilled coach, it is a tragedy to let bad page design prevent you from helping the people who need you most. You shouldn't have to spend your weekends tweaking button colors and agonizing over conversion benchmarks. 
-
-At [Compel](https://getcompel.co), we obsess over coaching page metrics so you don't have to. We are a performance-based funnel agency that builds custom, high-converting ecosystems for coaches. 
-
-We operate entirely on a performance basis. We build your landing pages, write your copy, and optimize your funnels. You pay absolutely nothing upfront. We only win when you win—specifically, when we increase your [discovery call](/learn/coaching-discovery-call-script) bookings by the agreed target during the performance window. If your conversion rate doesn't improve, you don't pay.
-
-Stop guessing if your website is working. Partner with Compel and let us build a funnel that consistently hits the highest conversion benchmarks in the industry.
+If you are a highly skilled coach, it is a tragedy to let bad page design prevent you from helping the people who need you most. You shouldn't have to spend your weekends tweaking button colors and agonizing over conversion benchmarks.
