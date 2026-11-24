@@ -1,10 +1,10 @@
 "use client";
 import { usePathname } from 'next/navigation';
 import Script from 'next/script';
-// Private dossiers never mount the public analytics or session-recording scripts.
+import { isPrivateSitePath } from '@/lib/private-site-path';
 export function PublicSiteScripts() {
   const pathname = usePathname();
-  if (pathname === '/proposals' || pathname.startsWith('/proposals/')) return null;
+  if (isPrivateSitePath(pathname)) return null;
   return <>
         <Script id="microsoft-clarity" strategy="afterInteractive" type="text/javascript">
           {`

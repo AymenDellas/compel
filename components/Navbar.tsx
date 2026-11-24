@@ -4,10 +4,11 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import CompelLogo from './CompelLogo';
 import { ReviewButton } from './ReviewButton';
+import { isPrivateSitePath } from '@/lib/private-site-path';
 
 export const Navbar = () => {
   const pathname = usePathname();
-  if (pathname === '/proposals' || pathname.startsWith('/proposals/')) return null;
+  if (isPrivateSitePath(pathname)) return null;
   return <>
     <a href="#main-content" className="studio-skip">Skip to content</a>
     <header className={`studio-header ${pathname === '/' ? 'studio-header-home' : ''}`}>
