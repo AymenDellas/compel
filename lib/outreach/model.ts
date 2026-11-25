@@ -10,6 +10,7 @@ export type MediaKind = 'video' | 'thumbnail';
 export type OutreachPage = {
   id: string;
   name: string;
+  slug: string;
   revision: number;
   video_id: string;
   thumbnail_id: string;
@@ -29,8 +30,8 @@ export function isId(value: unknown): value is string {
   return typeof value === 'string' && /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/.test(value);
 }
 
-export function watchPath(id: string) {
-  return `/watch/${id}`;
+export function watchPath(slug: string) {
+  return `/watch/${encodeURIComponent(slug)}`;
 }
 
 export function mediaPath(id: string, kind: MediaKind, assetId: string) {

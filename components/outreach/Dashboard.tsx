@@ -7,7 +7,7 @@ import { SHARE_ORIGIN, watchPath, type DashboardPage, type OutreachPage } from '
 import { PageEditor } from './PageEditor';
 import { request, RequestError } from './client';
 
-const shareUrl = (id: string) => `${SHARE_ORIGIN}${watchPath(id)}`;
+const shareUrl = (slug: string) => `${SHARE_ORIGIN}${watchPath(slug)}`;
 
 function watchTime(milliseconds: number) {
   if (milliseconds > 0 && milliseconds < 1000) return '<1 sec';
@@ -44,6 +44,7 @@ export function Dashboard({ initialPages }: { initialPages: DashboardPage[] }) {
   const dialog = useRef<HTMLDialogElement>(null);
   const linkField = useRef<HTMLInputElement>(null);
   const busy = pending || Boolean(operation);
+  const readyPage = pages.find(page => page.id === readyLink);
   const activityDate = new Intl.DateTimeFormat('en', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZone });
 
   useEffect(() => { setTimeZone(Intl.DateTimeFormat().resolvedOptions().timeZone); }, []);
@@ -59,10 +60,10 @@ export function Dashboard({ initialPages }: { initialPages: DashboardPage[] }) {
     setError(error instanceof Error ? error.message : 'Something went wrong. Please try again.');
   }
 
-  async function copy(id: string) {
+  async function copy({ id, slug }: Pick<OutreachPage, 'id' | 'slug'>) {
     setReadyLink(id);
     try {
-      await navigator.clipboard.writeText(shareUrl(id));
+      await navigator.clipboard.writeText(shareUrl(slug));
       setCopied(id);
       setNotice('Link copied.');
     } catch {
@@ -135,11 +136,11 @@ export function Dashboard({ initialPages }: { initialPages: DashboardPage[] }) {
       <h1>Video outreach</h1>
       <p className="outreach-live" role="status">{notice}</p>
       {error && <p className="outreach-error" role="alert">{error}</p>}
-      {readyLink && <div className="outreach-share">
+      {readyPage && <div className="outreach-share">
         <label className="outreach-field">Shareable link
-          <input ref={linkField} value={shareUrl(readyLink)} readOnly onFocus={event => event.target.select()} />
+          <input ref={linkField} value={shareUrl(readyPage.slug)} readOnly onFocus={event => event.target.select()} />
         </label>
-        <button className="outreach-secondary" type="button" onClick={() => void copy(readyLink)}>
+        <button className="outreach-secondary" type="button" onClick={() => void copy(readyPage)}>
           {copied === readyLink ? <Check size={16} aria-hidden="true" /> : <Link2 size={16} aria-hidden="true" />}
           {copied === readyLink ? 'Copied' : 'Copy link'}
         </button>
@@ -161,7 +162,7 @@ export function Dashboard({ initialPages }: { initialPages: DashboardPage[] }) {
                 {metrics(page, activityDate).map(([label, value]) => <div key={String(label)}><dt>{label}</dt><dd>{value}</dd></div>)}
               </dl>
               <div className="outreach-page-actions" role="group" aria-label={`Actions for ${page.name}`}>
-                <button className="outreach-action outreach-copy" type="button" onClick={() => void copy(page.id)}><Link2 size={15} aria-hidden="true" /> Copy link</button>
+                <button className="outreach-action outreach-copy" type="button" onClick={() => void copy(page)}><Link2 size={15} aria-hidden="true" /> Copy link</button>
                 <a className="outreach-action" href={`/outreach/preview/${page.id}`} target="_blank" rel="noopener noreferrer"><ArrowUpRight size={15} aria-hidden="true" /> Preview</a>
                 <button className="outreach-action" type="button" disabled={busy} onClick={() => {
                   setNotice('');

@@ -19,7 +19,7 @@
   line-height: 1.01;
   overflow-wrap: anywhere;
 }
-.watch-heading em { font-family: var(--font-editorial), Georgia, serif; font-weight: 400; letter-spacing: -.035em; }
+.watch-heading em { color: var(--watch-accent); font-family: var(--font-editorial), Georgia, serif; font-weight: 400; letter-spacing: -.035em; }
 .watch-stage {
   position: relative;
   isolation: isolate;

@@ -8,19 +8,27 @@ let database: ReturnType<typeof neon<false, false>>;
 const sql = () => database ??= neon(process.env.OUTREACH_DATABASE_URL!);
 
 export async function getPage(id: string) {
-  const [page] = await sql()`SELECT * FROM outreach_pages WHERE id = ${id}`;
+  const [page] = await sql()`SELECT p.*, l.slug FROM outreach_pages p
+    JOIN outreach_page_links l ON l.page_id = p.id WHERE p.id = ${id}`;
+  return page as OutreachPage | undefined;
+}
+
+export async function getPageBySlug(slug: string) {
+  const [page] = await sql()`SELECT p.*, l.slug FROM outreach_page_links l
+    JOIN outreach_pages p ON p.id = l.page_id WHERE l.slug = ${slug}`;
   return page as OutreachPage | undefined;
 }
 
 export async function listPages() {
   const pages = await sql()`
-    SELECT p.*, count(a.visit_id)::int AS visits,
+    SELECT p.*, l.slug, count(a.visit_id)::int AS visits,
       coalesce(sum(a.plays) FILTER (WHERE a.video_id = p.video_id), 0)::float8 AS plays,
       coalesce(sum(a.watched_ms) FILTER (WHERE a.video_id = p.video_id), 0)::float8 AS watched_ms,
       coalesce(max(a.completion) FILTER (WHERE a.video_id = p.video_id), 0)::int AS completion,
       max(a.last_activity) AS last_activity
-    FROM outreach_pages p LEFT JOIN outreach_activity a ON a.page_id = p.id
-    GROUP BY p.id ORDER BY p.created_at DESC`;
+    FROM outreach_pages p JOIN outreach_page_links l ON l.page_id = p.id
+    LEFT JOIN outreach_activity a ON a.page_id = p.id
+    GROUP BY p.id, l.slug ORDER BY p.created_at DESC`;
   return pages as DashboardPage[];
 }
 
@@ -58,7 +66,10 @@ export async function savePage({ id, name, videoId, thumbnailId, revision }: Pag
           VALUES (${id}, ${name}, ${videoId}, ${thumbnailId}) ON CONFLICT (id) DO NOTHING RETURNING *`
       : await sql()`UPDATE outreach_pages SET name = ${name}, video_id = ${videoId}, thumbnail_id = ${thumbnailId},
           revision = revision + 1, updated_at = now() WHERE id = ${id} AND revision = ${revision} RETURNING *`;
-    if (page) return page as OutreachPage;
+    if (page) {
+      const link = current ?? await getPage(id);
+      if (link) return { ...page, slug: link.slug } as OutreachPage;
+    }
   } catch (error) {
     const code = (error as { code?: string }).code;
     if (code !== 'P0001' && code !== '23505' && code !== '23503') throw error;
