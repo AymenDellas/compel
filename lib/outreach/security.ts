@@ -9,13 +9,31 @@ export const sessionCookie = secure ? '__Host-compel-outreach' : 'compel-outreac
 export const sessionAge = 8 * 60 * 60;
 export const sessionOptions = { httpOnly: true, secure, sameSite: 'strict' as const, path: '/' };
 
+const requiredSettings = [
+  'OUTREACH_DATABASE_URL',
+  'OUTREACH_R2_BUCKET',
+  'OUTREACH_R2_ACCESS_KEY_ID',
+  'OUTREACH_R2_SECRET_ACCESS_KEY',
+] as const;
+let reportedConfigurationIssue = false;
+
 export function configured() {
+  const issues = requiredSettings.filter(key => !process.env[key]).map(key => `Missing ${key}`);
+  if (!process.env.OUTREACH_R2_ACCOUNT_ID && !process.env.OUTREACH_STORAGE_ENDPOINT) {
+    issues.push('Missing OUTREACH_R2_ACCOUNT_ID');
+  }
   const passwordLength = process.env.OUTREACH_ADMIN_PASSWORD?.length ?? 0;
-  return Boolean(process.env.OUTREACH_DATABASE_URL && process.env.OUTREACH_R2_BUCKET
-    && (process.env.OUTREACH_R2_ACCOUNT_ID || process.env.OUTREACH_STORAGE_ENDPOINT)
-    && process.env.OUTREACH_R2_ACCESS_KEY_ID && process.env.OUTREACH_R2_SECRET_ACCESS_KEY
-    && passwordLength >= 24 && passwordLength <= 256
-    && (process.env.OUTREACH_SIGNING_SECRET?.length ?? 0) >= 32);
+  if (passwordLength < 24 || passwordLength > 256) {
+    issues.push('OUTREACH_ADMIN_PASSWORD must be 24–256 characters');
+  }
+  if ((process.env.OUTREACH_SIGNING_SECRET?.length ?? 0) < 32) {
+    issues.push('OUTREACH_SIGNING_SECRET must be at least 32 characters');
+  }
+  if (issues.length && !reportedConfigurationIssue) {
+    console.warn('[outreach] Configuration incomplete:', issues.join('. '));
+    reportedConfigurationIssue = true;
+  }
+  return issues.length === 0;
 }
 
 export function sameSecret(left: string, right: string) {
