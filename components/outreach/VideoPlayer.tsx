@@ -15,13 +15,19 @@ function coverage(video: HTMLVideoElement) {
   return fraction >= 0.999 ? 100 : Math.min(99, Math.floor(fraction * 100));
 }
 
-export function VideoPlayer({ videoUrl, thumbnailUrl, ticket }: { videoUrl: string; thumbnailUrl: string; ticket?: string }) {
+export function VideoPlayer({ preparedVideo, videoUrl, thumbnailUrl, ticket }: {
+  preparedVideo: { url: string; expiresAt: number };
+  videoUrl: string;
+  thumbnailUrl: string;
+  ticket?: string;
+}) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const stats = useRef<Stats>({ plays: 0, watchedMs: 0, completion: 0 });
   const sample = useRef<Sample | null>(null);
   const active = useRef(false);
   const replay = useRef(false);
   const attempt = useRef(0);
+  const playbackRequested = useRef(false);
   const resumeAt = useRef(0);
   const restoreFocus = useRef(false);
   const lastSent = useRef('');
@@ -78,18 +84,25 @@ export function VideoPlayer({ videoUrl, thumbnailUrl, ticket }: { videoUrl: stri
     if (flush && stats.current.plays) send();
   }
 
-  function play() {
-    const video = videoRef.current;
-    if (!video) return;
+  function startPlayback(video: HTMLVideoElement, refresh: boolean) {
     setState('loading');
-    restoreFocus.current = true;
-    video.src = `${videoUrl}&attempt=${++attempt.current}`;
-    void video.play().catch(() => {
-      if (video.error) return;
+    if (refresh) video.src = `${videoUrl}&attempt=${++attempt.current}`;
+    const currentAttempt = attempt.current;
+    void video.play().catch(error => {
+      if (currentAttempt !== attempt.current || video.error || error?.name === 'AbortError') return;
       // If playback needs another user gesture, expose the native play control.
       setState('playing');
       requestAnimationFrame(() => video.focus());
     });
+  }
+
+  function play() {
+    const video = videoRef.current;
+    if (!video) return;
+    playbackRequested.current = true;
+    restoreFocus.current = true;
+    const expiring = Date.now() + 10_000 >= preparedVideo.expiresAt;
+    startPlayback(video, Boolean(video.error) || state === 'error' || expiring);
   }
 
   function playing() {
@@ -109,8 +122,14 @@ export function VideoPlayer({ videoUrl, thumbnailUrl, ticket }: { videoUrl: stri
 
   function failed() {
     const video = videoRef.current;
-    if (video && Number.isFinite(video.currentTime) && video.currentTime > 0) resumeAt.current = video.currentTime;
+    if (!video || !playbackRequested.current) return;
+    if (Number.isFinite(video.currentTime) && video.currentTime > 0) resumeAt.current = video.currentTime;
     stop(true);
+    // A rejected prepared link gets one fresh attempt through the page's media route.
+    if (!attempt.current && !stats.current.plays) {
+      startPlayback(video, true);
+      return;
+    }
     setState('error');
   }
 
@@ -120,7 +139,7 @@ export function VideoPlayer({ videoUrl, thumbnailUrl, ticket }: { videoUrl: stri
       // eslint-disable-next-line @next/next/no-img-element
       <img className="watch-poster" src={thumbnailUrl} alt="" onError={() => setHasThumbnail(false)} />
     )}
-    <video ref={videoRef} controls={state === 'playing'} preload="none" playsInline aria-label="Personalized video"
+    <video ref={videoRef} src={preparedVideo.url} controls={state === 'playing'} preload="metadata" playsInline aria-label="Personalized video"
       tabIndex={state === 'playing' ? 0 : -1} onPlaying={playing} onTimeUpdate={capture} onRateChange={capture}
       onPause={() => stop(true)} onWaiting={() => stop(false)} onSeeking={() => { sample.current = null; }}
       onSeeked={capture} onEnded={() => { replay.current = true; stop(true); }} onError={failed}

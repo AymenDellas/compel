@@ -12,7 +12,8 @@ export function GET(request: NextRequest, { params }: { params: Promise<{ id: st
     const asset = kind === 'video' ? page?.video_id : page?.thumbnail_id;
     if (!asset || asset !== request.nextUrl.searchParams.get('asset')) throw new OutreachError(404, 'Media unavailable.');
     const method = request.method === 'HEAD' ? 'HEAD' : 'GET';
-    return new Response(null, { status: 307, headers: { Location: await signRead(asset, method) } });
+    const { url } = await signRead(asset, method);
+    return new Response(null, { status: 307, headers: { Location: url } });
   });
 }
 

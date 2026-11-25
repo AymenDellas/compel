@@ -19,7 +19,7 @@ Open `/outreach` to publish and manage prospect videos. Enter a name, select an 
 ]
 ```
 
-- Video files upload and play directly from the private R2 bucket. Uploads accept MP4s up to 500 MiB. H.264 video with AAC audio and a fast-start MP4 export gives the broadest browser support. The browser generates and sizes thumbnails locally, and video bytes start loading when the viewer presses play.
+- Video files upload and play directly from the private R2 bucket. Uploads accept MP4s up to 500 MiB. H.264 video with AAC audio and a fast-start MP4 export gives the broadest browser support. The browser generates and sizes thumbnails locally. The watch page prepares a short-lived playback link and asks the browser to preload metadata. Playback starts when the viewer presses play.
 - A visit is counted when a viewer opens the page in a visible browser tab. Plays include starts and replays after the end. Watch time measures elapsed playback time. Best completion measures the largest share of the video watched in one visit and excludes skipped sections. Visits and last activity span the lifetime of the link. Video metrics reflect the current upload.
 - Anyone holding a watch link can open it. Replacing or deleting a video stops new playback through the previous media endpoint immediately. Previously issued storage links can continue to work for up to 15 minutes. The daily Vercel job deletes retired and expired uploads and prunes old sign-in attempts.
 - Provider references are the [Neon serverless driver](https://neon.com/docs/serverless/serverless-driver), [R2 presigned URLs](https://developers.cloudflare.com/r2/api/s3/presigned-urls/), and [R2 CORS configuration](https://developers.cloudflare.com/r2/buckets/cors/).

@@ -5,6 +5,7 @@ import { OutreachError } from './http';
 
 export type Upload = { id: string; kind: MediaKind; bytes: number };
 const cacheControl = 'private, no-store';
+const readExpirySeconds = 900;
 let client: AwsClient;
 
 function storage() {
@@ -47,9 +48,10 @@ export async function verifyUpload(upload: Upload) {
 
 export async function signRead(id: string, method: 'GET' | 'HEAD') {
   const url = objectUrl(id);
-  url.searchParams.set('X-Amz-Expires', '900');
+  url.searchParams.set('X-Amz-Expires', String(readExpirySeconds));
+  const expiresAt = Date.now() + readExpirySeconds * 1000;
   const signed = await storage().sign(url, { method, aws: { signQuery: true } });
-  return signed.url;
+  return { url: signed.url, expiresAt };
 }
 
 export async function removeAsset(id: string) {
