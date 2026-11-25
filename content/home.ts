@@ -1,37 +1,90 @@
-/** Homepage copy: a practical explanation for an established coaching business. */
 export const home = {
   hero: {
-    headline: ['Your reputation brings them here.', 'Give them a clear way to book.'],
-    description: ["Before someone books, they need to know ", { highlight: 'whether your coaching fits' }, ", what the conversation is for and what happens next. Your website can give them those answers."],
-    audience: 'For established executive, leadership and business coaches.',
+    headline: 'Your site books more discovery calls.',
+    payment: 'Or you pay us $0.',
+    description: '“I just gave someone your name.” If you coach executives or business owners, you know that message. We rebuild what that person sees next, from the page they open to the email they get before the call.',
+    terms: 'Our guarantee on eligible rebuilds. We agree on your starting numbers and which bookings count before we begin.',
   },
-  opportunity: {
-    paragraph: ["A referral, a useful LinkedIn post or a good conversation can earn someone's interest before they reach your website. From there, your page needs to ", { strong: 'carry the conversation forward' }, ": explain who you help, what working with you involves and how to get in touch. When those answers are easy to find, ", { highlight: 'taking the next step asks less' }, " of the person who's already considering you."],
+  problem: {
+    heading: 'Your client explained your value in one sentence.',
+    intro: 'Say a client recommends you to a new director. ',
+    referral: '“Call her. She helped me manage the people I used to work alongside.”',
+    question: 'That director opens your site with a very particular problem in mind. How far do they have to read before they ',
+    recognition: 'recognise the coach their colleague just described?',
+    calendar: 'Say your page gets that right. They open your calendar and see “Intro call · 30 min.” They know when you’re free. They’re still wondering, ',
+    thought: '“What are we actually going to talk about?”',
   },
-  evidence: {
-    heading: 'Make booking the easy part.',
-    introduction: ["When someone is ready to speak with you, they should know what they're booking, which details you need and what happens next. Every question and instruction should ", { strong: 'help them move forward.' }],
-    finding: ["In a study with ", { strong: '65 people' }, ", improved versions of three website forms took less time to finish and were more often completed correctly on the first try. It's a useful reminder: ", { highlight: 'make the next step easy to understand and finish.' }],
-  },
-  benefits: {
-    heading: 'Start the conversation with the right context.',
-    paragraph: ["A clear page helps people recognise whether your coaching is relevant. The booking questions give you useful context. Confirmation and preparation emails explain what the conversation is for and what to bring. By the time you meet, you can spend more of the call on ", { highlight: 'their situation and whether you can help.' }],
-  },
-  service: {
-    heading: 'Your page, booking and follow-up, handled together.',
-    description: ["At Compel, we write and build these parts around ", { strong: 'your offer, your clients and the way you work' }, ", so the experience stays clear from the first visit to the conversation."],
-    elements: [
-      { title: 'The coaching page', description: ["We explain who you help, what working with you involves and why someone should consider your offer. Your experience and client evidence appear where they ", { strong: 'help people make a decision.' }] },
-      { title: 'The booking process', description: ["We clarify who the conversation is for, ask for the information you need and set up a straightforward route to booking. ", { strong: 'Each step has a reason to be there.' }] },
-      { title: 'The emails around it', description: ["We write the confirmations, preparation, reminders and follow-up your business needs. People know what to expect, and you spend ", { strong: 'less time explaining the same details.' }] },
+  solution: {
+    heading: 'Show them what Tuesday at 10:30 is for.',
+    description: 'Tell that director to bring one conversation they’re dreading with a former teammate. Now they have a reason to pick a time. When your email arrives on Monday, you have something worth reminding them about.',
+    caption: 'What that could look like on your site',
+    steps: ['On the page', 'On the calendar', 'In their inbox'],
+    example: {
+      practice: 'Executive coaching',
+      offer: 'Managing the people who used to be your peers?',
+      action: 'Talk through a team conversation',
+      duration: 'One team conversation · 30 min',
+      time: 'Tuesday at 10:30',
+      zone: 'Shown in your time zone',
+      emailLabel: 'A note before we meet',
+      confirmation: 'See you tomorrow.',
+      prep: 'Bring the conversation you’ve been putting off. We can start there.',
+    },
+    evidence: [
+      { figure: '81%', description: 'of visits in Unbounce’s commercial and professional services benchmark happened on mobile. Your calendar needs to make sense on the phone where someone opened the referral.' },
+      { figure: '25% and 33%', description: 'less time to finish two redesigned forms in a 65-person study. Across all three forms tested, more people got through on the first try.' },
     ],
   },
-  approach: {
-    heading: 'You know the business. We handle the build.',
-    description: ["We start by looking at your current page, booking process and emails. Then we agree what needs improving and what the work will include. You give us the context and feedback; we take care of ", { highlight: 'the writing, design and implementation' }, ", and review the finished experience with you."],
+  framework: {
+    lead: 'That’s why we built',
+    name: 'P.A.C.E.',
+    description: 'You might write your page one week, set up your calendar another, and leave the confirmation email on its default. Your referral reads them one after the other. To them, it’s all one conversation. We write it that way.',
+    indexCaption: 'Choose a stage to see what we’d make for that coach.',
+    stages: [
+      {
+        name: 'Position', deliverable: 'Offer brief',
+        explanation: 'We find the sentence a client would use to recommend you, then build the offer around the person who needs to hear it.',
+        sample: {
+          title: 'For the director who got promoted on Friday and has to lead their old team on Monday.',
+          detailLabel: 'What brings them in',
+          detail: 'Their first performance review with someone who still thinks of them as a peer.',
+        },
+      },
+      {
+        name: 'Advance', deliverable: 'Landing page',
+        explanation: 'We write the page so a referral can recognise their situation and see what they could work on with you.',
+        sample: {
+          title: 'How do you give feedback to someone who was your equal last week?',
+          detailLabel: 'First conversation',
+          detail: 'Bring the feedback you’ve been sitting on. We’ll talk through what you want them to hear and how you might open.',
+        },
+      },
+      {
+        name: 'Confirm', deliverable: 'Booking page',
+        explanation: 'We name the appointment, connect your calendar, and keep the questions you’ll actually use to prepare.',
+        sample: {
+          title: 'Talk through one team conversation.',
+          detailLabel: 'One question before we meet',
+          detail: 'Who do you need to speak with, and what’s making the conversation difficult?',
+          context: '30 minutes · Video call',
+        },
+      },
+      {
+        name: 'Engage', deliverable: 'Follow-up email',
+        explanation: 'We give people who are still thinking it over a way back. Once they book, we pick up the thread in their inbox.',
+        sample: {
+          title: 'For our call on Tuesday',
+          detailLabel: 'Hi Alex,',
+          detail: 'You mentioned you need to give feedback to a former teammate. Bring the first sentence you’d like to say, even if it sounds rough. We’ll work on it together.',
+          context: 'See you at 10:30.',
+        },
+      },
+    ],
+    termsHeading: 'How the $0 guarantee works',
+    terms: 'If the full rebuild is a fit, we agree in writing which discovery calls count, how many you book now, and when we’ll compare. You pay nothing upfront. If bookings don’t beat that number under those terms, you owe us nothing for the rebuild.',
   },
   closing: {
-    headline: ['Get a second opinion on your website.', 'And a clear idea of what to improve.'],
-    description: ["Send us your website and a little about your coaching. We'll look at the page, the route to booking and what happens afterwards, then ", { strong: "reply by email with where we'd start." }],
+    headline: 'Send us the link you’d give a referral.',
+    description: 'We’ll follow it from the first sentence to the calendar and email you the first thing we’d change. The review is free. If we think a rebuild would help, we’ll tell you why.',
   },
 } as const;

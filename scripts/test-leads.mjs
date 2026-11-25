@@ -27,6 +27,25 @@ function loadRoute(notion = false) {
 
 const review = { source: 'funnel-review', name: 'Example Coach', email: 'coach@example.com', url: 'https://example.com', offer: 'Executive coaching for founders', context: 'Referrals and LinkedIn; 4 enquiries last month.' };
 
+test('website-only reviews are saved without inventing contact details', async () => {
+  const { post, calls } = loadRoute(true);
+  const response = await post({ source: 'funnel-review', url: 'example.com/coaching' });
+  assert.equal(response.status, 201);
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].properties.URL.url, 'https://example.com/coaching');
+  assert.equal(calls[0].properties.Name.title[0].text.content, 'example.com');
+  assert.equal(calls[0].properties.Email, undefined);
+  assert.equal(calls[0].children, undefined);
+});
+
+test('website-only reviews reject malformed and non-web addresses', async () => {
+  const { post, calls } = loadRoute(true);
+  for (const url of ['', 'not-a-website', 'javascript:alert(1)', 'https://a@example.com', 'ftp://example.com', null]) {
+    assert.equal((await post({ source: 'funnel-review', url })).status, 400);
+  }
+  assert.equal(calls.length, 0);
+});
+
 test('a review reaches the existing Notion database with its full context', async () => {
   const { post, calls } = loadRoute(true);
   assert.equal((await post(review)).status, 201);

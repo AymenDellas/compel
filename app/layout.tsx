@@ -1,23 +1,25 @@
 import type { Metadata } from 'next';
 import localFont from 'next/font/local';
+import { home } from '@/content/home';
 import './globals.css';
 import './studio.css';
 
 const manrope = localFont({ src: './fonts/Manrope-Variable.ttf', variable: '--font-manrope', weight: '200 800', display: 'swap' });
 const editorial = localFont({ src: './fonts/InstrumentSerif-Italic.ttf', variable: '--font-editorial', weight: '400', style: 'italic', display: 'swap' });
 
+const title = 'Compel | Guaranteed More Booked Calls for Coaches';
+const description = 'A client gives someone your name. Compel rebuilds the page they read, the calendar they book through, and the email that follows. Pay only if bookings increase under agreed terms.';
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://getcompel.co'),
-  title: 'Compel | A Conversion Studio for Established Coaches',
-  description:
-    'What helps an interested prospect take the next step? Clarity about your coaching, the conversation and what happens after they book. Explore the experience with Compel.',
+  title,
+  description,
   alternates: {
     canonical: 'https://getcompel.co/',
   },
   openGraph: {
-    title: 'Compel | A Conversion Studio for Established Coaches',
-    description:
-      'Your reputation brings them here. Give them a clear way to book. A practical look at the steps between interest and a coaching conversation.',
+    title,
+    description,
     type: 'website',
     url: 'https://getcompel.co/',
     siteName: 'Compel',
@@ -27,15 +29,14 @@ export const metadata: Metadata = {
         url: 'https://getcompel.co/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Compel. From interest to conversation.',
+        alt: `Compel. ${home.hero.headline} ${home.hero.payment}`,
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Compel | A Conversion Studio for Established Coaches',
-    description:
-      'A clear coaching page, a straightforward booking process and useful follow-up emails, written and built around your business.',
+    title,
+    description,
     images: ['https://getcompel.co/opengraph-image'],
   },
   icons: {

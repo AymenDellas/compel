@@ -11,9 +11,23 @@ export async function POST(request: Request) {
   try {
     const data = await request.json();
 
-    // New review requests use the same storage integration as existing lead forms.
-    // Keep older sources and payloads compatible; validate the new fields here too.
-    if (data.source === 'funnel-review') {
+    const isReview = data.source === 'funnel-review';
+    const websiteOnlyReview = isReview && data.name === undefined && data.email === undefined && data.offer === undefined && data.context === undefined;
+    let reviewHostname = '';
+
+    if (websiteOnlyReview) {
+      try {
+        if (typeof data.url !== 'string' || data.url.length > 2000) throw new Error();
+        const input = data.url.trim();
+        if (!input || /[\s\\\u0000-\u001f\u007f]/.test(input)) throw new Error();
+        const website = new URL(/^[a-z][a-z\d+.-]*:\/\//i.test(input) ? input : `https://${input}`);
+        if (!['https:', 'http:'].includes(website.protocol) || !website.hostname.includes('.') || website.username || website.password || website.href.length > 2000) throw new Error();
+        data.url = website.href;
+        reviewHostname = website.hostname;
+      } catch {
+        return NextResponse.json({ error: 'Enter a website address such as yourpractice.com.' }, { status: 400 });
+      }
+    } else if (isReview) {
       if (typeof data.name !== 'string' || !data.name.trim() || data.name.length > 150 || typeof data.email !== 'string' || data.email.length > 254) {
         return NextResponse.json({ error: 'Please provide your name and email.' }, { status: 400 });
       }
@@ -28,23 +42,25 @@ export async function POST(request: Request) {
       }
     }
     
-    if (!data.name) {
+    if (!websiteOnlyReview && !data.name) {
       return NextResponse.json({ error: "Name is required" }, { status: 400 });
     }
 
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!data.email || !emailRegex.test(data.email)) {
+    if (!websiteOnlyReview && (!data.email || !emailRegex.test(data.email))) {
       return NextResponse.json({ error: "A valid email is required" }, { status: 400 });
     }
 
     // --- NOTION INTEGRATION ---
     if (notion && databaseId) {
       const properties: any = {
-        "Name": { title: [{ text: { content: data.name } }] },
-        "Email": { email: data.email || "" },
+        "Name": { title: [{ text: { content: websiteOnlyReview ? reviewHostname : data.name } }] },
         "Source": { rich_text: [{ text: { content: data.source || "website" } }] },
       };
 
+      if (!websiteOnlyReview) {
+        properties["Email"] = { email: data.email };
+      }
       if (data.url) {
         properties["URL"] = { url: data.url };
       }
@@ -56,7 +72,7 @@ export async function POST(request: Request) {
         parent: { database_id: databaseId },
         properties,
         // Page content avoids requiring new columns in the existing Notion database.
-        ...(data.source === 'funnel-review' ? {
+        ...(isReview && !websiteOnlyReview ? {
           children: [
             { object: 'block' as const, paragraph: { rich_text: [{ type: 'text' as const, text: { content: 'Coaching offer and clients: ' } }, { type: 'text' as const, text: { content: data.offer } }] } },
             ...(data.context ? [{ object: 'block' as const, paragraph: { rich_text: [{ type: 'text' as const, text: { content: 'Existing interest and baseline: ' } }, { type: 'text' as const, text: { content: data.context } }] } }] : []),
@@ -95,7 +111,7 @@ export async function POST(request: Request) {
     leads.push(lead);
     fs.writeFileSync(filePath, JSON.stringify(leads, null, 2), "utf-8");
 
-    return NextResponse.json({ success: true, lead }, { status: 201 });
+    return NextResponse.json(websiteOnlyReview ? { success: true } : { success: true, lead }, { status: 201 });
 
   } catch (error: any) {
     console.error("Error saving lead:", error);
